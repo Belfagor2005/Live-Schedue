@@ -67,8 +67,8 @@
     "home": "ATP Tennis",
     "away": "",
     "channels": [
-      "Sky Sports Tennis",
       "Sky Sports Main Event",
+      "Sky Sports Tennis",
       "Sky Sports Ultra HDR",
       "Sky Sports+"
     ],
@@ -116,8 +116,6 @@
     "away": "",
     "channels": [
       "Sky Sports Tennis",
-      "Sky Sports Main Event",
-      "Sky Sports Ultra HDR",
       "Sky Sports+"
     ],
     "event_url": ""
