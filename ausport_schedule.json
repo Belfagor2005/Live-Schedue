@@ -1,35 +1,8 @@
 [
   {
     "competition": "ATP Barcelona",
-    "home": "Alex De Minaur",
-    "away": "Sebastian Ofner",
-    "vietnam_time": "16:00",
-    "vietnam_date": "15/04/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 1",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Munich",
-    "home": "Tallon Griekspoor",
-    "away": "Denis Shapovalov",
-    "vietnam_time": "16:00",
-    "vietnam_date": "15/04/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 2",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Munich",
-    "home": "Fabian Marozsan",
-    "away": "Stefanos Tsitsipas",
-    "vietnam_time": "20:30",
-    "vietnam_date": "15/04/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 2",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Barcelona",
-    "home": "Carlos Alcaraz Garfia",
-    "away": "Otto Virtanen",
+    "home": "Rafael Jodar",
+    "away": "Camilo Ugo Carabelli",
     "vietnam_time": "21:00",
     "vietnam_date": "15/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
@@ -37,11 +10,11 @@
   },
   {
     "competition": "WTA Stuttgart",
-    "home": "Alexandra Eala",
-    "away": "Leylah Annie Fernandez",
+    "home": "Jelena Ostapenko",
+    "away": "Mirra Andreeva",
     "vietnam_time": "22:00",
     "vietnam_date": "15/04/2026",
-    "channels": "beIN Sports Connect | Stan Sport",
+    "channels": "beIN Sports Connect",
     "sport": "Tennis"
   },
   {
@@ -60,6 +33,15 @@
     "vietnam_time": "16:00",
     "vietnam_date": "16/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Rouen",
+    "home": "",
+    "away": "",
+    "vietnam_time": "16:30",
+    "vietnam_date": "16/04/2026",
+    "channels": "beIN Sports Connect",
     "sport": "Tennis"
   },
   {
@@ -81,12 +63,93 @@
     "sport": "Tennis"
   },
   {
+    "competition": "WTA Stuttgart",
+    "home": "",
+    "away": "",
+    "vietnam_time": "22:00",
+    "vietnam_date": "16/04/2026",
+    "channels": "beIN Sports Connect",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "Europa Conference League",
+    "home": "AZ Alkmaar",
+    "away": "Shakhtar Donetsk",
+    "vietnam_time": "23:45",
+    "vietnam_date": "16/04/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "Europa League",
+    "home": "Celta Vigo",
+    "away": "Freiburg",
+    "vietnam_time": "23:45",
+    "vietnam_date": "16/04/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
+  },
+  {
     "competition": "ATP Barcelona",
     "home": "",
     "away": "",
-    "vietnam_time": "21:00",
-    "vietnam_date": "16/04/2026",
+    "vietnam_time": "00:30",
+    "vietnam_date": "17/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
+  },
+  {
+    "competition": "Europa Conference League",
+    "home": "AEK Athens FC",
+    "away": "Rayo Vallecano",
+    "vietnam_time": "02:00",
+    "vietnam_date": "17/04/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "Europa Conference League",
+    "home": "Fiorentina",
+    "away": "Crystal Palace",
+    "vietnam_time": "02:00",
+    "vietnam_date": "17/04/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "Europa Conference League",
+    "home": "Strasbourg",
+    "away": "Mainz",
+    "vietnam_time": "02:00",
+    "vietnam_date": "17/04/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "Europa League",
+    "home": "Aston Villa",
+    "away": "Bologna",
+    "vietnam_time": "02:00",
+    "vietnam_date": "17/04/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "Europa League",
+    "home": "Real Betis",
+    "away": "Braga",
+    "vietnam_time": "02:00",
+    "vietnam_date": "17/04/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "Europa League",
+    "home": "Nottingham",
+    "away": "FC Porto",
+    "vietnam_time": "02:00",
+    "vietnam_date": "17/04/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
   }
 ]
