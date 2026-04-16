@@ -1,10 +1,55 @@
 [
   {
+    "competition": "ATP Munich",
+    "home": "Botic Van De Zandschulp",
+    "away": "Francisco Cerundolo",
+    "vietnam_time": "16:00",
+    "vietnam_date": "17/04/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Rouen",
+    "home": "Dominika Salkova",
+    "away": "Tatjana Maria",
+    "vietnam_time": "16:30",
+    "vietnam_date": "17/04/2026",
+    "channels": "beIN Sports Connect",
+    "sport": "Tennis"
+  },
+  {
     "competition": "WTA Stuttgart",
-    "home": "",
-    "away": "",
+    "home": "Karolina Muchova",
+    "away": "Elise Mertens",
+    "vietnam_time": "17:30",
+    "vietnam_date": "17/04/2026",
+    "channels": "beIN Sports Connect | Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Barcelona",
+    "home": "Lorenzo Sonego",
+    "away": "Andrey Rublev",
+    "vietnam_time": "18:30",
+    "vietnam_date": "17/04/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Munich",
+    "home": "Denis Shapovalov",
+    "away": "Fabian Marozsan",
+    "vietnam_time": "20:30",
+    "vietnam_date": "17/04/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Stuttgart",
+    "home": "Elena Rybakina",
+    "away": "Diana Shnaider",
     "vietnam_time": "22:00",
-    "vietnam_date": "16/04/2026",
+    "vietnam_date": "17/04/2026",
     "channels": "beIN Sports Connect",
     "sport": "Tennis"
   },
@@ -13,7 +58,7 @@
     "home": "AZ Alkmaar",
     "away": "Shakhtar Donetsk",
     "vietnam_time": "23:45",
-    "vietnam_date": "16/04/2026",
+    "vietnam_date": "17/04/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -22,16 +67,16 @@
     "home": "Celta Vigo",
     "away": "Freiburg",
     "vietnam_time": "23:45",
-    "vietnam_date": "16/04/2026",
+    "vietnam_date": "17/04/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
   {
     "competition": "ATP Barcelona",
-    "home": "",
-    "away": "",
+    "home": "Arthur Fils",
+    "away": "Brandon Nakashima",
     "vietnam_time": "00:30",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
@@ -40,7 +85,7 @@
     "home": "AEK Athens FC",
     "away": "Rayo Vallecano",
     "vietnam_time": "02:00",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -49,7 +94,7 @@
     "home": "Fiorentina",
     "away": "Crystal Palace",
     "vietnam_time": "02:00",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -58,7 +103,7 @@
     "home": "Strasbourg",
     "away": "Mainz",
     "vietnam_time": "02:00",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -67,7 +112,7 @@
     "home": "Aston Villa",
     "away": "Bologna",
     "vietnam_time": "02:00",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -76,7 +121,7 @@
     "home": "Real Betis",
     "away": "Braga",
     "vietnam_time": "02:00",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -85,7 +130,7 @@
     "home": "Nottingham",
     "away": "FC Porto",
     "vietnam_time": "02:00",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -94,7 +139,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "16:00",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
@@ -103,7 +148,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "16:00",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
@@ -112,7 +157,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "17:30",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "beIN Sports Connect | Stan Sport",
     "sport": "Tennis"
   },
@@ -121,7 +166,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "18:30",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "beIN Sports Connect | Stan Sport",
     "sport": "Tennis"
   },
@@ -130,7 +175,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "20:00",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
@@ -139,26 +184,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "21:00",
-    "vietnam_date": "17/04/2026",
+    "vietnam_date": "18/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Stuttgart",
-    "home": "",
-    "away": "",
-    "vietnam_time": "22:00",
-    "vietnam_date": "17/04/2026",
-    "channels": "beIN Sports Connect",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Rouen",
-    "home": "",
-    "away": "",
-    "vietnam_time": "22:30",
-    "vietnam_date": "17/04/2026",
-    "channels": "beIN Sports Connect",
     "sport": "Tennis"
   }
 ]
