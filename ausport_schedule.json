@@ -1,19 +1,55 @@
 [
   {
     "competition": "ATP Madrid",
-    "home": "",
-    "away": "",
+    "home": "Jenson Brooksby",
+    "away": "Emilio Nava",
+    "vietnam_time": "16:00",
+    "vietnam_date": "23/04/2026",
+    "channels": "beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Madrid",
+    "home": "Zizou Bergs",
+    "away": "Marin Cilic",
+    "vietnam_time": "16:00",
+    "vietnam_date": "23/04/2026",
+    "channels": "beIN Sports Connect",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Madrid",
+    "home": "Magdalena Frech",
+    "away": "Katerina Siniakova",
+    "vietnam_time": "16:00",
+    "vietnam_date": "23/04/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Madrid",
+    "home": "Panna Udvardy",
+    "away": "Kimberly Birrell",
+    "vietnam_time": "16:00",
+    "vietnam_date": "23/04/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Madrid",
+    "home": "Alejandro Tabilo",
+    "away": "Valentin Royer",
     "vietnam_time": "22:00",
-    "vietnam_date": "22/04/2026",
+    "vietnam_date": "23/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
     "competition": "WTA Madrid",
-    "home": "",
-    "away": "",
-    "vietnam_time": "22:00",
-    "vietnam_date": "22/04/2026",
+    "home": "Taylor Townsend",
+    "away": "Katie Boulter",
+    "vietnam_time": "22:30",
+    "vietnam_date": "23/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
@@ -22,7 +58,7 @@
     "home": "Burnley",
     "away": "Manchester City",
     "vietnam_time": "02:00",
-    "vietnam_date": "23/04/2026",
+    "vietnam_date": "24/04/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -31,7 +67,7 @@
     "home": "Bournemouth",
     "away": "Leeds United",
     "vietnam_time": "02:00",
-    "vietnam_date": "23/04/2026",
+    "vietnam_date": "24/04/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -40,7 +76,7 @@
     "home": "Barcelona",
     "away": "Celta Vigo",
     "vietnam_time": "02:30",
-    "vietnam_date": "23/04/2026",
+    "vietnam_date": "24/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 3",
     "sport": "Soccer"
   },
@@ -49,7 +85,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "16:00",
-    "vietnam_date": "23/04/2026",
+    "vietnam_date": "24/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
@@ -58,25 +94,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "16:00",
-    "vietnam_date": "23/04/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 2",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Madrid",
-    "home": "",
-    "away": "",
-    "vietnam_time": "22:00",
-    "vietnam_date": "23/04/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 1",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Madrid",
-    "home": "",
-    "away": "",
-    "vietnam_time": "22:00",
-    "vietnam_date": "23/04/2026",
+    "vietnam_date": "24/04/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   }
