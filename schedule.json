@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-24 15:12 VN",
+  "updated": "2026-04-24 20:49 VN",
   "days": {
     "20260424": {
       "date": "Friday, 24/04",
@@ -226,20 +226,21 @@
           "source": "wheresthematch"
         },
         {
-          "league": "Tennis",
-          "match": "Madrid Open",
-          "kick_utc": 1777021200,
-          "time": "24/04 04:00 PM",
+          "league": "Premier League",
+          "match": "Fulham vs Aston-Villa",
+          "kick_utc": 1777116600,
+          "time": "25/04 06:30 PM",
           "tv_channels": [
             {
-              "country": "LiveSportsOnTV",
+              "country": "Wheresthematch",
               "channels": [
-                "TSN2",
-                "DAZN Canada"
+                "TNT Sports 1",
+                "TNT Sports Ultimate",
+                "HBO Max"
               ]
             }
           ],
-          "source": "livesportsontv"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -291,6 +292,22 @@
           "match": "Mutua Madrid Open",
           "kick_utc": 1777053600,
           "time": "25/04 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Tennis",
+                "Sky Sports+"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Mutua Madrid Open",
+          "kick_utc": 1777107600,
+          "time": "25/04 04:00 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
