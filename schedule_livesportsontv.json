@@ -1,79 +1,20 @@
 [
     {
         "Date": "2026-04-25",
-        "Time": "16:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Madrid Open",
-        "Services": [
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-04-25",
-        "Time": "18:30",
-        "League": "Premier League",
-        "Matchup": "Aston Villa @ Fulham",
-        "Services": [
-            "NBC Universo",
-            "USA Network",
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-04-25",
-        "Time": "18:30",
-        "League": "English Premier League - Week 34",
-        "Matchup": "Fulham vs Aston Villa",
-        "Services": [
-            "Astro Grandstand HD",
-            "Astro Premier League HD",
-            "beIN Connect MENA",
-            "beIN Connect Türkiye",
-            "beIN Sports MENA 2 HD",
-            "beIN Sports MENA 3 HD",
-            "beIN Sports MENA English 1 HD",
-            "Canal+ Sport 1 Czech HD",
-            "Cytavision Sports 3 HD",
-            "DAZN 1 Bar Espana",
-            "DAZN 1 Espana HD",
-            "DAZN 1 Portugal HD",
-            "DAZN Canada",
-            "DAZN España",
-            "DAZN Portugal",
-            "ESPN 1 Brazil HD",
-            "Fast Sports",
-            "FuboTV Canada",
-            "Go3 Extra Sport Baltics",
-            "HBO Max",
-            "Monomax Streaming",
-            "Play Sports 1 Belgium",
-            "Setanta Sports 1 Eurasia HD",
-            "Sky Sport Calcio HD",
-            "Sky Sport Italia 4K UHD",
-            "Stan Sport Australia",
-            "SuperSport 2 Albania HD",
-            "TNT Sports 1 HD",
-            "TNT Sports Digital Exclusive",
-            "TNT Sports Ultimate UHD",
-            "ViaPlay Nederland HD",
-            "ViaPlay Norge HD",
-            "ViaPlay Suomi HD",
-            "VOYO Pro TV Romania"
-        ]
-    },
-    {
-        "Date": "2026-04-25",
         "Time": "19:00",
         "League": "Spanish La Liga (Primera) - Week 32",
         "Matchup": "Alavés vs Mallorca",
         "Services": [
             "ART Motion Sport 3 HD",
             "Azam Sports 4 HD",
+            "beIN Sports 1 HD",
             "beIN Sports Australia 2 HD",
             "beIN Sports MENA Xtra 1 HD",
             "DAZN 2 Portugal HD",
             "M+ LaLiga HD",
+            "Persiana Sports 3 HD",
             "Premier Sports GB Player HD",
+            "S Sport 1 Türkiye HD",
             "Setanta Sports 2 Eurasia HD",
             "SuperSport 1 Albania HD"
         ]
@@ -85,8 +26,10 @@
         "Matchup": "Parma vs Pisa",
         "Services": [
             "ART Motion Sport 5 HD",
+            "Astro Arena Bola 2 HD",
             "DAZN 1 Italia HD",
             "Sport TV2 Portugal HD",
+            "Tivibu Spor 1 HD",
             "Tring Sport 1 HD"
         ]
     },
@@ -133,10 +76,13 @@
         "League": "German 1. Bundesliga - Week 31",
         "Matchup": "Mainz 05 vs Bayern Munich",
         "Services": [
+            "Azam Sports 2 HD",
+            "beIN Sports 3 HD",
             "beIN Sports France 4 HD max",
             "CRTV Sports Cameroon",
             "Dash TV",
             "DAZN 3 Portugal HD",
+            "Diema Sport 3 HD",
             "ESPN+ USA",
             "MBC Action HD",
             "OneFootball",
@@ -146,6 +92,8 @@
             "Sky Sport Bundesliga UHD",
             "Sky Sport Max Italia HD",
             "Sky Sport Top Event HD",
+            "SportKlub 1 Hrvatska HD",
+            "Tivibu Spor 2 HD",
             "Tring Sport 2 HD",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
@@ -165,6 +113,7 @@
             "ESPN+ USA",
             "OneFootball",
             "Sky Sport Bundesliga 2 HD",
+            "SportKlub 5 Hrvatska",
             "Tring Sport 3 HD",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
@@ -183,6 +132,7 @@
             "ESPN+ USA",
             "OneFootball",
             "Sky Sport Bundesliga 4 HD",
+            "Tivibu Spor 4 HD",
             "Tring Sport 4 HD",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
@@ -271,6 +221,7 @@
             "beIN Connect Türkiye",
             "beIN Sports MENA 5 HD",
             "beIN Sports MENA 6 HD",
+            "beIN Sports Türkiye Max 1 HD",
             "Canal+ Sport 7 Czech HD",
             "Cytavision Sports 4 HD",
             "DAZN Canada",
@@ -305,6 +256,7 @@
             "beIN Sports MENA 5 HD",
             "beIN Sports MENA 6 HD",
             "beIN Sports MENA English 1 HD",
+            "beIN Sports Türkiye 4 HD",
             "Canal+ Sport 1 Czech HD",
             "CRTV Sports Cameroon",
             "Cytavision Sports 7 HD",
@@ -317,12 +269,17 @@
             "Fast Sports",
             "FuboTV Canada",
             "Go3 Extra Sport Baltics",
+            "La Nouvelle Chaîne Ivorienne",
             "Monomax Streaming",
+            "Nova Sport Bulgaria HD",
+            "Persiana Sports 3 HD",
             "Play Sports 2 Belgium",
+            "RTS 2 Senegal HD",
             "Setanta Sports Qazaqstan HD",
             "Sky Sport 251 Italia HD",
             "Stan Sport Australia",
             "SuperSport 4 Albania HD",
+            "UTV Tanzania",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
             "ViaPlay Norge HD",
@@ -344,6 +301,7 @@
             "beIN Sports MENA 2 HD",
             "beIN Sports MENA 3 HD",
             "beIN Sports MENA English 1 HD",
+            "beIN Sports Türkiye 3 HD",
             "Canal+ Sport 8 Czech HD",
             "Cytavision Sports 3 HD",
             "DAZN 1 Bar Espana",
@@ -352,10 +310,13 @@
             "DAZN Canada",
             "DAZN España",
             "DAZN Portugal",
+            "Diema Sport 2 HD",
             "Fast Sports",
             "FuboTV Canada",
+            "Futbol TV Tajikistan",
             "Go3 Extra Sport Baltics",
             "Monomax Streaming",
+            "Persiana Sports 2 HD",
             "Play Sports 4 Belgium",
             "Premier Sports 1 Ireland HD",
             "Setanta Sports 1 Eurasia HD",
@@ -390,6 +351,7 @@
         "Services": [
             "ART Motion Sport 3 HD",
             "Azam Sports 4 HD",
+            "beIN Sports 1 HD",
             "beIN Sports Australia 2 HD",
             "beIN Sports France 2 HD",
             "beIN Sports MENA 1 HD",
@@ -397,13 +359,17 @@
             "beIN Sports MENA French 1 HD",
             "Cytavision Sports 4K 1 UHD",
             "Cytavision Sports 6 HD",
+            "DAZN 2 Bar Deutsch HD",
             "DAZN 2 Portugal HD",
             "LaLiga TV Bar HD",
             "M+ LaLiga HD",
             "Movistar Plus+ HD",
             "Orange Fútbol 1 HD",
+            "Persiana Sport HD",
+            "S Sport 1 Türkiye HD",
             "Setanta Sports 2 Eurasia HD",
-            "SuperSport 3 Albania HD"
+            "SuperSport 3 Albania HD",
+            "Varzish TV Sport HD"
         ]
     },
     {
@@ -425,11 +391,14 @@
         "Matchup": "Bologna vs Roma",
         "Services": [
             "ART Motion Sport 1 HD",
+            "Astro Arena Bola 2 HD",
             "Cytavision Sports 4 HD",
             "DAZN 1 Italia HD",
             "DAZN Great Britain",
             "DAZN Ireland",
+            "S Sport 2 Türkiye HD",
             "Sport TV2 Portugal HD",
+            "Tivibu Spor 1 HD",
             "Tring Sport 1 HD"
         ]
     },
@@ -460,6 +429,7 @@
             "beIN Sports MENA 3 HD",
             "beIN Sports MENA 4K UHD",
             "beIN Sports MENA English 1 HD",
+            "beIN Sports Türkiye 3 HD",
             "Canal+ Sport 1 Czech HD",
             "Cytavision Sports 3 HD",
             "Cytavision Sports 4K 1 UHD",
@@ -469,13 +439,16 @@
             "DAZN Canada",
             "DAZN España",
             "DAZN Portugal",
+            "Diema Sport 2 HD",
             "Fast Sports",
             "FuboTV Canada",
+            "Futbol TV Tajikistan",
             "Go3 Extra Sport Baltics",
             "M+ #Vamos Bar 2",
             "M+ Liga de Campeones 2 HD",
             "Monomax Streaming",
             "Movistar Plus+ HD",
+            "Persiana Sports 3 HD",
             "Play Sports 1 Belgium",
             "Sky Go UK",
             "Sky Sport Calcio HD",
@@ -502,6 +475,7 @@
         "Services": [
             "ART Motion Sport 3 HD",
             "Azam Sports 4 HD",
+            "beIN Sports 1 HD",
             "beIN Sports Australia 2 HD",
             "beIN Sports MENA 5 HD",
             "DAZN 2 Portugal HD",
@@ -509,6 +483,7 @@
             "Premier Sports 2 Ireland HD",
             "Premier Sports 2 UK HD",
             "Premier Sports GB Player HD",
+            "S Sport 1 Türkiye HD",
             "Setanta Sports 2 Eurasia HD",
             "SuperSport 4 Albania HD"
         ]
@@ -519,6 +494,8 @@
         "League": "German 1. Bundesliga - Week 31",
         "Matchup": "Hamburg vs Hoffenheim",
         "Services": [
+            "Azam Sports 2 HD",
+            "beIN Sports 3 HD",
             "beIN Sports France 6 HD max",
             "DAZN 3 Portugal HD",
             "ESPN+ USA",
@@ -532,6 +509,8 @@
             "Sky Sport Max Italia HD",
             "Sky Sport Top Event HD",
             "Sky Sports MIX UK HD",
+            "SportKlub 1 Hrvatska HD",
+            "Tivibu Spor 2 HD",
             "Tring Sport 2 HD",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
@@ -568,8 +547,10 @@
         "Matchup": "Angers vs Paris St Germain",
         "Services": [
             "ART Motion Sport 4 HD",
+            "beIN Sports Türkiye 4 HD",
             "Cablenet Sports 2 HD",
             "Ligue 1+",
+            "Nova Sport Bulgaria HD",
             "Prime Video UK PPV",
             "Setanta Sports 1 Eurasia HD",
             "Sport TV3 Portugal HD",
@@ -592,15 +573,18 @@
         "Matchup": "Hellas Verona vs Lecce",
         "Services": [
             "ART Motion Sport 1 HD",
+            "Astro Arena Bola 2 HD",
             "beIN Sports Australia 3 HD",
             "Cytavision Sports 4 HD",
             "DAZN Great Britain",
             "DAZN Ireland",
             "ESPN 1 Brazil HD",
+            "S Sport 2 Türkiye HD",
             "Setanta Sports Qazaqstan HD",
             "Sky Sport 251 Italia HD",
             "Sky Sport Calcio HD",
             "Sport TV2 Portugal HD",
+            "Tivibu Spor 1 HD",
             "Tring Sport 1 HD"
         ]
     },
@@ -611,6 +595,7 @@
         "Matchup": "Atlético Madrid vs Athletic Bilbao",
         "Services": [
             "Azam Sports 4 HD",
+            "beIN Sports 1 HD",
             "beIN Sports Australia 2 HD",
             "beIN Sports France 2 HD",
             "beIN Sports MENA 6 HD",
@@ -620,10 +605,14 @@
             "Cytavision Sports 8 HD",
             "DAZN 1 Italia HD",
             "DAZN 1 Portugal HD",
+            "DAZN 2 Bar Deutsch HD",
             "DAZN LaLiga HD",
             "Disney+ UK",
+            "Persiana Sport HD",
+            "S Sport 1 Türkiye HD",
             "Setanta Sports 2 Eurasia HD",
-            "SuperSport 2 Albania HD"
+            "SuperSport 2 Albania HD",
+            "Varzish TV Sport HD"
         ]
     },
     {
@@ -634,9 +623,224 @@
         "Services": [
             "ART Motion Sport 4 HD",
             "beIN Sports MENA 5 HD",
+            "beIN Sports Türkiye 4 HD",
             "Cablenet Sports 2 HD",
             "Ligue 1+",
+            "Nova Sport Bulgaria HD",
+            "Persiana Sports 2 HD",
             "Sport TV3 Portugal HD"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "16:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "17:30",
+        "League": "Italian Serie A - Week 34",
+        "Matchup": "Fiorentina vs Sassuolo",
+        "Services": [
+            "ART Motion Sport 1 HD",
+            "beIN Sports Australia 3 HD",
+            "Cytavision Sports 4 HD",
+            "DAZN 1 Italia HD",
+            "DAZN 2 Bar Deutsch HD",
+            "DAZN Great Britain",
+            "DAZN Ireland",
+            "Setanta Sports 1 Eurasia HD",
+            "Sport TV3 Portugal HD",
+            "Tring Sport 1 HD"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "18:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "RDS 2"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "19:00",
+        "League": "Spanish La Liga (Primera) - Week 32",
+        "Matchup": "Rayo Vallecano vs Real Sociedad",
+        "Services": [
+            "Azam Sports 4 HD",
+            "beIN Sports France 2 HD",
+            "beIN Sports MENA 2 HD",
+            "beIN Sports MENA French 1 HD",
+            "CRTV Sports Cameroon",
+            "DAZN 1 Portugal HD",
+            "DAZN LaLiga HD",
+            "Premier Sports 2 Ireland HD",
+            "Premier Sports 2 UK HD",
+            "Premier Sports GB Player HD",
+            "S Sport 1 Türkiye HD",
+            "Setanta Sports 2 Eurasia HD",
+            "SuperSport 3 Albania HD"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "20:00",
+        "League": "Italian Serie A - Week 34",
+        "Matchup": "Genoa vs Como",
+        "Services": [
+            "Cytavision Sports 4 HD",
+            "DAZN 1 Italia HD",
+            "DAZN Great Britain",
+            "DAZN Ireland",
+            "M+ Liga de Campeones HD",
+            "M+ Vamos 2 España HD",
+            "Orange Fútbol 3 HD",
+            "S Sport 2 Türkiye HD",
+            "Setanta Sports Qazaqstan HD",
+            "Sport TV2 Portugal HD",
+            "Tring Sport 1 HD"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "20:00",
+        "League": "French Ligue 1 - Week 31",
+        "Matchup": "Lorient vs Strasbourg",
+        "Services": [
+            "beIN Sports MENA 3 HD",
+            "Cablenet Sports 2 HD",
+            "Ligue 1+",
+            "Nova Sport Bulgaria HD"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "20:30",
+        "League": "German 1. Bundesliga - Week 31",
+        "Matchup": "Stuttgart vs Werder Bremen",
+        "Services": [
+            "Azam Sports 2 HD",
+            "beIN Sports France 4 HD max",
+            "DAZN 2 Bar Deutsch HD",
+            "DAZN 2 Portugal HD",
+            "DAZN Deutsch",
+            "Diema Sport 3 HD",
+            "ESPN+ USA",
+            "MBC Action HD",
+            "OneFootball",
+            "Play Sports 1 Belgium",
+            "Prime Video UK PPV",
+            "Setanta Sports 1 Eurasia HD",
+            "Tring Sport 3 HD",
+            "ViaPlay Danmark HD",
+            "ViaPlay Nederland HD",
+            "ViaPlay Norge HD",
+            "ViaPlay Suomi HD",
+            "ViaPlay Sverige HD",
+            "ViaPlay Ísland HD"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "21:15",
+        "League": "Spanish La Liga (Primera) - Week 32",
+        "Matchup": "Real Oviedo vs Elche",
+        "Services": [
+            "Azam Sports 4 HD",
+            "beIN Sports Australia 2 HD",
+            "beIN Sports France 6 HD max",
+            "beIN Sports MENA 2 HD",
+            "DAZN 1 Portugal HD",
+            "DAZN LaLiga HD",
+            "Premier Sports 2 Ireland HD",
+            "Premier Sports 2 UK HD",
+            "Premier Sports GB Player HD",
+            "S Sport 1 Türkiye HD",
+            "SuperSport 3 Albania HD"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "22:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "T2"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "22:15",
+        "League": "French Ligue 1 - Week 31",
+        "Matchup": "Le Havre vs Metz",
+        "Services": [
+            "beIN Sports MENA 4 HD"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "22:15",
+        "League": "French Ligue 1 - Week 31",
+        "Matchup": "Rennes vs Nantes",
+        "Services": [
+            "beIN Sports MENA 3 HD",
+            "Cablenet Sports 2 HD",
+            "Sport TV4 Portugal HD"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "22:15",
+        "League": "French Ligue 1 - Week 31",
+        "Matchup": "Paris FC vs Lille",
+        "Services": [
+            "beIN Sports MENA 5 HD",
+            "Sport TV3 Portugal HD"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "22:30",
+        "League": "Bundesliga",
+        "Matchup": "Freiburg @ Borussia Dortmund",
+        "Services": [
+            "ESPN Select",
+            "ESPN Unlimited",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-04-26",
+        "Time": "22:30",
+        "League": "German 1. Bundesliga - Week 31",
+        "Matchup": "Borussia Dortmund vs Freiburg",
+        "Services": [
+            "Azam Sports 2 HD",
+            "beIN Sports France 6 HD max",
+            "DAZN 1 Bar Deutsch HD",
+            "DAZN 2 Portugal HD",
+            "DAZN Deutsch",
+            "Diema Sport 3 HD",
+            "ESPN+ USA",
+            "Futbol TV Tajikistan",
+            "MBC Action HD",
+            "OneFootball",
+            "Play Sports 1 Belgium",
+            "Prime Video UK PPV",
+            "Setanta Sports Qazaqstan HD",
+            "Tring Sport 2 HD",
+            "ViaPlay Danmark HD",
+            "ViaPlay Nederland HD",
+            "ViaPlay Norge HD",
+            "ViaPlay Suomi HD",
+            "ViaPlay Sverige HD",
+            "ViaPlay Ísland HD"
         ]
     }
 ]
