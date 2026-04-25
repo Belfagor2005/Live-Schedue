@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25 14:26 VN",
+  "updated": "2026-04-25 20:16 VN",
   "days": {
     "20260425": {
       "date": "Saturday, 25/04",
@@ -871,21 +871,6 @@
         {
           "league": "Tennis",
           "match": "Madrid Open",
-          "kick_utc": 1777107600,
-          "time": "25/04 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Madrid Open",
           "kick_utc": 1777136400,
           "time": "26/04 12:00 AM",
           "tv_channels": [
@@ -925,6 +910,22 @@
                 "Sky Sports Tennis",
                 "Sky Sports Main Event",
                 "Sky Sports Ultra HDR",
+                "Sky Sports+"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Mutua Madrid Open",
+          "kick_utc": 1777194000,
+          "time": "26/04 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Tennis",
                 "Sky Sports+"
               ]
             }
