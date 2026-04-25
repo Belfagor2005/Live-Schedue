@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-25 09:54 VN",
+  "updated": "2026-04-25 14:26 VN",
   "days": {
     "20260425": {
       "date": "Saturday, 25/04",
@@ -38,6 +38,7 @@
                 "beIN Sports MENA 3 HD",
                 "beIN Sports MENA English 1 HD",
                 "Canal+ Sport 1 Czech HD",
+                "Cytavision Sports 3 HD",
                 "DAZN 1 Bar Espana",
                 "DAZN 1 Espana HD",
                 "DAZN 1 Portugal HD",
@@ -50,9 +51,12 @@
                 "Go3 Extra Sport Baltics",
                 "HBO Max",
                 "Monomax Streaming",
+                "Play Sports 1 Belgium",
+                "Setanta Sports 1 Eurasia HD",
                 "Sky Sport Calcio HD",
                 "Sky Sport Italia 4K UHD",
                 "Stan Sport Australia",
+                "SuperSport 2 Albania HD",
                 "TNT Sports 1 HD",
                 "TNT Sports Digital Exclusive",
                 "TNT Sports Ultimate UHD",
@@ -74,11 +78,15 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "ART Motion Sport 3 HD",
+                "Azam Sports 4 HD",
                 "beIN Sports Australia 2 HD",
                 "beIN Sports MENA Xtra 1 HD",
                 "DAZN 2 Portugal HD",
                 "M+ LaLiga HD",
-                "Premier Sports GB Player HD"
+                "Premier Sports GB Player HD",
+                "Setanta Sports 2 Eurasia HD",
+                "SuperSport 1 Albania HD"
               ]
             }
           ],
@@ -93,8 +101,10 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "ART Motion Sport 5 HD",
                 "DAZN 1 Italia HD",
-                "Sport TV2 Portugal HD"
+                "Sport TV2 Portugal HD",
+                "Tring Sport 1 HD"
               ]
             }
           ],
@@ -113,6 +123,7 @@
                 "beIN Sports MENA 1 HD",
                 "beIN Sports MENA 2 HD",
                 "beIN Sports MENA French 1 HD",
+                "Cablenet Sports 2 HD",
                 "Sport TV3 Portugal HD"
               ]
             }
@@ -168,12 +179,15 @@
                 "Dash TV",
                 "DAZN 3 Portugal HD",
                 "ESPN+ USA",
+                "MBC Action HD",
                 "OneFootball",
+                "Play Sports 2 Belgium",
                 "Sky Sport Bundesliga 1 HD",
                 "Sky Sport Bundesliga HD",
                 "Sky Sport Bundesliga UHD",
                 "Sky Sport Max Italia HD",
                 "Sky Sport Top Event HD",
+                "Tring Sport 2 HD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Nederland HD",
                 "ViaPlay Norge HD",
@@ -198,6 +212,7 @@
                 "ESPN+ USA",
                 "OneFootball",
                 "Sky Sport Bundesliga 2 HD",
+                "Tring Sport 3 HD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Nederland HD",
                 "ViaPlay Norge HD",
@@ -221,6 +236,7 @@
                 "ESPN+ USA",
                 "OneFootball",
                 "Sky Sport Bundesliga 4 HD",
+                "Tring Sport 4 HD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Nederland HD",
                 "ViaPlay Norge HD",
@@ -244,6 +260,7 @@
                 "ESPN+ USA",
                 "OneFootball",
                 "Sky Sport Bundesliga 5 HD",
+                "Tring Sport 6 HD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Nederland HD",
                 "ViaPlay Norge HD",
@@ -267,6 +284,7 @@
                 "ESPN+ USA",
                 "OneFootball",
                 "Sky Sport Bundesliga 3 HD",
+                "Tring Sport 5 HD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Nederland HD",
                 "ViaPlay Norge HD",
@@ -343,6 +361,7 @@
                 "beIN Sports MENA 5 HD",
                 "beIN Sports MENA 6 HD",
                 "Canal+ Sport 7 Czech HD",
+                "Cytavision Sports 4 HD",
                 "DAZN Canada",
                 "DAZN España",
                 "DAZN Portugal",
@@ -353,6 +372,7 @@
                 "Monomax Streaming",
                 "Sky Sport 252 Italia HD",
                 "Stan Sport Australia",
+                "SuperSport 5 Albania HD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Nederland HD",
                 "ViaPlay Norge HD",
@@ -382,6 +402,7 @@
                 "beIN Sports MENA English 1 HD",
                 "Canal+ Sport 1 Czech HD",
                 "CRTV Sports Cameroon",
+                "Cytavision Sports 7 HD",
                 "DAZN 2 Bar Espana",
                 "DAZN 2 Espana HD",
                 "DAZN Canada",
@@ -392,8 +413,11 @@
                 "FuboTV Canada",
                 "Go3 Extra Sport Baltics",
                 "Monomax Streaming",
+                "Play Sports 2 Belgium",
+                "Setanta Sports Qazaqstan HD",
                 "Sky Sport 251 Italia HD",
                 "Stan Sport Australia",
+                "SuperSport 4 Albania HD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Nederland HD",
                 "ViaPlay Norge HD",
@@ -422,6 +446,7 @@
                 "beIN Sports MENA 3 HD",
                 "beIN Sports MENA English 1 HD",
                 "Canal+ Sport 8 Czech HD",
+                "Cytavision Sports 3 HD",
                 "DAZN 1 Bar Espana",
                 "DAZN 1 Espana HD",
                 "DAZN 1 Portugal HD",
@@ -432,9 +457,12 @@
                 "FuboTV Canada",
                 "Go3 Extra Sport Baltics",
                 "Monomax Streaming",
+                "Play Sports 4 Belgium",
                 "Premier Sports 1 Ireland HD",
+                "Setanta Sports 1 Eurasia HD",
                 "Sky Sport Calcio HD",
                 "Stan Sport Australia",
+                "SuperSport 2 Albania HD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Nederland HD",
                 "ViaPlay Norge HD",
@@ -473,16 +501,22 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "ART Motion Sport 3 HD",
+                "Azam Sports 4 HD",
                 "beIN Sports Australia 2 HD",
                 "beIN Sports France 2 HD",
                 "beIN Sports MENA 1 HD",
                 "beIN Sports MENA 3 HD",
                 "beIN Sports MENA French 1 HD",
+                "Cytavision Sports 4K 1 UHD",
+                "Cytavision Sports 6 HD",
                 "DAZN 2 Portugal HD",
                 "LaLiga TV Bar HD",
                 "M+ LaLiga HD",
                 "Movistar Plus+ HD",
-                "Orange Fútbol 1 HD"
+                "Orange Fútbol 1 HD",
+                "Setanta Sports 2 Eurasia HD",
+                "SuperSport 3 Albania HD"
               ]
             }
           ],
@@ -515,10 +549,255 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "ART Motion Sport 1 HD",
+                "Cytavision Sports 4 HD",
                 "DAZN 1 Italia HD",
                 "DAZN Great Britain",
                 "DAZN Ireland",
-                "Sport TV2 Portugal HD"
+                "Sport TV2 Portugal HD",
+                "Tring Sport 1 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Premier League",
+          "match": "Newcastle United vs Arsenal FC",
+          "kick_utc": 1777134600,
+          "time": "25/04 11:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "NBC Universo",
+                "TeleXitos",
+                "NBC Sports Network Extra",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Premier League",
+          "match": "Arsenal vs Newcastle United",
+          "kick_utc": 1777134600,
+          "time": "25/04 11:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Astro Grandstand HD",
+                "Astro Premier League HD",
+                "Astro Sports UHD",
+                "beIN Connect MENA",
+                "beIN Connect Türkiye",
+                "beIN Sports MENA 2 HD",
+                "beIN Sports MENA 3 HD",
+                "beIN Sports MENA 4K UHD",
+                "beIN Sports MENA English 1 HD",
+                "Canal+ Sport 1 Czech HD",
+                "Cytavision Sports 3 HD",
+                "Cytavision Sports 4K 1 UHD",
+                "DAZN 1 Bar Espana",
+                "DAZN 1 Espana HD",
+                "DAZN 1 Portugal HD",
+                "DAZN Canada",
+                "DAZN España",
+                "DAZN Portugal",
+                "Fast Sports",
+                "FuboTV Canada",
+                "Go3 Extra Sport Baltics",
+                "M+ #Vamos Bar 2",
+                "M+ Liga de Campeones 2 HD",
+                "Monomax Streaming",
+                "Movistar Plus+ HD",
+                "Play Sports 1 Belgium",
+                "Sky Go UK",
+                "Sky Sport Calcio HD",
+                "Sky Sport Italia 4K UHD",
+                "Sky Sports Main Event HD",
+                "Sky Sports Main Event UHD",
+                "Sky Sports Premier League HD",
+                "Sky UK Ultra HD 1",
+                "Stan Sport Australia",
+                "SuperSport 2 Albania HD",
+                "ViaPlay Danmark HD",
+                "ViaPlay Nederland HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD",
+                "ViaPlay Sverige HD",
+                "VOYO Pro TV Romania"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Valencia vs Girona",
+          "kick_utc": 1777134600,
+          "time": "25/04 11:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ART Motion Sport 3 HD",
+                "Azam Sports 4 HD",
+                "beIN Sports Australia 2 HD",
+                "beIN Sports MENA 5 HD",
+                "DAZN 2 Portugal HD",
+                "M+ LaLiga HD",
+                "Premier Sports 2 Ireland HD",
+                "Premier Sports 2 UK HD",
+                "Premier Sports GB Player HD",
+                "Setanta Sports 2 Eurasia HD",
+                "SuperSport 4 Albania HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Bundesliga",
+          "match": "Hamburg vs Hoffenheim",
+          "kick_utc": 1777134600,
+          "time": "25/04 11:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports France 6 HD max",
+                "DAZN 3 Portugal HD",
+                "ESPN+ USA",
+                "OneFootball",
+                "Play Sports 2 Belgium",
+                "Setanta Sports Qazaqstan HD",
+                "Sky Go UK",
+                "Sky Sport Bundesliga 1 HD",
+                "Sky Sport Bundesliga HD",
+                "Sky Sport Bundesliga UHD",
+                "Sky Sport Max Italia HD",
+                "Sky Sport Top Event HD",
+                "Sky Sports MIX UK HD",
+                "Tring Sport 2 HD",
+                "ViaPlay Danmark HD",
+                "ViaPlay Nederland HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD",
+                "ViaPlay Sverige HD",
+                "ViaPlay Ísland HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "PSG vs Angers SCO",
+          "kick_utc": 1777136400,
+          "time": "26/04 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sport USA Espanol",
+                "beIN Sport Canada",
+                "beIN Sport Canada Espanol"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Angers vs Paris St Germain",
+          "kick_utc": 1777136400,
+          "time": "26/04 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ART Motion Sport 4 HD",
+                "Cablenet Sports 2 HD",
+                "Ligue 1+",
+                "Prime Video UK PPV",
+                "Setanta Sports 1 Eurasia HD",
+                "Sport TV3 Portugal HD",
+                "SuperSport 3 Albania HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Serie A",
+          "match": "Hellas Verona vs Lecce",
+          "kick_utc": 1777142700,
+          "time": "26/04 01:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ART Motion Sport 1 HD",
+                "beIN Sports Australia 3 HD",
+                "Cytavision Sports 4 HD",
+                "DAZN Great Britain",
+                "DAZN Ireland",
+                "ESPN 1 Brazil HD",
+                "Setanta Sports Qazaqstan HD",
+                "Sky Sport 251 Italia HD",
+                "Sky Sport Calcio HD",
+                "Sport TV2 Portugal HD",
+                "Tring Sport 1 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Atlético Madrid vs Athletic Bilbao",
+          "kick_utc": 1777143600,
+          "time": "26/04 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Azam Sports 4 HD",
+                "beIN Sports Australia 2 HD",
+                "beIN Sports France 2 HD",
+                "beIN Sports MENA 6 HD",
+                "beIN Sports MENA English 2 HD",
+                "beIN Sports MENA French 1 HD",
+                "Cytavision Sports 4K 2 UHD",
+                "Cytavision Sports 8 HD",
+                "DAZN 1 Italia HD",
+                "DAZN 1 Portugal HD",
+                "DAZN LaLiga HD",
+                "Disney+ UK",
+                "Setanta Sports 2 Eurasia HD",
+                "SuperSport 2 Albania HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Toulouse vs Monaco",
+          "kick_utc": 1777143900,
+          "time": "26/04 02:05 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ART Motion Sport 4 HD",
+                "beIN Sports MENA 5 HD",
+                "Cablenet Sports 2 HD",
+                "Ligue 1+",
+                "Sport TV3 Portugal HD"
               ]
             }
           ],
@@ -550,8 +829,8 @@
             {
               "country": "Wheresthematch",
               "channels": [
-                "Sky Sports Main Event",
                 "Sky Sports Premier League",
+                "Sky Sports Main Event",
                 "Sky Sports Ultra HDR"
               ]
             }
@@ -606,19 +885,33 @@
         },
         {
           "league": "Tennis",
-          "match": "Mutua Madrid Open",
-          "kick_utc": 1777107600,
-          "time": "25/04 04:00 PM",
+          "match": "Madrid Open",
+          "kick_utc": 1777136400,
+          "time": "26/04 12:00 AM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "Sky Sports Tennis",
-                "Sky Sports+"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Madrid Open",
+          "kick_utc": 1777140000,
+          "time": "26/04 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
