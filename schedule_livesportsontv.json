@@ -1,44 +1,6 @@
 [
     {
         "Date": "2026-04-26",
-        "Time": "16:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Madrid Open",
-        "Services": [
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-04-26",
-        "Time": "17:30",
-        "League": "Italian Serie A - Week 34",
-        "Matchup": "Fiorentina vs Sassuolo",
-        "Services": [
-            "ART Motion Sport 1 HD",
-            "beIN Sports Australia 3 HD",
-            "Cytavision Sports 4 HD",
-            "DAZN 1 Italia HD",
-            "DAZN 2 Bar Deutsch HD",
-            "DAZN Great Britain",
-            "DAZN Ireland",
-            "Match 4 Hungary HD",
-            "Setanta Sports 1 Eurasia HD",
-            "Sport 1 Czechia HD",
-            "Sport TV3 Portugal HD",
-            "Tring Sport 1 HD"
-        ]
-    },
-    {
-        "Date": "2026-04-26",
-        "Time": "18:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Madrid Open",
-        "Services": [
-            "RDS 2"
-        ]
-    },
-    {
-        "Date": "2026-04-26",
         "Time": "19:00",
         "League": "Spanish La Liga (Primera) - Week 32",
         "Matchup": "Rayo Vallecano vs Real Sociedad",
@@ -389,6 +351,44 @@
         "Matchup": "Madrid Open",
         "Services": [
             "RDS 2"
+        ]
+    },
+    {
+        "Date": "2026-04-27",
+        "Time": "16:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "Tennis Channel",
+            "TSN3"
+        ]
+    },
+    {
+        "Date": "2026-04-27",
+        "Time": "16:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "TSN2",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-04-27",
+        "Time": "18:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "RDS 2"
+        ]
+    },
+    {
+        "Date": "2026-04-27",
+        "Time": "21:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "TSN2"
         ]
     }
 ]
