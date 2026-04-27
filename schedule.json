@@ -1,9 +1,27 @@
 {
-  "updated": "2026-04-27 10:36 VN",
+  "updated": "2026-04-27 15:34 VN",
   "days": {
     "20260427": {
       "date": "Monday, 27/04",
       "games": [
+        {
+          "league": "Serie A",
+          "match": "Atalanta vs Cagliari",
+          "kick_utc": 1777307400,
+          "time": "27/04 11:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+ (US)",
+                "DAZN US",
+                "FOX Deportes",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Serie A",
           "match": "Cagliari vs Atalanta",
@@ -11,13 +29,34 @@
           "time": "27/04 11:30 PM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "DAZN"
+                "ART Motion Sport 2 HD",
+                "beIN Sports Australia 3 HD",
+                "DAZN 1 Italia HD",
+                "DAZN Great Britain",
+                "DAZN Ireland"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Serie A",
+          "match": "Udinese vs Lazio",
+          "kick_utc": 1777315500,
+          "time": "28/04 01:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+ (US)",
+                "DAZN US",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
         },
         {
           "league": "Serie A",
@@ -26,13 +65,119 @@
           "time": "28/04 01:45 AM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "DAZN"
+                "ART Motion Sport 2 HD",
+                "beIN Sports Australia 3 HD",
+                "DAZN Great Britain",
+                "DAZN Ireland",
+                "Sky Sport 251 Italia HD",
+                "Sky Sport Calcio HD",
+                "Sky Sport Italia 4K UHD"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Premier League",
+          "match": "Brentford vs Manchester United",
+          "kick_utc": 1777316400,
+          "time": "28/04 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "NBC Universo",
+                "TeleXitos",
+                "USA Network",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Premier League",
+          "match": "Manchester United vs Brentford",
+          "kick_utc": 1777316400,
+          "time": "28/04 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 1 BiH HD",
+                "Arena Premium 1 Srbija HD",
+                "Arena Sport 1 Hrvatska HD",
+                "Arena Sport 1 Slovenija HD",
+                "Astro Grandstand HD",
+                "Astro Premier League HD",
+                "beIN Connect Türkiye",
+                "beIN Sports MENA 1 HD",
+                "beIN Sports MENA English 1 HD",
+                "beIN Sports Türkiye 3 HD",
+                "Canal+ Extra 1 Polska HD",
+                "Canal+ Foot HD",
+                "Canal+ Live 1 France HD",
+                "Canal+ Sport 1 Czech HD",
+                "DAZN 1 Bar Espana",
+                "DAZN 1 Espana HD",
+                "DAZN 1 Portugal HD",
+                "DAZN España",
+                "DAZN Portugal",
+                "Fast Sports",
+                "Fast Sports TV Armenia",
+                "FuboTV Canada",
+                "Go3 Extra Sport Baltics",
+                "Match 4 Hungary HD",
+                "Monomax Streaming",
+                "Nova Sports Prime Hellas HD",
+                "Sky Go UK",
+                "Sky Sport Arena Italia HD",
+                "Sky Sports Main Event HD",
+                "Sky Sports Main Event UHD",
+                "Sky Sports Premier League HD",
+                "Sky UK Ultra HD 1",
+                "Stan Sport Australia",
+                "SuperSport 2 Albania HD",
+                "SuperSport Premier League HD",
+                "TV3+ Dansk HD",
+                "V Sport Premier League HD",
+                "V Sport Premium HD",
+                "V Sport Ultra 4K UHD",
+                "ViaPlay 2 Urheilu HD",
+                "ViaPlay Danmark HD",
+                "ViaPlay Nederland HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD",
+                "ViaPlay Sverige HD",
+                "VOYO Pro TV Romania"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Espanyol vs Levante",
+          "kick_utc": 1777316400,
+          "time": "28/04 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Azam Sports 4 HD",
+                "beIN Sports France 6 HD max",
+                "beIN Sports MENA 3 HD",
+                "beIN Sports MENA English 2 HD",
+                "M+ LaLiga HD",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 1 UK HD",
+                "Premier Sports GB Player HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
         },
         {
           "league": "Premier League",
@@ -43,8 +188,8 @@
             {
               "country": "Wheresthematch",
               "channels": [
-                "Sky Sports Premier League",
                 "Sky Sports Main Event",
+                "Sky Sports Premier League",
                 "Sky Sports Ultra HDR"
               ]
             }
@@ -101,21 +246,20 @@
         },
         {
           "league": "Tennis",
-          "match": "Mutua Madrid Open",
-          "kick_utc": 1777280400,
-          "time": "27/04 04:00 PM",
+          "match": "Madrid Open",
+          "kick_utc": 1777312800,
+          "time": "28/04 01:00 AM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "Sky Sports Tennis",
-                "Sky Sports Main Event",
-                "Sky Sports Ultra HDR",
-                "Sky Sports+"
+                "Tennis Channel",
+                "TSN2",
+                "DAZN Canada"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -136,14 +280,27 @@
         {
           "league": "Tennis",
           "match": "",
-          "kick_utc": 1777280400,
-          "time": "27/04 04:00 PM",
+          "kick_utc": 1777305600,
+          "time": "27/04 11:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1777309200,
+          "time": "28/04 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
                 "beIN SPORTS 2"
               ]
             }
