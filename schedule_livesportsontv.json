@@ -1,35 +1,6 @@
 [
     {
         "Date": "2026-04-27",
-        "Time": "16:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Madrid Open",
-        "Services": [
-            "Tennis Channel",
-            "TSN3"
-        ]
-    },
-    {
-        "Date": "2026-04-27",
-        "Time": "16:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Madrid Open",
-        "Services": [
-            "TSN2",
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-04-27",
-        "Time": "18:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Madrid Open",
-        "Services": [
-            "RDS 2"
-        ]
-    },
-    {
-        "Date": "2026-04-27",
         "Time": "21:00",
         "League": "Tennis (WTA)",
         "Matchup": "Madrid Open",
@@ -57,9 +28,26 @@
         "Services": [
             "ART Motion Sport 2 HD",
             "beIN Sports Australia 3 HD",
+            "Cytavision Sports 4 HD",
             "DAZN 1 Italia HD",
+            "DAZN 2 Bar Deutsch HD",
             "DAZN Great Britain",
-            "DAZN Ireland"
+            "DAZN Ireland",
+            "ESPN 4 Brazil HD",
+            "MATCH! Futbol 1 HD",
+            "Persiana Sport HD",
+            "Setanta Sports 1 Georgia HD",
+            "SuperSport Football HD",
+            "SuperSport MáXimo 360"
+        ]
+    },
+    {
+        "Date": "2026-04-28",
+        "Time": "00:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "TSN2"
         ]
     },
     {
@@ -100,11 +88,19 @@
         "Services": [
             "ART Motion Sport 2 HD",
             "beIN Sports Australia 3 HD",
+            "Cytavision Sports 4 HD",
+            "DAZN 2 Bar Deutsch HD",
             "DAZN Great Britain",
             "DAZN Ireland",
+            "MATCH! Futbol 1 HD",
+            "MATCH! Russia HD",
+            "MAX Sport 3 Bulgaria HD",
+            "Persiana Sports 2 HD",
             "Sky Sport 251 Italia HD",
             "Sky Sport Calcio HD",
-            "Sky Sport Italia 4K UHD"
+            "Sky Sport Italia 4K UHD",
+            "SuperSport Football HD",
+            "SuperSport MáXimo 360"
         ]
     },
     {
@@ -131,45 +127,70 @@
             "Arena Sport 1 Slovenija HD",
             "Astro Grandstand HD",
             "Astro Premier League HD",
+            "Astro Sports UHD",
             "beIN Connect Türkiye",
             "beIN Sports MENA 1 HD",
+            "beIN Sports MENA 4K UHD",
             "beIN Sports MENA English 1 HD",
             "beIN Sports Türkiye 3 HD",
             "Canal+ Extra 1 Polska HD",
             "Canal+ Foot HD",
             "Canal+ Live 1 France HD",
             "Canal+ Sport 1 Czech HD",
+            "Cytavision Sports 3 HD",
+            "Cytavision Sports 4K 1 UHD",
             "DAZN 1 Bar Espana",
             "DAZN 1 Espana HD",
             "DAZN 1 Portugal HD",
             "DAZN España",
             "DAZN Portugal",
+            "Diema Sport 2 HD",
+            "ESPN 1 Brazil HD",
             "Fast Sports",
             "Fast Sports TV Armenia",
             "FuboTV Canada",
             "Go3 Extra Sport Baltics",
+            "Idman TV HD",
             "Match 4 Hungary HD",
+            "Meraj TV",
             "Monomax Streaming",
             "Nova Sports Prime Hellas HD",
+            "Persiana Sport HD",
+            "Play Sports 1 Belgium",
+            "Premier Sports 2 Mongolia HD",
+            "Setanta Sports 1 Eurasia HD",
+            "Setanta Sports 1 Georgia HD",
+            "Setanta Sports Ukraine HD",
             "Sky Go UK",
+            "Sky Sport 8 NZ HD",
             "Sky Sport Arena Italia HD",
+            "Sky Sport Deutsch UHD",
+            "Sky Sport Premier League DE HD",
+            "Sky Sport Top Event HD",
             "Sky Sports Main Event HD",
             "Sky Sports Main Event UHD",
             "Sky Sports Premier League HD",
             "Sky UK Ultra HD 1",
+            "Solh TV",
             "Stan Sport Australia",
             "SuperSport 2 Albania HD",
+            "SuperSport MáXimo 1 HD",
+            "SuperSport MáXimo 2A HD",
             "SuperSport Premier League HD",
+            "SÝN Sport 1 Ísland HD",
+            "TSN Malta 2 HD",
             "TV3+ Dansk HD",
             "V Sport Premier League HD",
             "V Sport Premium HD",
             "V Sport Ultra 4K UHD",
+            "Varzish TV Sport HD",
             "ViaPlay 2 Urheilu HD",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
             "ViaPlay Norge HD",
             "ViaPlay Suomi HD",
             "ViaPlay Sverige HD",
+            "Voyo Player Slovakia",
             "VOYO Pro TV Romania"
         ]
     },
@@ -183,10 +204,48 @@
             "beIN Sports France 6 HD max",
             "beIN Sports MENA 3 HD",
             "beIN Sports MENA English 2 HD",
+            "Cytavision Sports 4K 2 UHD",
+            "Cytavision Sports 8 HD",
+            "DAZN 1 Bar Deutsch HD",
+            "ESPN 3 Brazil HD",
             "M+ LaLiga HD",
+            "MATCH! Futbol 2 HD",
+            "MAX Sport 4 Bulgaria HD",
             "Premier Sports 1 Ireland HD",
             "Premier Sports 1 UK HD",
-            "Premier Sports GB Player HD"
+            "Premier Sports GB Player HD",
+            "Setanta Sports Qazaqstan HD",
+            "SuperSport LaLiga HD",
+            "SuperSport MáXimo 3A HD"
+        ]
+    },
+    {
+        "Date": "2026-04-28",
+        "Time": "16:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "TSN2"
+        ]
+    },
+    {
+        "Date": "2026-04-28",
+        "Time": "18:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "RDS 2"
+        ]
+    },
+    {
+        "Date": "2026-04-28",
+        "Time": "18:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "TSN5",
+            "TVA Sports",
+            "DAZN Canada"
         ]
     }
 ]
