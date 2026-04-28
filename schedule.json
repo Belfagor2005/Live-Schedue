@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-28 21:27 VN",
+  "updated": "2026-04-29 02:48 VN",
   "days": {
     "20260428": {
       "date": "Tuesday, 28/04",
@@ -71,21 +71,21 @@
           "source": "wheresthematch"
         },
         {
-          "league": "Tennis",
-          "match": "Madrid Open",
-          "kick_utc": 1777395600,
-          "time": "29/04 12:00 AM",
+          "league": "UEFA Champions League",
+          "match": "Atletico-Madrid vs Arsenal",
+          "kick_utc": 1777489200,
+          "time": "30/04 02:00 AM",
           "tv_channels": [
             {
-              "country": "LiveSportsOnTV",
+              "country": "Wheresthematch",
               "channels": [
-                "Tennis Channel",
-                "T2",
-                "TSN2"
+                "TNT Sports 1",
+                "TNT Sports Ultimate",
+                "HBO Max"
               ]
             }
           ],
-          "source": "livesportsontv"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -142,9 +142,25 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1777392000,
-          "time": "28/04 11:00 PM",
+          "match": "Mutua Madrid Open",
+          "kick_utc": 1777485600,
+          "time": "30/04 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Tennis",
+                "Sky Sports+"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jannik Sinner vs Cameron Norrie",
+          "kick_utc": 1777453200,
+          "time": "29/04 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -158,23 +174,7 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1777399200,
-          "time": "29/04 01:00 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
+          "match": "Leylah Annie Fernandez vs Mirra Andreeva",
           "kick_utc": 1777460400,
           "time": "29/04 06:00 PM",
           "tv_channels": [
@@ -182,23 +182,7 @@
               "country": "Ausport",
               "channels": [
                 "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1777471200,
-          "time": "29/04 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
+                "beIN SPORTS 2"
               ]
             }
           ],
