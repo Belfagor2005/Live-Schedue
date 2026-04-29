@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-29 21:11 VN",
+  "updated": "2026-04-30 02:44 VN",
   "days": {
     "20260429": {
       "date": "Wednesday, 29/04",
@@ -39,32 +39,46 @@
                 "beIN Sports MENA 1 HD",
                 "beIN Sports MENA English 1 HD",
                 "beIN Sports MENA French 1 HD",
+                "Blue Sport 1 Live UHD",
+                "Blue Sport 2 Live HD",
+                "Blue Sport 2 Live HDR",
+                "Blue Sport D 2 HD",
                 "bTV Action HD",
                 "Canal+ Extra 1 Polska HD",
                 "Canal+ France HD",
                 "Canal+ Live 1 France HD",
+                "Canal+ Sport 2 Afrique HD",
+                "CBS USA",
                 "Cosmote Sport 1 HD",
+                "Cosmote Sport 4K UHD",
                 "Cytavision Sports 3 HD",
                 "Cytavision Sports 4K 1 UHD",
                 "Cytavision Sports PPV 2 HD",
                 "DAZN 1 Bar Deutsch HD",
+                "DAZN Canada",
                 "DAZN Deutsch",
                 "Digi 4K UHD",
                 "Digi Sport 1 Romania HD",
                 "Fast Sports TV Armenia",
                 "Futbol TV Tajikistan",
+                "Futbol TV Uzbekistan",
                 "Go3 Extra Sport Baltics",
                 "HBO Max",
                 "HRT 2 Hrvatska HD",
+                "Ictimai TV HD",
+                "IRIB TV3 HD",
                 "Jurnal TV Moldova",
                 "Kanal A Slovenija HD",
                 "M+ Liga de Campeones HD",
                 "M+ Liga de Campeones HDR",
                 "MEGA Hellas HD",
                 "Megogo Futbol 1",
+                "Meraj TV",
                 "MTV Urheilu 1 Suomi HD",
                 "Nova Sport 3 Czech HD",
                 "Okko Futbol HD",
+                "Paramount+ USA",
+                "Persiana Sport HD",
                 "Pickx+ Sports 1 HD",
                 "Play RTS Sport",
                 "Premier Sports 1 Ireland HD",
@@ -81,6 +95,7 @@
                 "RTS 2 Suisse HD",
                 "RTÉ 2 Ireland HD",
                 "RTÉ Player",
+                "Setanta Sports 1 Georgia HD",
                 "Silk Universal HD",
                 "Sony Sports TEN 2 India HD",
                 "Sony Sports TEN 3 India HD",
@@ -100,17 +115,22 @@
                 "Tring Sport 1 HD",
                 "TRT 1 Türkiye HD",
                 "TSN Malta 1 HD",
+                "TUDN Español USA",
                 "Turkmenistan Sport HD",
                 "TV2 Sport 1 Norge HD",
                 "TV3+ Dansk HD",
+                "TVM Sport+ HD",
                 "TVP 1 Polska HD",
+                "TVP Sport Polska HD",
+                "Univision USA",
                 "V Sport Premium HD",
                 "V Sport Ultra 4K UHD",
                 "Varzish TV Sport HD",
                 "ViaPlay Sport Sverige HD",
                 "Vizion Plus HD",
                 "VTM 2 Belgium HD",
-                "Ziggo Sport HD"
+                "Ziggo Sport HD",
+                "Zor TV Uzbekistan"
               ]
             }
           ],
@@ -134,20 +154,37 @@
           "source": "wheresthematch"
         },
         {
-          "league": "Tennis",
-          "match": "Madrid Open",
-          "kick_utc": 1777471200,
-          "time": "29/04 09:00 PM",
+          "league": "UEFA Europa League",
+          "match": "Nottingham-Forest vs Aston-Villa",
+          "kick_utc": 1777575600,
+          "time": "01/05 02:00 AM",
           "tv_channels": [
             {
-              "country": "LiveSportsOnTV",
+              "country": "Wheresthematch",
               "channels": [
-                "TSN3",
-                "RDS 2"
+                "TNT Sports 1",
+                "TNT Sports Ultimate",
+                "HBO Max"
               ]
             }
           ],
-          "source": "livesportsontv"
+          "source": "wheresthematch"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Sporting-Braga vs SC-Freiburg",
+          "kick_utc": 1777575600,
+          "time": "01/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 4",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -168,13 +205,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Madrid Open",
+          "match": "Arthur Fils",
           "kick_utc": 1777491000,
           "time": "30/04 02:30 AM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "Tennis Channel",
+                "TSN3",
                 "RDS 2"
               ]
             }
@@ -184,13 +223,31 @@
         {
           "league": "Tennis",
           "match": "Madrid Open",
-          "kick_utc": 1777492800,
-          "time": "30/04 03:00 AM",
+          "kick_utc": 1777546800,
+          "time": "30/04 06:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "RDS",
                 "TSN3"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Madrid Open",
+          "kick_utc": 1777557600,
+          "time": "30/04 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TSN3",
+                "TVA Sports",
+                "DAZN Canada"
               ]
             }
           ],
@@ -250,7 +307,23 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Karolina Pliskova vs Anastasia Potapova",
+          "kick_utc": 1777546800,
+          "time": "30/04 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jannik Sinner vs Rafael Jodar",
           "kick_utc": 1777557600,
           "time": "30/04 09:00 PM",
           "tv_channels": [
@@ -259,6 +332,37 @@
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Marta Kostyuk vs Linda Noskova",
+          "kick_utc": 1777572000,
+          "time": "01/05 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Arthur Fils vs Jiri Lehecka",
+          "kick_utc": 1777577400,
+          "time": "01/05 02:30 AM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
               ]
             }
           ],
