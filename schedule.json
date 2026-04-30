@@ -1,5 +1,5 @@
 {
-  "updated": "2026-04-30 15:29 VN",
+  "updated": "2026-04-30 21:09 VN",
   "days": {
     "20260430": {
       "date": "Thursday, 30/04",
@@ -176,22 +176,6 @@
         {
           "league": "Tennis",
           "match": "Madrid Open",
-          "kick_utc": 1777546800,
-          "time": "30/04 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "RDS",
-                "TSN3"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Madrid Open",
           "kick_utc": 1777557600,
           "time": "30/04 09:00 PM",
           "tv_channels": [
@@ -252,6 +236,39 @@
             }
           ],
           "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Mutua Madrid Open",
+          "kick_utc": 1777635000,
+          "time": "01/05 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Tennis",
+                "Sky Sports+"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Mutua Madrid Open",
+          "kick_utc": 1777644000,
+          "time": "01/05 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Main Event",
+                "Sky Sports Tennis",
+                "Sky Sports Ultra HDR"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
         }
       ]
     }
