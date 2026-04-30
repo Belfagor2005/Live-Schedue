@@ -1,9 +1,145 @@
 {
-  "updated": "2026-04-30 10:40 VN",
+  "updated": "2026-04-30 15:29 VN",
   "days": {
     "20260430": {
       "date": "Thursday, 30/04",
       "games": [
+        {
+          "league": "UEFA Europa League",
+          "match": "Freiburg vs Sporting Braga",
+          "kick_utc": 1777575600,
+          "time": "01/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+ (US)",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Aston Villa vs Nottingham Forest",
+          "kick_utc": 1777575600,
+          "time": "01/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Fubo Sports",
+                "Paramount+ (US)",
+                "DAZN US",
+                "CBS Sports Network",
+                "TUDN"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Strasbourg vs Rayo Vallecano",
+          "kick_utc": 1777575600,
+          "time": "01/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+ (US)",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Crystal Palace vs Shakhtar Donetsk",
+          "kick_utc": 1777575600,
+          "time": "01/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+ (US)",
+                "ViX",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Nottingham Forest vs Aston Villa",
+          "kick_utc": 1777575600,
+          "time": "01/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports MENA 1 HD",
+                "beIN Sports MENA English 1 HD",
+                "Digi 4K UHD",
+                "Digi Sport 1 Romania HD",
+                "HBO Max",
+                "M+ Liga de Campeones HDR",
+                "M4 Sport Hungary HD",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 2 Mongolia HD",
+                "QazSport HD",
+                "RTL+ Deutschland",
+                "Sport 24 At Sea HD",
+                "Sport 24 In Flight HD",
+                "TNT Sports 1 HD",
+                "TNT Sports Ultimate UHD",
+                "TSN Malta 7 HD",
+                "Turkmenistan Sport HD",
+                "ViaPlay 2 Urheilu HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Sporting Braga vs Freiburg",
+          "kick_utc": 1777575600,
+          "time": "01/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports MENA 2 HD",
+                "beIN Sports MENA English 2 HD",
+                "Cytavision Sports 3 HD",
+                "Cytavision Sports 4K 1 UHD",
+                "Fast Sports 1 Armenia",
+                "HBO Max",
+                "Premier Sports 1 Mongolia HD",
+                "RSI La 2 Svizzera HD",
+                "RTL Deutschland HD",
+                "RTL Schweiz HD",
+                "RTL Österreich HD",
+                "RTL+ Deutschland",
+                "RTS 2 Suisse HD",
+                "Sport 24 Extra HD",
+                "Sport TV5 Portugal HD",
+                "SRF Zwei Schweiz HD",
+                "TNT Sports 4 HD",
+                "TSN Malta 8 HD",
+                "TVi Portugal HD",
+                "ViaPlay 1 Urheilu HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "UEFA Europa League",
           "match": "Nottingham-Forest vs Aston-Villa",
@@ -72,84 +208,50 @@
         },
         {
           "league": "Tennis",
-          "match": "Mutua Madrid Open",
-          "kick_utc": 1777546800,
-          "time": "30/04 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Tennis",
-                "Sky Sports Main Event",
-                "Sky Sports Ultra HDR",
-                "Sky Sports+"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Karolina Pliskova vs Anastasia Potapova",
-          "kick_utc": 1777546800,
-          "time": "30/04 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jannik Sinner vs Rafael Jodar",
-          "kick_utc": 1777557600,
-          "time": "30/04 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Marta Kostyuk vs Linda Noskova",
+          "match": "Madrid Open",
           "kick_utc": 1777572000,
           "time": "01/05 01:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
+                "RDS",
+                "TSN3"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "Arthur Fils vs Jiri Lehecka",
+          "match": "Madrid Open",
           "kick_utc": 1777577400,
           "time": "01/05 02:30 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect"
+                "TVA Sports 2",
+                "DAZN Canada"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Madrid Open",
+          "kick_utc": 1777579200,
+          "time": "01/05 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TSN3"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
         }
       ]
     }
