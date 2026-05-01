@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-01 15:20 VN",
+  "updated": "2026-05-01 20:38 VN",
   "days": {
     "20260501": {
       "date": "Friday, 01/05",
@@ -114,20 +114,19 @@
           "source": "wheresthematch"
         },
         {
-          "league": "Tennis",
-          "match": "Madrid Open",
-          "kick_utc": 1777635000,
-          "time": "01/05 06:30 PM",
+          "league": "Ligue 1",
+          "match": "Nantes vs Marseille",
+          "kick_utc": 1777726800,
+          "time": "02/05 08:00 PM",
           "tv_channels": [
             {
-              "country": "LiveSportsOnTV",
+              "country": "Wheresthematch",
               "channels": [
-                "Tennis Channel",
-                "TSN+"
+                "Ligue 1+"
               ]
             }
           ],
-          "source": "livesportsontv"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -180,22 +179,6 @@
         {
           "league": "Tennis",
           "match": "Mutua Madrid Open",
-          "kick_utc": 1777635000,
-          "time": "01/05 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Tennis",
-                "Sky Sports+"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Mutua Madrid Open",
           "kick_utc": 1777644000,
           "time": "01/05 09:00 PM",
           "tv_channels": [
@@ -205,6 +188,22 @@
                 "Sky Sports Tennis",
                 "Sky Sports Main Event",
                 "Sky Sports Ultra HDR"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Mutua Madrid Open",
+          "kick_utc": 1777723200,
+          "time": "02/05 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Tennis",
+                "Sky Sports+"
               ]
             }
           ],
