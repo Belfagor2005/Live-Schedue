@@ -1,101 +1,9 @@
 {
-  "updated": "2026-05-02 02:19 VN",
+  "updated": "2026-05-02 10:26 VN",
   "days": {
-    "20260501": {
-      "date": "Friday, 01/05",
+    "20260502": {
+      "date": "Saturday, 02/05",
       "games": [
-        {
-          "league": "Ligue 1",
-          "match": "Nantes vs Marseille",
-          "kick_utc": 1777661100,
-          "time": "02/05 01:45 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Connect Türkiye",
-                "Ligue 1+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Premier League",
-          "match": "Burnley vs Leeds United",
-          "kick_utc": 1777662000,
-          "time": "02/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "NBC Universo",
-                "USA Network",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Premier League",
-          "match": "Leeds United vs Burnley",
-          "kick_utc": 1777662000,
-          "time": "02/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Connect MENA",
-                "beIN Connect Türkiye",
-                "beIN Sports MENA 1 HD",
-                "beIN Sports MENA English 1 HD",
-                "beIN Sports Türkiye 3 HD",
-                "DAZN España",
-                "Fast Sports",
-                "FuboTV Canada",
-                "Go3 Extra Sport Baltics",
-                "Monomax Streaming",
-                "Play Sports 1 Belgium",
-                "Sky Go UK",
-                "Sky Sports Main Event HD",
-                "Sky Sports Main Event UHD",
-                "Sky Sports Premier League HD",
-                "Sky UK Ultra HD 1",
-                "Stan Sport Australia",
-                "ViaPlay Danmark HD",
-                "ViaPlay Nederland HD",
-                "ViaPlay Norge HD",
-                "ViaPlay Suomi HD",
-                "ViaPlay Sverige HD",
-                "VOYO Pro TV Romania"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Girona vs Mallorca",
-          "kick_utc": 1777662000,
-          "time": "02/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Sports Australia 3 HD",
-                "beIN Sports MENA 3 HD",
-                "LaLiga TV Bar HD",
-                "Premier Sports 2 Ireland HD",
-                "Premier Sports 2 UK HD",
-                "Premier Sports GB Player HD",
-                "S Sport+ Streaming",
-                "Tivibu Spor 2 HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Premier League",
           "match": "Aston Villa vs Tottenham Hotspur",
@@ -480,23 +388,6 @@
           "source": "livesportsontv"
         },
         {
-          "league": "Premier League",
-          "match": "Leeds-United vs Burnley",
-          "kick_utc": 1777662000,
-          "time": "02/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Premier League",
-                "Sky Sports Main Event",
-                "Sky Sports Ultra HDR"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
           "league": "Ligue 1",
           "match": "Nantes vs Marseille",
           "kick_utc": 1777726800,
@@ -680,23 +571,6 @@
             }
           ],
           "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alexander Blockx",
-          "kick_utc": 1777658400,
-          "time": "02/05 01:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel",
-                "RDS",
-                "TSN3"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
