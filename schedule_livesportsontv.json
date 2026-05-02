@@ -2,16 +2,42 @@
     {
         "Date": "2026-05-02",
         "Time": "19:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Madrid Open",
+        "Services": [
+            "Tennis Channel",
+            "TSN+"
+        ]
+    },
+    {
+        "Date": "2026-05-02",
+        "Time": "19:00",
         "League": "Spanish La Liga (Primera) - Week 34",
         "Matchup": "Villarreal vs Levante",
         "Services": [
+            "beIN Sports 2 HD",
             "beIN Sports France 8 HD max",
             "beIN Sports MENA 2 HD",
+            "DAZN 2 Portugal HD",
+            "DAZN LaLiga HD",
+            "ESPN 4 Brazil HD",
+            "LaLiga TV Bar HD",
             "LaLiga TV UK",
             "MAX Sport 4 Bulgaria HD",
+            "Megogo Futbol 3",
+            "MTV Urheilu 3 Suomi HD",
+            "Persiana Sport HD",
             "Premier Sports GB Player HD",
             "S Sport 1 Türkiye HD",
-            "S Sport+ Streaming"
+            "S Sport+ Streaming",
+            "SuperSport 1 Albania HD",
+            "SuperSport LaLiga HD",
+            "SuperSport MáXimo 1 HD",
+            "SuperSport MáXimo 3A HD",
+            "TV2 Sport Premium HD",
+            "TV2 Sport X Dansk HD",
+            "TV4 Sport Live 1 HD",
+            "Ziggo Sport HD"
         ]
     },
     {
@@ -21,10 +47,28 @@
         "Matchup": "Olympique Marseille @ Nantes",
         "Services": [
             "beIN Sport USA",
-            "beIN Sport USA Espanol",
-            "beIN SPORTS 4",
             "beIN Sport Canada",
             "beIN Sport Canada Espanol"
+        ]
+    },
+    {
+        "Date": "2026-05-02",
+        "Time": "20:00",
+        "League": "Italian Serie A - Week 35",
+        "Matchup": "Udinese vs Torino",
+        "Services": [
+            "Astro Football HD",
+            "DAZN 1 Italia HD",
+            "MAX Sport 3 Bulgaria HD",
+            "Megogo Futbol 1",
+            "MTV MAX Suomi HD",
+            "S Sport 2 Türkiye HD",
+            "S Sport+ Streaming",
+            "Sport TV3 Portugal HD",
+            "Tivibu Spor 1 HD",
+            "TV4 Sport Live 3 HD",
+            "VG+ Sport Norge",
+            "Ziggo Sport 2"
         ]
     },
     {
@@ -34,7 +78,9 @@
         "Matchup": "Nantes vs Marseille",
         "Services": [
             "beIN Connect Türkiye",
-            "Ligue 1+"
+            "Ligue 1+",
+            "Megogo Futbol 2",
+            "Sport TV3 Portugal HD"
         ]
     },
     {
@@ -45,8 +91,7 @@
         "Services": [
             "ESPN Select",
             "ESPN Unlimited",
-            "DAZN Canada",
-            "OneSoccer"
+            "DAZN Canada"
         ]
     },
     {
@@ -55,14 +100,21 @@
         "League": "German 1. Bundesliga - Week 32",
         "Matchup": "Bayern Munich vs Heidenheim",
         "Services": [
+            "beIN Sports 3 HD",
             "beIN Sports France 4 HD max",
+            "Dash TV",
+            "DAZN 3 Portugal HD",
+            "MBC Action HD",
+            "Persiana Sports 2 HD",
             "S Sport+ Streaming",
             "Sky Sport Bundesliga 1 HD",
             "Sky Sport Bundesliga HD",
             "Sky Sport Bundesliga UHD",
             "Sky Sport Max Italia HD",
             "Sky Sport Top Event HD",
+            "SporTV Brazil HD",
             "Tivibu Spor 2 HD",
+            "V Sport 3 Norge HD",
             "YouTube: Bundesliga"
         ]
     },
@@ -75,8 +127,11 @@
             "beIN Sports France 5 HD max",
             "Nova Sport Bulgaria HD",
             "S Sport+ Streaming",
+            "Setanta Sports Qazaqstan HD",
+            "Setanta Sports+ Ukraine HD",
             "Sky Sport Bundesliga 3 HD",
             "Tivibu Spor 3 HD",
+            "ViaPlay 1 Urheilu HD",
             "YouTube: Bundesliga"
         ]
     },
@@ -98,6 +153,7 @@
         "Matchup": "Eintracht Frankfurt vs Hamburg",
         "Services": [
             "S Sport+ Streaming",
+            "See Dansk HD",
             "Sky Sport Bundesliga 2 HD",
             "Tivibu Spor 4 HD",
             "YouTube: Bundesliga"
@@ -152,20 +208,34 @@
         "League": "English Premier League - Week 35",
         "Matchup": "Brentford vs West Ham United",
         "Services": [
+            "Astro Premier League 2 HD",
             "beIN Connect MENA",
             "beIN Connect Türkiye",
             "beIN Sports MENA 1 HD",
             "beIN Sports MENA 4 HD",
             "beIN Sports MENA English 1 HD",
+            "DAZN 1 Portugal HD",
+            "DAZN 2 Bar Espana",
+            "DAZN 2 Espana HD",
             "DAZN España",
             "Fast Sports",
             "FuboTV Canada",
             "Go3 Extra Sport Baltics",
             "Monomax Streaming",
+            "Persiana Sports 3 HD",
             "Play Sports 1 Belgium",
             "Premier Sports 2 Ireland HD",
+            "Setanta Sports 2 Eurasia HD",
+            "Setanta Sports Ukraine HD",
             "Sky Sport 251 Italia HD",
             "Stan Sport Australia",
+            "SuperSport 3 Albania HD",
+            "SuperSport MáXimo 2A HD",
+            "SuperSport Premier League HD",
+            "TV3 MAX Dansk HD",
+            "V Sport Premier League HD",
+            "V Sport Premium HD",
+            "ViaPlay 2 Urheilu HD",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
             "ViaPlay Norge HD",
@@ -180,23 +250,37 @@
         "League": "English Premier League - Week 35",
         "Matchup": "Newcastle United vs Brighton H.A.",
         "Services": [
+            "Astro Grandstand HD",
+            "Astro Premier League HD",
             "beIN Connect MENA",
             "beIN Connect Türkiye",
             "beIN Sports MENA 1 HD",
             "beIN Sports MENA 4 HD",
             "CRTV Sports Cameroon",
+            "DAZN 3 Espana HD",
+            "DAZN 4 Portugal HD",
             "DAZN España",
             "Diema Sport 2 HD",
+            "ESPN 1 Brazil HD",
             "Fast Sports",
             "FuboTV Canada",
             "Go3 Extra Sport Baltics",
             "Monomax Streaming",
+            "Setanta Sports 1 Eurasia HD",
             "Sky Sport Calcio HD",
+            "Sky Sport MIX Deutsch HD",
             "Sporty TV Africa",
             "Stan Sport Australia",
+            "SuperSport 2 Albania HD",
+            "SuperSport Action HD",
+            "SuperSport MáXimo 360",
+            "V Sport Football HD",
+            "V Sport Premier League 1 HD",
+            "ViaPlay 3 Urheilu HD",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
             "ViaPlay Norge HD",
+            "ViaPlay Sport News Dansk",
             "ViaPlay Suomi HD",
             "ViaPlay Sverige HD",
             "VOYO Pro TV Romania",
@@ -209,8 +293,11 @@
         "League": "English Premier League - Week 35",
         "Matchup": "Wolves vs Sunderland",
         "Services": [
+            "Astro Premier League 3 HD",
             "beIN Connect MENA",
             "beIN Connect Türkiye",
+            "DAZN 1 Bar Espana",
+            "DAZN 1 Espana HD",
             "DAZN España",
             "Fast Sports",
             "FuboTV Canada",
@@ -218,6 +305,10 @@
             "Monomax Streaming",
             "Sky Sport 252 Italia HD",
             "Stan Sport Australia",
+            "SuperSport Football HD",
+            "SuperSport MáXimo 1 HD",
+            "V Sport Extra Sverige HD",
+            "V Sport Premier League 2 HD",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
             "ViaPlay Norge HD",
@@ -232,21 +323,23 @@
         "League": "Spanish La Liga (Primera) - Week 34",
         "Matchup": "Valencia vs Atlético Madrid",
         "Services": [
+            "beIN Sports 2 HD",
+            "DAZN 2 Portugal HD",
+            "ESPN 4 Brazil HD",
             "LaLiga TV Bar HD",
             "MAX Sport 4 Bulgaria HD",
+            "Megogo Futbol 3",
+            "MTV Urheilu 3 Suomi HD",
+            "Persiana Sport HD",
             "S Sport 1 Türkiye HD",
-            "S Sport+ Streaming"
-        ]
-    },
-    {
-        "Date": "2026-05-02",
-        "Time": "21:50",
-        "League": "Tennis (WTA)",
-        "Matchup": "Madrid Open",
-        "Services": [
-            "TVA Sports 2",
-            "TSN2",
-            "DAZN Canada"
+            "S Sport+ Streaming",
+            "SuperSport 4 Albania HD",
+            "SuperSport LaLiga HD",
+            "SuperSport MáXimo 3A HD",
+            "TV2 Sport Premium HD",
+            "TV2 Sport X Dansk HD",
+            "TV4 Sportkanalen HD",
+            "Ziggo Sport 4"
         ]
     },
     {
@@ -256,9 +349,20 @@
         "Matchup": "Lorient @ PSG",
         "Services": [
             "beIN Sport USA",
-            "beIN Sport USA Espanol",
             "beIN Sport Canada",
             "beIN Sport Canada Espanol"
+        ]
+    },
+    {
+        "Date": "2026-05-02",
+        "Time": "22:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Mirra Andreeva",
+        "Services": [
+            "Tennis Channel",
+            "TVA Sports 2",
+            "TSN2",
+            "DAZN Canada"
         ]
     },
     {
@@ -267,7 +371,14 @@
         "League": "French Ligue 1 - Week 32",
         "Matchup": "Paris St Germain vs Lorient",
         "Services": [
-            "beIN Sports Türkiye Max 1 HD"
+            "beIN Sports Türkiye Max 1 HD",
+            "DAZN 2 Bar Deutsch HD",
+            "Megogo Futbol 1",
+            "Sky Sport MIX Italia HD",
+            "Sport TV2 Portugal HD",
+            "SuperSport 5 Albania HD",
+            "SuperSport Variety 3 HD",
+            "V Sport 1 Sverige HD"
         ]
     },
     {
@@ -288,11 +399,24 @@
         "League": "Italian Serie A - Week 35",
         "Matchup": "Como vs Napoli",
         "Services": [
+            "Astro Football HD",
             "DAZN 1 Italia HD",
+            "ESPN 3 Brazil HD",
             "MAX Sport 3 Bulgaria HD",
+            "Megogo Futbol 2",
+            "MTV MAX Suomi HD",
+            "Persiana Sports 2 HD",
             "S Sport 2 Türkiye HD",
             "S Sport+ Streaming",
-            "Tivibu Spor 1 HD"
+            "Setanta Sports Qazaqstan HD",
+            "Sport TV3 Portugal HD",
+            "SuperSport Football HD",
+            "SuperSport MáXimo 360",
+            "Tivibu Spor 1 HD",
+            "TV2 Sport X Dansk HD",
+            "TV4 Fotboll HD",
+            "VG+ Sport Norge",
+            "Ziggo Sport HD"
         ]
     },
     {
@@ -325,30 +449,48 @@
         "League": "English Premier League - Week 35",
         "Matchup": "Arsenal vs Fulham",
         "Services": [
+            "Astro Grandstand HD",
+            "Astro Premier League HD",
             "beIN Connect MENA",
             "beIN Connect Türkiye",
             "beIN Sports MENA 1 HD",
             "beIN Sports MENA English 1 HD",
             "beIN Sports Türkiye 3 HD",
+            "DAZN 1 Bar Espana",
+            "DAZN 1 Espana HD",
+            "DAZN 1 Portugal HD",
             "DAZN España",
             "Diema Sport 2 HD",
+            "ESPN 1 Brazil HD",
             "Fast Sports",
             "FuboTV Canada",
             "Go3 Extra Sport Baltics",
             "HBO Max",
             "Monomax Streaming",
+            "Persiana Sport HD",
             "Play Sports 1 Belgium",
+            "Setanta Sports 1 Eurasia HD",
+            "Setanta Sports Ukraine HD",
             "Sky Go UK",
             "Sky Sport Calcio HD",
+            "Sky Sport Premier League DE HD",
             "Sky Sports Main Event HD",
             "Sky Sports Main Event UHD",
             "Sky Sports Premier League HD",
             "Sky UK Ultra HD 1",
             "Stan Sport Australia",
+            "SuperSport 2 Albania HD",
+            "SuperSport MáXimo 2A HD",
+            "SuperSport Premier League HD",
             "TNT Sports 1 HD",
             "TNT Sports Digital Exclusive",
             "TNT Sports Ultimate UHD",
+            "TV3 MAX Dansk HD",
+            "V Sport Premier League HD",
+            "V Sport Premium HD",
+            "V Sport Ultra 4K UHD",
             "Varzish TV Sport HD",
+            "ViaPlay 2 Urheilu HD",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
             "ViaPlay Norge HD",
@@ -363,12 +505,25 @@
         "League": "Spanish La Liga (Primera) - Week 34",
         "Matchup": "Alavés vs Athletic Bilbao",
         "Services": [
+            "beIN Sports 2 HD",
             "beIN Sports Australia 2 HD",
             "beIN Sports MENA 3 HD",
+            "DAZN 2 Portugal HD",
+            "ESPN 4 Brazil HD",
+            "LaLiga TV Bar HD",
+            "M+ LaLiga HDR",
             "MAX Sport 4 Bulgaria HD",
+            "Megogo Futbol 3",
+            "MTV Urheilu 3 Suomi HD",
             "Premier Sports GB Player HD",
             "S Sport 1 Türkiye HD",
-            "S Sport+ Streaming"
+            "S Sport+ Streaming",
+            "SuperSport 4 Albania HD",
+            "SuperSport LaLiga HD",
+            "SuperSport MáXimo 3A HD",
+            "TV2 Sport Premium HD",
+            "TV4 Sport Live 1 HD",
+            "Ziggo Sport 2"
         ]
     },
     {
@@ -377,10 +532,19 @@
         "League": "German 1. Bundesliga - Week 32",
         "Matchup": "Bayer Leverkusen vs RB Leipzig",
         "Services": [
+            "beIN Sports 3 HD",
+            "DAZN 3 Portugal HD",
             "Futbol TV Tajikistan",
+            "M+ Liga de Campeones HD",
+            "MBC Action HD",
+            "Movistar Plus+ HD",
             "Nova Sport Bulgaria HD",
+            "Okko Prime Sport HD",
             "OneFootball",
+            "Orange Fútbol 3 HD",
+            "Persiana Sports 3 HD",
             "S Sport+ Streaming",
+            "See Dansk HD",
             "Sky Go UK",
             "Sky Sport Bundesliga 1 HD",
             "Sky Sport Bundesliga HD",
@@ -388,8 +552,13 @@
             "Sky Sport Max Italia HD",
             "Sky Sport Top Event HD",
             "Sky Sports MIX UK HD",
+            "SporTV Brazil HD",
             "Sporty TV Africa",
             "Tivibu Spor 2 HD",
+            "Tring Sport 2 HD",
+            "V Sport 2 Norge HD",
+            "ViaPlay 3 Urheilu HD",
+            "ViaPlay Sport Sverige HD",
             "YouTube: Sky Sports Football"
         ]
     },
@@ -401,8 +570,12 @@
         "Services": [
             "beIN Sports MENA 4 HD",
             "beIN Sports Türkiye Max 1 HD",
+            "DAZN 2 Bar Deutsch HD",
             "Ligue 1+",
-            "Megogo Futbol 4"
+            "Megogo Futbol 4",
+            "Sport TV2 Portugal HD",
+            "SuperSport Variety 3 HD",
+            "V Sport Football HD"
         ]
     },
     {
@@ -422,14 +595,25 @@
         "League": "Italian Serie A - Week 35",
         "Matchup": "Atalanta vs Genoa",
         "Services": [
+            "Astro Football HD",
             "Futbol TV Tajikistan",
             "MAX Sport 3 Bulgaria HD",
+            "Megogo Futbol 2",
+            "MTV Urheilu 2 Suomi HD",
+            "Persiana Sports 2 HD",
             "S Sport 2 Türkiye HD",
             "S Sport+ Streaming",
+            "Setanta Sports Qazaqstan HD",
             "Sky Sport 251 Italia HD",
             "Sky Sport Calcio HD",
             "Sky Sport Italia 4K UHD",
-            "Tivibu Spor 1 HD"
+            "Sport TV3 Portugal HD",
+            "SuperSport Football HD",
+            "SuperSport MáXimo 360",
+            "Tivibu Spor 1 HD",
+            "TV4 Sport Live 1 HD",
+            "VG+ Sport Norge",
+            "Ziggo Sport 2"
         ]
     },
     {
@@ -449,12 +633,29 @@
         "League": "Spanish La Liga (Primera) - Week 34",
         "Matchup": "Osasuna vs Barcelona",
         "Services": [
+            "beIN Sports 2 HD",
             "DAZN 1 Italia HD",
+            "DAZN 1 Portugal HD",
+            "DAZN 2 Bar Deutsch HD",
+            "DAZN LaLiga HD",
             "Disney+ UK",
+            "ESPN 1 Brazil HD",
+            "LaLiga TV Bar HD",
             "MAX Sport 4 Bulgaria HD",
+            "Megogo Futbol 1",
+            "MTV Urheilu 3 Suomi HD",
+            "Persiana Sport HD",
             "S Sport 1 Türkiye HD",
             "S Sport+ Streaming",
-            "Varzish TV Sport HD"
+            "Setanta Sports 1 Eurasia HD",
+            "SuperSport 2 Albania HD",
+            "SuperSport LaLiga HD",
+            "SuperSport MáXimo 3A HD",
+            "TV2 Sport 1 Norge HD",
+            "TV2 Sport X Dansk HD",
+            "TV4 Fotboll HD",
+            "Varzish TV Sport HD",
+            "Ziggo Sport HD"
         ]
     },
     {
@@ -468,13 +669,393 @@
             "beIN Sports Türkiye Max 1 HD",
             "Diema Sport 2 HD",
             "Ligue 1+",
+            "Megogo Futbol 3",
+            "Persiana Sports 3 HD",
             "Prime Video UK PPV",
             "Sky Sport Max Italia HD",
+            "Sport TV2 Portugal HD",
+            "TV3 Sport Dansk HD",
             "TV5 Monde Afrique HD",
             "TV5 Monde Amérique Latine",
             "TV5 Monde Asie",
             "TV5 Monde Europe HD",
-            "TV5 Monde Maghreb-Orient HD"
+            "TV5 Monde Maghreb-Orient HD",
+            "V Sport Premium HD",
+            "ViaPlay 2 Urheilu HD"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "19:00",
+        "League": "Spanish La Liga (Primera) - Week 34",
+        "Matchup": "Celta Vigo vs Elche",
+        "Services": [
+            "beIN Sports 1 HD",
+            "beIN Sports Australia 3 HD",
+            "beIN Sports France 5 HD max",
+            "beIN Sports MENA 3 HD",
+            "DAZN 1 Portugal HD",
+            "LaLiga TV Bar HD",
+            "M+ LaLiga HDR",
+            "MAX Sport 4 Bulgaria HD",
+            "Megogo Futbol 2",
+            "Premier Sports GB Player HD",
+            "SuperSport 1 Albania HD"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "Premier League",
+        "Matchup": "Crystal Palace @ AFC Bournemouth",
+        "Services": [
+            "Peacock",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "Serie A",
+        "Matchup": "AC Milan @ Sassuolo",
+        "Services": [
+            "Paramount+ (US)",
+            "DAZN US",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "English Premier League - Week 35",
+        "Matchup": "Bournemouth vs Crystal Palace",
+        "Services": [
+            "Astro Premier League 3 HD",
+            "beIN Connect MENA",
+            "beIN Connect Türkiye",
+            "beIN Sports Türkiye 4 HD",
+            "DAZN 2 Bar Espana",
+            "DAZN 2 Espana HD",
+            "DAZN España",
+            "ESPN 4 Brazil HD",
+            "Fast Sports",
+            "FuboTV Canada",
+            "Go3 Extra Sport Baltics",
+            "Monomax Streaming",
+            "Nova Sport Bulgaria HD",
+            "Play Sports 2 Belgium",
+            "Setanta Sports 2 Eurasia HD",
+            "Setanta Sports Premium HD",
+            "Sky Go UK",
+            "Sky Sport Calcio HD",
+            "Sky Sports HD",
+            "Sky Sports+ TV HD",
+            "Stan Sport Australia",
+            "SuperSport 3 Albania HD",
+            "ViaPlay Danmark HD",
+            "ViaPlay Nederland HD",
+            "ViaPlay Norge HD",
+            "ViaPlay Suomi HD",
+            "ViaPlay Sverige HD",
+            "VOYO Pro TV Romania"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "Italian Serie A - Week 35",
+        "Matchup": "Inter Milan vs Parma",
+        "Services": [
+            "Astro Football HD",
+            "DAZN 1 Italia HD",
+            "DAZN Great Britain",
+            "DAZN Ireland",
+            "ESPN 1 Brazil HD",
+            "HBO Max",
+            "MAX Sport 3 Bulgaria HD",
+            "Megogo Futbol 2",
+            "Setanta Sports Qazaqstan HD",
+            "Sport TV2 Portugal HD",
+            "TNT Sports 2 HD",
+            "Tring Sport 1 HD",
+            "TV2 Sport X Dansk HD",
+            "VG+ Sport Norge"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "Italian Serie A - Week 35",
+        "Matchup": "Pisa vs Lecce",
+        "Services": [
+            "Astro Football HD",
+            "Megogo Futbol 2",
+            "S Sport 2 Türkiye HD",
+            "S Sport+ Streaming",
+            "Tivibu Spor 1 HD"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "Italian Serie A - Week 35",
+        "Matchup": "Bologna vs Cagliari",
+        "Services": [
+            "Astro Football HD",
+            "DAZN 1 Bar Deutsch HD",
+            "DAZN 1 Italia HD",
+            "MAX Sport 3 Bulgaria HD",
+            "Megogo Futbol 1",
+            "Setanta Sports 2 Eurasia HD",
+            "Sport TV2 Portugal HD"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "Italian Serie A - Week 35",
+        "Matchup": "Cremonese vs Lazio",
+        "Services": [
+            "DAZN 1 Italia HD",
+            "DAZN Great Britain",
+            "DAZN Ireland",
+            "MAX Sport 3 Bulgaria HD",
+            "VG+ Sport Norge"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "Italian Serie A - Week 35",
+        "Matchup": "Juventus vs Hellas Verona",
+        "Services": [
+            "Astro Football HD",
+            "DAZN Great Britain",
+            "DAZN Ireland",
+            "MAX Sport 3 Bulgaria HD",
+            "Megogo Futbol 1",
+            "Setanta Sports Qazaqstan HD",
+            "Sky Sport 251 Italia HD",
+            "Sky Sport Calcio HD",
+            "Sky Sport Italia 4K UHD",
+            "Sport TV2 Portugal HD",
+            "VG+ Sport Norge"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "Italian Serie A - Week 35",
+        "Matchup": "Roma vs Fiorentina",
+        "Services": [
+            "Astro Football HD",
+            "MAX Sport 3 Bulgaria HD",
+            "Sky Sport 251 Italia HD",
+            "Sky Sport Calcio HD",
+            "Sky Sport Italia 4K UHD",
+            "VG+ Sport Norge",
+            "Ziggo Sport 3"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "Italian Serie A - Week 35",
+        "Matchup": "Sassuolo vs AC Milan",
+        "Services": [
+            "Astro Football HD",
+            "DAZN 1 Italia HD",
+            "DAZN Great Britain",
+            "DAZN Ireland",
+            "ESPN 2 Brazil HD",
+            "M+ Liga de Campeones 2 HD",
+            "MAX Sport 3 Bulgaria HD",
+            "Megogo Futbol 1",
+            "Orange Fútbol 3 HD",
+            "Setanta Sports Qazaqstan HD",
+            "Sport TV2 Portugal HD",
+            "VG+ Sport Norge"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:00",
+        "League": "French Ligue 1 - Week 32",
+        "Matchup": "Lille vs Le Havre",
+        "Services": [
+            "beIN Sports MENA 4 HD",
+            "beIN Sports Türkiye Max 1 HD",
+            "Ligue 1+",
+            "Megogo Futbol 3",
+            "Sport TV2 Portugal HD"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "20:30",
+        "League": "German 1. Bundesliga - Week 32",
+        "Matchup": "St Pauli vs Mainz 05",
+        "Services": [
+            "beIN Sports 3 HD",
+            "DAZN 1 Bar Deutsch HD",
+            "DAZN 3 Portugal HD",
+            "DAZN Deutsch",
+            "Diema Sport 3 HD",
+            "OneFootball",
+            "Prime Video UK PPV",
+            "Setanta Sports+ Ukraine HD",
+            "Sky Sport 253 Italia HD",
+            "TV3 MAX Dansk HD"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "21:15",
+        "League": "Spanish La Liga (Primera) - Week 34",
+        "Matchup": "Getafe vs Rayo Vallecano",
+        "Services": [
+            "beIN Sports 1 HD",
+            "beIN Sports Australia 3 HD",
+            "beIN Sports France 5 HD max",
+            "beIN Sports MENA 3 HD",
+            "DAZN 2 Portugal HD",
+            "LaLiga TV Bar HD",
+            "MAX Sport 4 Bulgaria HD",
+            "Megogo Futbol 2",
+            "Premier Sports 2 Ireland HD",
+            "Premier Sports 2 UK HD",
+            "Premier Sports GB Player HD",
+            "SuperSport 1 Albania HD",
+            "Ziggo Sport 2"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "21:30",
+        "League": "Premier League",
+        "Matchup": "Liverpool FC @ Manchester United",
+        "Services": [
+            "Peacock",
+            "NBC Sports Network",
+            "Telemundo",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "21:30",
+        "League": "English Premier League - Week 35",
+        "Matchup": "Manchester United vs Liverpool",
+        "Services": [
+            "Astro Grandstand HD",
+            "Astro Premier League HD",
+            "beIN Connect MENA",
+            "beIN Connect Türkiye",
+            "beIN Sports MENA 1 HD",
+            "beIN Sports MENA English 1 HD",
+            "beIN Sports Türkiye 3 HD",
+            "DAZN 1 Bar Espana",
+            "DAZN España",
+            "Fast Sports",
+            "FuboTV Canada",
+            "Go3 Extra Sport Baltics",
+            "M+ #Vamos Bar 2",
+            "M+ Liga de Campeones HD",
+            "Monomax Streaming",
+            "Movistar Plus+ HD",
+            "Play Sports 1 Belgium",
+            "See Dansk HD",
+            "Setanta Sports Ukraine HD",
+            "Sky Go UK",
+            "Sky Sport Max Italia HD",
+            "Sky Sport Top Event HD",
+            "Sky Sports Main Event HD",
+            "Sky Sports Main Event UHD",
+            "Sky Sports Premier League HD",
+            "Sky UK Ultra HD 1",
+            "Stan Sport Australia",
+            "SuperSport 2 Albania HD",
+            "V Sport Premier League HD",
+            "ViaPlay Danmark HD",
+            "ViaPlay Nederland HD",
+            "ViaPlay Norge HD",
+            "ViaPlay Suomi HD",
+            "ViaPlay Sverige HD",
+            "VOYO Pro TV Romania"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "22:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Jannik Sinner",
+        "Services": [
+            "Tennis Channel",
+            "RDS",
+            "TSN2"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "22:15",
+        "League": "French Ligue 1 - Week 32",
+        "Matchup": "Strasbourg vs Toulouse",
+        "Services": [
+            "beIN Connect Türkiye",
+            "beIN Sports MENA 6 HD",
+            "Sport TV5 Portugal HD"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "22:15",
+        "League": "French Ligue 1 - Week 32",
+        "Matchup": "Auxerre vs Angers",
+        "Services": [
+            "beIN Sports MENA 4 HD",
+            "beIN Sports Türkiye Max 2 HD"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "22:15",
+        "League": "French Ligue 1 - Week 32",
+        "Matchup": "Paris FC vs Brest",
+        "Services": [
+            "beIN Connect Türkiye",
+            "beIN Sports MENA 5 HD",
+            "Megogo Futbol 3",
+            "Sport TV4 Portugal HD"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "22:30",
+        "League": "Bundesliga",
+        "Matchup": "Borussia Dortmund @ Borussia Mönchengladbach",
+        "Services": [
+            "ESPN Select",
+            "ESPN Unlimited",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-05-03",
+        "Time": "22:30",
+        "League": "German 1. Bundesliga - Week 32",
+        "Matchup": "Mönchengladbach vs Borussia Dortmund",
+        "Services": [
+            "beIN Sports 3 HD",
+            "beIN Sports France 2 HD",
+            "DAZN 2 Bar Deutsch HD",
+            "DAZN 3 Portugal HD",
+            "DAZN Deutsch",
+            "Nova Sport Bulgaria HD",
+            "OneFootball",
+            "Prime Video UK PPV",
+            "Setanta Sports+ Ukraine HD",
+            "Sky Sport MIX Italia HD",
+            "TV3 MAX Dansk HD"
         ]
     }
 ]
