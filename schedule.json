@@ -1,40 +1,9 @@
 {
-  "updated": "2026-05-03 15:07 VN",
+  "updated": "2026-05-03 20:22 VN",
   "days": {
     "20260503": {
       "date": "Sunday, 03/05",
       "games": [
-        {
-          "league": "Serie A",
-          "match": "Bologna vs Cagliari",
-          "kick_utc": 1777804200,
-          "time": "03/05 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "ART Motion Sport 1 HD",
-                "Astro Football HD",
-                "Cytavision Sports 4 HD",
-                "DAZN 1 Bar Deutsch HD",
-                "DAZN 1 Italia HD",
-                "Eleven Sports 1 Polska HD",
-                "MAX Sport 3 Bulgaria HD",
-                "Megogo Futbol 1",
-                "MTV Urheilu 1 Suomi HD",
-                "Persiana Sports 2 HD",
-                "Prima Sport RO 1 HD",
-                "S Sport 2 Türkiye HD",
-                "Setanta Sports 2 Eurasia HD",
-                "Sport TV2 Portugal HD",
-                "SuperSport Football HD",
-                "SuperSport MáXimo 360",
-                "TV4 Sport Live 1 HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "La Liga",
           "match": "Celta Vigo vs Elche",
