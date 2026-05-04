@@ -1,141 +1,9 @@
 {
-  "updated": "2026-05-04 21:15 VN",
+  "updated": "2026-05-05 02:47 VN",
   "days": {
     "20260504": {
       "date": "Monday, 04/05",
       "games": [
-        {
-          "league": "Premier League",
-          "match": "Nottingham Forest vs Chelsea",
-          "kick_utc": 1777903200,
-          "time": "04/05 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "NBC Universo",
-                "TeleXitos",
-                "USA Network",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Premier League",
-          "match": "Chelsea vs Nottingham Forest",
-          "kick_utc": 1777903200,
-          "time": "04/05 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Astro Grandstand HD",
-                "Astro Premier League HD",
-                "beIN Connect MENA",
-                "beIN Connect Türkiye",
-                "beIN Sports MENA 1 HD",
-                "beIN Sports MENA English 1 HD",
-                "beIN Sports Türkiye 3 HD",
-                "Canal+ Extra 1 Polska HD",
-                "Canal+ Foot HD",
-                "Canal+ Sport 1 Czech HD",
-                "Cytavision Sports 3 HD",
-                "Cytavision Sports PPV 3 HD",
-                "DAZN 1 Bar Espana",
-                "DAZN 1 Espana HD",
-                "DAZN 1 Portugal HD",
-                "DAZN España",
-                "Diema Sport 2 HD",
-                "Fast Sports",
-                "Fast Sports TV Armenia",
-                "FuboTV Canada",
-                "Futbol TV Tajikistan",
-                "Go3 Extra Sport Baltics",
-                "Monomax Streaming",
-                "Nova Sports Premier League HD",
-                "Persiana Sport HD",
-                "See Dansk HD",
-                "Setanta Sports 1 Eurasia HD",
-                "Setanta Sports 1 Georgia HD",
-                "Setanta Sports Ukraine HD",
-                "Sky Go UK",
-                "Sky Sport Calcio HD",
-                "Sky Sport Italia 4K UHD",
-                "Sky Sport Premier League DE HD",
-                "Sky Sport Top Event HD",
-                "Sky Sports Main Event HD",
-                "Sky Sports Main Event UHD",
-                "Sky Sports Premier League HD",
-                "Sky UK Ultra HD 1",
-                "Stan Sport Australia",
-                "SuperSport 2 Albania HD",
-                "SuperSport MáXimo 1 HD",
-                "SuperSport MáXimo 2A HD",
-                "SuperSport Premier League HD",
-                "TV3+ Norge HD",
-                "V Sport Premier League HD",
-                "V Sport Premium HD",
-                "ViaPlay 2 Urheilu HD",
-                "ViaPlay Danmark HD",
-                "ViaPlay Nederland HD",
-                "ViaPlay Norge HD",
-                "ViaPlay Suomi HD",
-                "ViaPlay Sverige HD",
-                "VOYO Pro TV Romania"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Serie A",
-          "match": "Lazio vs Cremonese",
-          "kick_utc": 1777912200,
-          "time": "04/05 11:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+ (US)",
-                "DAZN US",
-                "FOX Deportes",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Serie A",
-          "match": "Cremonese vs Lazio",
-          "kick_utc": 1777912200,
-          "time": "04/05 11:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "ART Motion Sport 2 HD",
-                "Cytavision Sports 4 HD",
-                "DAZN 1 Italia HD",
-                "DAZN Great Britain",
-                "DAZN Ireland",
-                "Eleven Sports 1 Polska HD",
-                "Fast Sports TV Armenia",
-                "MAX Sport 3 Bulgaria HD",
-                "MTV Urheilu 3 Suomi HD",
-                "Persiana Sport HD",
-                "SuperSport Football HD",
-                "SuperSport MáXimo 1 HD",
-                "SuperSport MáXimo 360",
-                "TV4 Sport Live 2 HD",
-                "VG+ Sport Norge"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Serie A",
           "match": "Fiorentina vs Roma",
@@ -165,7 +33,10 @@
               "channels": [
                 "ART Motion Sport 2 HD",
                 "Astro Football HD",
+                "Cosmote Sport 2 HD",
                 "Cytavision Sports 4 HD",
+                "DAZN Great Britain",
+                "DAZN Ireland",
                 "Eleven Sports 1 Polska HD",
                 "Fast Sports 1 Armenia",
                 "Futbol TV Tajikistan",
@@ -180,6 +51,7 @@
                 "Sky Sport Italia 4K UHD",
                 "SuperSport Football HD",
                 "SuperSport MáXimo 360",
+                "Tring Sport 1 HD",
                 "TV4 Sport Live 2 HD",
                 "VG+ Sport Norge",
                 "Ziggo Sport 3"
@@ -234,6 +106,7 @@
                 "DAZN 1 Portugal HD",
                 "DAZN España",
                 "Diema Sport 2 HD",
+                "ESPN 1 Brazil HD",
                 "Fast Sports",
                 "Fast Sports TV Armenia",
                 "FuboTV Canada",
@@ -253,6 +126,7 @@
                 "Sky Sports Main Event UHD",
                 "Sky Sports Premier League HD",
                 "Sky UK Ultra HD 1",
+                "Solh TV",
                 "Stan Sport Australia",
                 "SuperSport 2 Albania HD",
                 "SuperSport Grandstand HD",
@@ -263,6 +137,7 @@
                 "V Sport Premier League HD",
                 "V Sport Premium HD",
                 "V Sport Ultra 4K UHD",
+                "Varzish TV Sport HD",
                 "ViaPlay 2 Urheilu HD",
                 "ViaPlay Danmark HD",
                 "ViaPlay Nederland HD",
@@ -323,23 +198,6 @@
         },
         {
           "league": "Premier League",
-          "match": "Chelsea vs Nottingham-Forest",
-          "kick_utc": 1777903200,
-          "time": "04/05 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Premier League",
-                "Sky Sports Main Event",
-                "Sky Sports Ultra HDR"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Premier League",
           "match": "Everton vs Manchester-City",
           "kick_utc": 1777921200,
           "time": "05/05 02:00 AM",
@@ -356,35 +214,50 @@
           "source": "wheresthematch"
         },
         {
-          "league": "Premier League",
-          "match": "Chelsea vs Nottingham",
-          "kick_utc": 1777903200,
-          "time": "04/05 09:00 PM",
+          "league": "UEFA Champions League",
+          "match": "Arsenal vs Atletico-Madrid",
+          "kick_utc": 1778007600,
+          "time": "06/05 02:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "Stan Sport"
+                "Amazon Prime Video"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
-          "league": "Serie A",
-          "match": "AS Roma vs Fiorentina",
-          "kick_utc": 1777920300,
-          "time": "05/05 01:45 AM",
+          "league": "Tennis",
+          "match": "Italian Open",
+          "kick_utc": 1777971600,
+          "time": "05/05 04:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "Tennis Channel",
+                "T2"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Italian Open",
+          "kick_utc": 1777986000,
+          "time": "05/05 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "T2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
