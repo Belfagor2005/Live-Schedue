@@ -41,6 +41,7 @@
             "Go3 Extra Sport Baltics",
             "Monomax Streaming",
             "Nova Sports Premier League HD",
+            "Nova Sports Prime Hellas HD",
             "Persiana Sport HD",
             "See Dansk HD",
             "Setanta Sports 1 Eurasia HD",
@@ -55,6 +56,7 @@
             "Sky Sports Main Event UHD",
             "Sky Sports Premier League HD",
             "Sky UK Ultra HD 1",
+            "Solh TV",
             "Stan Sport Australia",
             "SuperSport 2 Albania HD",
             "SuperSport MáXimo 1 HD",
@@ -91,11 +93,13 @@
         "Matchup": "Cremonese vs Lazio",
         "Services": [
             "ART Motion Sport 2 HD",
+            "Cosmote Sport 3 HD",
             "Cytavision Sports 4 HD",
             "DAZN 1 Italia HD",
             "DAZN Great Britain",
             "DAZN Ireland",
             "Eleven Sports 1 Polska HD",
+            "ESPN 4 Brazil HD",
             "Fast Sports TV Armenia",
             "MAX Sport 3 Bulgaria HD",
             "MTV Urheilu 3 Suomi HD",
@@ -103,6 +107,7 @@
             "SuperSport Football HD",
             "SuperSport MáXimo 1 HD",
             "SuperSport MáXimo 360",
+            "Tring Sport 1 HD",
             "TV4 Sport Live 2 HD",
             "VG+ Sport Norge"
         ]
@@ -127,7 +132,10 @@
         "Services": [
             "ART Motion Sport 2 HD",
             "Astro Football HD",
+            "Cosmote Sport 2 HD",
             "Cytavision Sports 4 HD",
+            "DAZN Great Britain",
+            "DAZN Ireland",
             "Eleven Sports 1 Polska HD",
             "Fast Sports 1 Armenia",
             "Futbol TV Tajikistan",
@@ -142,6 +150,7 @@
             "Sky Sport Italia 4K UHD",
             "SuperSport Football HD",
             "SuperSport MáXimo 360",
+            "Tring Sport 1 HD",
             "TV4 Sport Live 2 HD",
             "VG+ Sport Norge",
             "Ziggo Sport 3"
@@ -184,6 +193,7 @@
             "DAZN 1 Portugal HD",
             "DAZN España",
             "Diema Sport 2 HD",
+            "ESPN 1 Brazil HD",
             "Fast Sports",
             "Fast Sports TV Armenia",
             "FuboTV Canada",
@@ -203,6 +213,7 @@
             "Sky Sports Main Event UHD",
             "Sky Sports Premier League HD",
             "Sky UK Ultra HD 1",
+            "Solh TV",
             "Stan Sport Australia",
             "SuperSport 2 Albania HD",
             "SuperSport Grandstand HD",
@@ -213,6 +224,7 @@
             "V Sport Premier League HD",
             "V Sport Premium HD",
             "V Sport Ultra 4K UHD",
+            "Varzish TV Sport HD",
             "ViaPlay 2 Urheilu HD",
             "ViaPlay Danmark HD",
             "ViaPlay Nederland HD",
@@ -260,6 +272,25 @@
             "TV2 Sport 1 Norge HD",
             "TV4 Sport Live 3 HD",
             "Ziggo Sport 2"
+        ]
+    },
+    {
+        "Date": "2026-05-05",
+        "Time": "16:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Italian Open",
+        "Services": [
+            "Tennis Channel",
+            "T2"
+        ]
+    },
+    {
+        "Date": "2026-05-05",
+        "Time": "20:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Italian Open",
+        "Services": [
+            "T2"
         ]
     }
 ]
