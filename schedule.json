@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-05 15:19 VN",
+  "updated": "2026-05-06 02:42 VN",
   "days": {
     "20260505": {
       "date": "Tuesday, 05/05",
@@ -40,6 +40,9 @@
                 "beIN Sports MENA 1 HD",
                 "beIN Sports MENA English 1 HD",
                 "beIN Sports MENA French 1 HD",
+                "Blue Sport 1 Live HD",
+                "Blue Sport 1 Live UHD",
+                "Blue Sport 2 Live HDR",
                 "Blue Sport D 2 HD",
                 "Canal+ Extra 1 Polska HD",
                 "Canal+ Foot HD",
@@ -53,8 +56,11 @@
                 "DAZN Canada",
                 "Digi 4K UHD",
                 "Digi Sport 1 Romania HD",
+                "Esteqlal TV",
                 "Fast Sports TV Armenia",
                 "Futbol TV Tajikistan",
+                "Futbol TV Uzbekistan",
+                "GEM Sport HD",
                 "Go3 Extra Sport Baltics",
                 "Ictimai TV HD",
                 "Jurnal TV Moldova",
@@ -86,6 +92,7 @@
                 "Sky Sport 251 Italia HD",
                 "Sky Sport Italia 4K UHD",
                 "Sky Sport Uno Italia HD",
+                "Solh TV",
                 "Sport TV5 Portugal HD",
                 "Stan Sport Australia",
                 "SuperSport Grandstand HD",
@@ -95,6 +102,7 @@
                 "TRT 1 Türkiye HD",
                 "TSN Malta 1 HD",
                 "TUDN Español USA",
+                "Turkmenistan Sport HD",
                 "TV3+ Dansk HD",
                 "TVP 1 Polska HD",
                 "Univision USA",
@@ -126,15 +134,31 @@
           "source": "wheresthematch"
         },
         {
+          "league": "UEFA Champions League",
+          "match": "Bayern-Munich vs Paris-Saint-Germain",
+          "kick_utc": 1778094000,
+          "time": "07/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 1",
+                "TNT Sports Ultimate",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
           "league": "Tennis",
           "match": "Italian Open",
-          "kick_utc": 1777971600,
-          "time": "05/05 04:00 PM",
+          "kick_utc": 1778058000,
+          "time": "06/05 04:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "Tennis Channel",
                 "T2"
               ]
             }
@@ -144,17 +168,49 @@
         {
           "league": "Tennis",
           "match": "Italian Open",
-          "kick_utc": 1777986000,
-          "time": "05/05 08:00 PM",
+          "kick_utc": 1778074200,
+          "time": "06/05 08:30 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "T2"
+                "T2",
+                "RDS 2"
               ]
             }
           ],
           "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Internazionali BNL dItalia",
+          "kick_utc": 1778058000,
+          "time": "06/05 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Tennis",
+                "Sky Sports+"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Internazionali BNL dItalia",
+          "kick_utc": 1778086800,
+          "time": "07/05 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Tennis"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
         }
       ]
     }
