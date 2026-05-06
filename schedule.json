@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-06 15:34 VN",
+  "updated": "2026-05-06 21:27 VN",
   "days": {
     "20260506": {
       "date": "Wednesday, 06/05",
@@ -122,21 +122,6 @@
         {
           "league": "Tennis",
           "match": "Italian Open",
-          "kick_utc": 1778058000,
-          "time": "06/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "T2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Italian Open",
           "kick_utc": 1778074200,
           "time": "06/05 08:30 PM",
           "tv_channels": [
@@ -160,6 +145,24 @@
               "country": "Wheresthematch",
               "channels": [
                 "Sky Sports Tennis"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Internazionali BNL dItalia",
+          "kick_utc": 1778144400,
+          "time": "07/05 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Main Event",
+                "Sky Sports Tennis",
+                "Sky Sports Ultra HDR",
+                "Sky Sports+"
               ]
             }
           ],
