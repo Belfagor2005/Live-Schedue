@@ -1,63 +1,63 @@
 [
   {
     "competition": "ATP Rome",
-    "home": "Damir Dzumhur",
-    "away": "Adrian Mannarino",
-    "vietnam_time": "16:00",
-    "vietnam_date": "07/05/2026",
-    "channels": "beIN SPORTS 1",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Rome",
-    "home": "Fabian Marozsan",
-    "away": "Vit Kopriva",
-    "vietnam_time": "16:00",
-    "vietnam_date": "07/05/2026",
-    "channels": "beIN Sports Connect",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Rome",
-    "home": "Alexandra Eala",
-    "away": "Magdalena Frech",
-    "vietnam_time": "16:00",
-    "vietnam_date": "07/05/2026",
-    "channels": "beIN SPORTS 2",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Rome",
-    "home": "Jaqueline Adina Cristian",
-    "away": "Beatriz Haddad Maia",
-    "vietnam_time": "16:00",
-    "vietnam_date": "07/05/2026",
-    "channels": "beIN Sports Connect | Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Rome",
-    "home": "Aleksandar Vukic",
-    "away": "Patrick Kypson",
-    "vietnam_time": "20:30",
+    "home": "",
+    "away": "",
+    "vietnam_time": "22:00",
     "vietnam_date": "07/05/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
-    "competition": "WTA Rome",
-    "home": "Elisabaetta Cocciaretto",
-    "away": "Sinja Kraus",
-    "vietnam_time": "00:00",
+    "competition": "Europa Conference League",
+    "home": "Strasbourg",
+    "away": "Rayo Vallecano",
+    "vietnam_time": "02:00",
     "vietnam_date": "08/05/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 2",
-    "sport": "Tennis"
+    "channels": "Stan Sport",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "Europa Conference League",
+    "home": "Crystal Palace",
+    "away": "Shakhtar Donetsk",
+    "vietnam_time": "02:00",
+    "vietnam_date": "08/05/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "Europa League",
+    "home": "Aston Villa",
+    "away": "Nottingham",
+    "vietnam_time": "02:00",
+    "vietnam_date": "08/05/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "Europa League",
+    "home": "Freiburg",
+    "away": "Braga",
+    "vietnam_time": "02:00",
+    "vietnam_date": "08/05/2026",
+    "channels": "Stan Sport",
+    "sport": "Soccer"
   },
   {
     "competition": "ATP Rome",
     "home": "",
     "away": "",
     "vietnam_time": "16:00",
+    "vietnam_date": "08/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Rome",
+    "home": "",
+    "away": "",
+    "vietnam_time": "22:00",
     "vietnam_date": "08/05/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
