@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-07 15:41 VN",
+  "updated": "2026-05-07 21:28 VN",
   "days": {
     "20260507": {
       "date": "Thursday, 07/05",
@@ -245,23 +245,6 @@
         {
           "league": "Tennis",
           "match": "Italian Open",
-          "kick_utc": 1778144400,
-          "time": "07/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel",
-                "DAZN Canada",
-                "T2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Italian Open",
           "kick_utc": 1778158800,
           "time": "07/05 08:00 PM",
           "tv_channels": [
@@ -307,9 +290,43 @@
         },
         {
           "league": "Tennis",
+          "match": "Internazionali BNL dItalia",
+          "kick_utc": 1778230800,
+          "time": "08/05 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Main Event",
+                "Sky Sports Tennis",
+                "Sky Sports Ultra HDR",
+                "Sky Sports+"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
           "match": "",
           "kick_utc": 1778166000,
           "time": "07/05 10:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1778230800,
+          "time": "08/05 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
