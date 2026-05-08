@@ -1,9 +1,53 @@
 {
-  "updated": "2026-05-08 10:33 VN",
+  "updated": "2026-05-08 14:48 VN",
   "days": {
     "20260508": {
       "date": "Friday, 08/05",
       "games": [
+        {
+          "league": "Bundesliga",
+          "match": "Eintracht Frankfurt vs Borussia Dortmund",
+          "kick_utc": 1778265000,
+          "time": "09/05 01:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited",
+                "DAZN Canada",
+                "OneSoccer"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Bundesliga",
+          "match": "Borussia Dortmund vs Eintracht Frankfurt",
+          "kick_utc": 1778265000,
+          "time": "09/05 01:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "BBC iPlayer",
+                "BBC iPlayer 4K",
+                "BBC Sport Website",
+                "beIN Sports France 2 HD",
+                "CRTV Sports Cameroon",
+                "S Sport+ Streaming",
+                "Sky Sport Bundesliga 1 HD",
+                "Sky Sport Bundesliga HD",
+                "Sky Sport Bundesliga UHD",
+                "Sky Sport Top Event HD",
+                "Tivibu Spor 1 HD",
+                "YouTube: Bundesliga"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Bundesliga",
           "match": "Borussia-Dortmund vs Eintracht-Frankfurt",
@@ -23,66 +67,6 @@
           "source": "wheresthematch"
         },
         {
-          "league": "UEFA Europa Conference League",
-          "match": "Strasbourg vs Rayo Vallecano",
-          "kick_utc": 1778266800,
-          "time": "09/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "UEFA Europa Conference League",
-          "match": "Crystal Palace vs Shakhtar Donetsk",
-          "kick_utc": 1778266800,
-          "time": "09/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Aston Villa vs Nottingham",
-          "kick_utc": 1778266800,
-          "time": "09/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Freiburg vs Braga",
-          "kick_utc": 1778266800,
-          "time": "09/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
           "league": "Tennis",
           "match": "Italian Open",
           "kick_utc": 1778230800,
@@ -91,10 +75,10 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "TSN4",
+                "TSN2",
                 "DAZN Canada",
                 "T2",
-                "TSN2"
+                "TSN4"
               ]
             }
           ],
@@ -114,24 +98,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Internazionali BNL dItalia",
-          "kick_utc": 1778230800,
-          "time": "08/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Main Event",
-                "Sky Sports Tennis",
-                "Sky Sports Ultra HDR",
-                "Sky Sports+"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -166,105 +132,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Zizou Bergs vs Terence Atmane",
-          "kick_utc": 1778230800,
-          "time": "08/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alexei Popyrin vs Matteo Berrettini",
-          "kick_utc": 1778230800,
-          "time": "08/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Cristina Bucsa vs Qinwen Zheng",
-          "kick_utc": 1778230800,
-          "time": "08/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Thiago Augustin Tirante vs Gianluca Cadenasso",
-          "kick_utc": 1778247000,
-          "time": "08/05 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Solana Sierra vs Anhelina Kalinina",
-          "kick_utc": 1778249700,
-          "time": "08/05 09:15 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Hamad Medjedovic vs Valentin Royer",
+          "match": "",
           "kick_utc": 1778252400,
           "time": "08/05 10:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Belinda Bencic vs Bianca Vanessa Andreescu",
-          "kick_utc": 1778252400,
-          "time": "08/05 10:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
+                "beIN Sports Connect",
                 "beIN SPORTS 1"
               ]
             }
