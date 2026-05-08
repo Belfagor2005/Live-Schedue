@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-08 14:48 VN",
+  "updated": "2026-05-08 21:02 VN",
   "days": {
     "20260508": {
       "date": "Friday, 08/05",
@@ -67,22 +67,142 @@
           "source": "wheresthematch"
         },
         {
-          "league": "Tennis",
-          "match": "Italian Open",
-          "kick_utc": 1778230800,
-          "time": "08/05 04:00 PM",
+          "league": "Premier League",
+          "match": "Liverpool vs Chelsea",
+          "kick_utc": 1778326200,
+          "time": "09/05 06:30 PM",
           "tv_channels": [
             {
-              "country": "LiveSportsOnTV",
+              "country": "Wheresthematch",
               "channels": [
-                "TSN2",
-                "DAZN Canada",
-                "T2",
-                "TSN4"
+                "TNT Sports 1",
+                "TNT Sports Ultimate",
+                "HBO Max"
               ]
             }
           ],
-          "source": "livesportsontv"
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Bundesliga",
+          "match": "VfB-Stuttgart vs Bayer-Leverkusen",
+          "kick_utc": 1778333400,
+          "time": "09/05 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Bundesliga YouTube",
+                "Bundesliga App"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Premier League",
+          "match": "Brighton vs Wolves",
+          "kick_utc": 1778335200,
+          "time": "09/05 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Not Televised"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Premier League",
+          "match": "Fulham vs Bournemouth-AFC",
+          "kick_utc": 1778335200,
+          "time": "09/05 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Not Televised"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Premier League",
+          "match": "Sunderland vs Manchester-United",
+          "kick_utc": 1778335200,
+          "time": "09/05 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Not Televised"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Bundesliga",
+          "match": "VfB Stuttgart vs Bayer Leverkusen",
+          "kick_utc": 1778333400,
+          "time": "09/05 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Premier League",
+          "match": "Brighton & Hove Albion vs Wolverhampton Wanderers",
+          "kick_utc": 1778335200,
+          "time": "09/05 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Premier League",
+          "match": "Sunderland vs Manchester United",
+          "kick_utc": 1778335200,
+          "time": "09/05 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Premier League",
+          "match": "Fulham vs Bournemouth",
+          "kick_utc": 1778335200,
+          "time": "09/05 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
         },
         {
           "league": "Tennis",
@@ -132,9 +252,41 @@
         },
         {
           "league": "Tennis",
+          "match": "Internazionali BNL dItalia",
+          "kick_utc": 1778317200,
+          "time": "09/05 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Tennis",
+                "Sky Sports+"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
           "match": "",
           "kick_utc": 1778252400,
           "time": "08/05 10:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1778317200,
+          "time": "09/05 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
