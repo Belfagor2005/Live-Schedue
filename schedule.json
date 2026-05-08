@@ -1,191 +1,9 @@
 {
-  "updated": "2026-05-08 02:48 VN",
+  "updated": "2026-05-08 10:33 VN",
   "days": {
-    "20260507": {
-      "date": "Thursday, 07/05",
+    "20260508": {
+      "date": "Friday, 08/05",
       "games": [
-        {
-          "league": "UEFA Europa League",
-          "match": "Nottingham Forest vs Aston Villa",
-          "kick_utc": 1778180400,
-          "time": "08/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Fubo Sports",
-                "Paramount+ (US)",
-                "DAZN US",
-                "CBS Sports Network",
-                "TUDN"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Sporting Braga vs Freiburg",
-          "kick_utc": 1778180400,
-          "time": "08/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+ (US)",
-                "ViX",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa Conference League",
-          "match": "Rayo Vallecano vs Strasbourg",
-          "kick_utc": 1778180400,
-          "time": "08/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+ (US)",
-                "ViX",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa Conference League",
-          "match": "Shakhtar Donetsk vs Crystal Palace",
-          "kick_utc": 1778180400,
-          "time": "08/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+ (US)",
-                "ViX",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Aston Villa vs Nottingham Forest",
-          "kick_utc": 1778180400,
-          "time": "08/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 1 BiH HD",
-                "Arena Premium 1 Srbija HD",
-                "Arena Sport 1 Hrvatska HD",
-                "beIN Sports MENA 1 HD",
-                "beIN Sports MENA English 1 HD",
-                "Digi Sport 1 Romania HD",
-                "HBO Max",
-                "Jurnal TV Moldova",
-                "M+ Liga de Campeones 2 HD",
-                "M+ Liga de Campeones 2 HDR",
-                "M4 Sport Hungary HD",
-                "Megogo Futbol 2",
-                "New World Sport 1 Mauritius",
-                "Premier Sports 1 Ireland HD",
-                "Prima Sport RO 1 HD",
-                "RTBF Tipik Belgique",
-                "RTL+ Deutschland",
-                "TNT Sports 1 HD",
-                "TNT Sports Ultimate UHD",
-                "TRT 1 Türkiye HD",
-                "TSN Malta 3 HD",
-                "Turkmenistan Sport HD",
-                "V Sport 1 Norge HD",
-                "V Sport Ultra 4K UHD",
-                "Ziggo Sport HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Freiburg vs Sporting Braga",
-          "kick_utc": 1778180400,
-          "time": "08/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 2 BiH HD",
-                "Arena Premium 5 Srbija HD",
-                "Arena Sport 3 Hrvatska HD",
-                "beIN Sports MENA 2 HD",
-                "beIN Sports MENA English 2 HD",
-                "Cytavision Sports 3 HD",
-                "Cytavision Sports 4K 1 UHD",
-                "Cytavision Sports PPV 2 HD",
-                "HBO Max",
-                "Megogo Sport Ukraine HD",
-                "New World Sport 2 Mauritius",
-                "Prima Sport RO 3 HD",
-                "RSI La 2 Svizzera HD",
-                "RTL Deutschland HD",
-                "RTL Schweiz HD",
-                "RTL Österreich HD",
-                "RTL+ Deutschland",
-                "RTL+ Hungary",
-                "RTS 2 Suisse HD",
-                "Sport TV5 Portugal HD",
-                "SRF Zwei Schweiz HD",
-                "Tabii Spor 1",
-                "TNT Sports 3 HD",
-                "TSN Malta 8 HD",
-                "V Sport 2 Norge HD",
-                "Ziggo Sport 2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "SC-Freiburg vs Sporting-Braga",
-          "kick_utc": 1778180400,
-          "time": "08/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "TNT Sports 3",
-                "HBO Max"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Aston-Villa vs Nottingham-Forest",
-          "kick_utc": 1778180400,
-          "time": "08/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "TNT Sports 1",
-                "TNT Sports Ultimate",
-                "HBO Max"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
         {
           "league": "Bundesliga",
           "match": "Borussia-Dortmund vs Eintracht-Frankfurt",
@@ -267,29 +85,14 @@
         {
           "league": "Tennis",
           "match": "Italian Open",
-          "kick_utc": 1778176800,
-          "time": "08/05 01:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Italian Open",
           "kick_utc": 1778230800,
           "time": "08/05 04:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "DAZN Canada",
                 "TSN4",
+                "DAZN Canada",
                 "T2",
                 "TSN2"
               ]
