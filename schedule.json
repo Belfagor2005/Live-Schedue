@@ -1,54 +1,9 @@
 {
-  "updated": "2026-05-09 02:26 VN",
+  "updated": "2026-05-09 10:34 VN",
   "days": {
-    "20260508": {
-      "date": "Friday, 08/05",
+    "20260509": {
+      "date": "Saturday, 09/05",
       "games": [
-        {
-          "league": "Bundesliga",
-          "match": "Eintracht Frankfurt vs Borussia Dortmund",
-          "kick_utc": 1778265000,
-          "time": "09/05 01:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "ESPN Select",
-                "ESPN Unlimited",
-                "DAZN Canada",
-                "OneSoccer"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Bundesliga",
-          "match": "Borussia Dortmund vs Eintracht Frankfurt",
-          "kick_utc": 1778265000,
-          "time": "09/05 01:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "BBC iPlayer",
-                "BBC iPlayer 4K",
-                "BBC Sport Website",
-                "beIN Sports France 2 HD",
-                "CRTV Sports Cameroon",
-                "MBC Action HD",
-                "S Sport+ Streaming",
-                "Sky Sport Bundesliga 1 HD",
-                "Sky Sport Bundesliga HD",
-                "Sky Sport Bundesliga UHD",
-                "Sky Sport Top Event HD",
-                "Tivibu Spor 1 HD",
-                "YouTube: Bundesliga"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Premier League",
           "match": "Chelsea vs Liverpool FC",
@@ -365,24 +320,6 @@
         },
         {
           "league": "Bundesliga",
-          "match": "Borussia-Dortmund vs Eintracht-Frankfurt",
-          "kick_utc": 1778265000,
-          "time": "09/05 01:30 AM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Bundesliga YouTube",
-                "Bundesliga App",
-                "BBC iPlayer",
-                "BBC Sport Website"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Bundesliga",
           "match": "VfB-Stuttgart vs Bayer-Leverkusen",
           "kick_utc": 1778333400,
           "time": "09/05 08:30 PM",
@@ -531,8 +468,8 @@
               "country": "LiveSportsOnTV",
               "channels": [
                 "Tennis Channel",
-                "TSN5",
-                "DAZN Canada"
+                "DAZN Canada",
+                "TSN5"
               ]
             }
           ],
@@ -552,22 +489,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Internazionali BNL dItalia",
-          "kick_utc": 1778263200,
-          "time": "09/05 01:00 AM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Tennis",
-                "Sky Sports+"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
