@@ -36,6 +36,15 @@
     "sport": "Tennis"
   },
   {
+    "competition": "WTA Rome",
+    "home": "Viktorija Golubic",
+    "away": "Mirra Andreeva",
+    "vietnam_time": "22:00",
+    "vietnam_date": "09/05/2026",
+    "channels": "",
+    "sport": "Tennis"
+  },
+  {
     "competition": "Serie A",
     "home": "Lazio",
     "away": "Inter",
@@ -151,5 +160,14 @@
     "vietnam_date": "11/05/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Soccer"
+  },
+  {
+    "competition": "ATP Rome",
+    "home": "",
+    "away": "",
+    "vietnam_time": "16:00",
+    "vietnam_date": "11/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
+    "sport": "Tennis"
   }
 ]
