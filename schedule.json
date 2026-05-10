@@ -1,133 +1,9 @@
 {
-  "updated": "2026-05-10 02:10 VN",
+  "updated": "2026-05-10 10:49 VN",
   "days": {
-    "20260509": {
-      "date": "Saturday, 09/05",
+    "20260510": {
+      "date": "Sunday, 10/05",
       "games": [
-        {
-          "league": "Serie A",
-          "match": "Juventus vs Lecce",
-          "kick_utc": 1778352300,
-          "time": "10/05 01:45 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+ (US)",
-                "DAZN US",
-                "TLN",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Serie A",
-          "match": "Lecce vs Juventus",
-          "kick_utc": 1778352300,
-          "time": "10/05 01:45 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "ART Motion Sport 1 HD",
-                "DAZN Great Britain",
-                "DAZN Ireland",
-                "Eleven Sports 1 Polska HD",
-                "ESPN 1 Brazil HD",
-                "Futbol TV Tajikistan",
-                "MAX Sport 3 Bulgaria HD",
-                "Megogo Futbol 1",
-                "MTV Urheilu 2 Suomi HD",
-                "S Sport 2 Türkiye HD",
-                "S Sport+ Streaming",
-                "Setanta Sports 1 Eurasia HD",
-                "Sky Sport 251 Italia HD",
-                "Sky Sport Calcio HD",
-                "Sky Sport Italia 4K UHD",
-                "Sport TV2 Portugal HD",
-                "Tivibu Spor 1 HD",
-                "Tring Sport 1 HD",
-                "TV2 Sport X Dansk HD",
-                "VG+ Sport Norge",
-                "Ziggo Sport 2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Real Sociedad vs Real Betis",
-          "kick_utc": 1778353200,
-          "time": "10/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Sports MENA 8 HD",
-                "beIN Sports MENA English 1 HD",
-                "Canal+ Sport 1 Polska HD",
-                "DAZN 1 Italia HD",
-                "DAZN 1 Portugal HD",
-                "DAZN 2 Bar Deutsch HD",
-                "DAZN España",
-                "Digi 4K UHD",
-                "Disney+ UK",
-                "Idman TV HD",
-                "LaLiga TV Bar HD",
-                "M+ LaLiga HD",
-                "M+ LaLiga HDR",
-                "MAX Sport 4 Bulgaria HD",
-                "Megogo Futbol 2",
-                "MTV Urheilu 3 Suomi HD",
-                "New World Sport 3 Togo",
-                "New World Sport 5 Togo",
-                "Nova Sports 1 Hellas HD",
-                "S Sport+ Streaming",
-                "Setanta Sports 2 Eurasia HD",
-                "Spíler 2 TV Hungary HD",
-                "SuperSport 2 Albania HD",
-                "Teledeporte España",
-                "Tivibu Spor 2 HD",
-                "TV2 Sport 1 Norge HD",
-                "Ziggo Sport HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Ligue 1",
-          "match": "Auxerre vs Nice",
-          "kick_utc": 1778353200,
-          "time": "10/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Sports Türkiye Max 2 HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Ligue 1",
-          "match": "Angers vs Strasbourg",
-          "kick_utc": 1778353200,
-          "time": "10/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Connect Türkiye"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Premier League",
           "match": "Aston Villa vs Burnley",
@@ -835,21 +711,6 @@
             }
           ],
           "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Italian Open",
-          "kick_utc": 1778349600,
-          "time": "10/05 01:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
