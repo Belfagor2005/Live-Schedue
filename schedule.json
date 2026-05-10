@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-10 10:49 VN",
+  "updated": "2026-05-10 15:14 VN",
   "days": {
     "20260510": {
       "date": "Sunday, 10/05",
@@ -14,7 +14,6 @@
               "country": "LiveSportsOnTV",
               "channels": [
                 "Peacock",
-                "NBC Sports Network",
                 "DAZN Canada"
               ]
             }
@@ -407,6 +406,7 @@
               "country": "LiveSportsOnTV",
               "channels": [
                 "Telemundo",
+                "USA Network",
                 "DAZN Canada"
               ]
             }
@@ -506,6 +506,438 @@
           "source": "livesportsontv"
         },
         {
+          "league": "Serie A",
+          "match": "Roma vs Parma",
+          "kick_utc": 1778428800,
+          "time": "10/05 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+ (US)",
+                "DAZN US",
+                "FOX Deportes",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Athletic Bilbao vs Valencia",
+          "kick_utc": 1778428800,
+          "time": "10/05 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN 2 Portugal HD",
+                "DAZN LaLiga HD",
+                "Digi 4K UHD",
+                "LaLiga TV Bar HD",
+                "MAX Sport 4 Bulgaria HD",
+                "Megogo Futbol 2",
+                "MTV Urheilu 3 Suomi HD",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 1 UK HD",
+                "Premier Sports GB Player HD",
+                "S Sport 1 Türkiye HD",
+                "S Sport+ Streaming",
+                "Spíler 2 TV Hungary HD",
+                "TV2 Sport Premium HD",
+                "Ziggo Sport 2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Mallorca vs Villarreal",
+          "kick_utc": 1778428800,
+          "time": "10/05 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN 2 Portugal HD",
+                "DAZN LaLiga HD",
+                "Digi 4K UHD",
+                "ESPN 3 Brazil HD",
+                "Idman TV HD",
+                "LaLiga TV Bar HD",
+                "M+ LaLiga HD",
+                "M+ LaLiga HDR",
+                "MAX Sport 4 Bulgaria HD",
+                "Megogo Futbol 2",
+                "MTV Urheilu 3 Suomi HD",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 1 UK HD",
+                "Premier Sports GB Player HD",
+                "S Sport 1 Türkiye HD",
+                "S Sport+ Streaming",
+                "Spíler 2 TV Hungary HD",
+                "TV2 Sport Premium HD",
+                "Ziggo Sport 2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Rayo Vallecano vs Girona",
+          "kick_utc": 1778428800,
+          "time": "10/05 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "M+ LaLiga HD",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 1 UK HD",
+                "Premier Sports GB Player HD",
+                "S Sport 1 Türkiye HD",
+                "S Sport+ Streaming"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Real Oviedo vs Getafe",
+          "kick_utc": 1778428800,
+          "time": "10/05 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN 2 Portugal HD",
+                "DAZN LaLiga 2 HD",
+                "Digi 4K UHD",
+                "LaLiga TV Bar HD",
+                "Megogo Futbol 2",
+                "MTV Urheilu 3 Suomi HD",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 1 UK HD",
+                "Premier Sports GB Player HD",
+                "S Sport 1 Türkiye HD",
+                "S Sport+ Streaming",
+                "Spíler 2 TV Hungary HD",
+                "TV2 Sport Premium HD",
+                "Ziggo Sport 2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Bundesliga",
+          "match": "Mainz 05 vs Union Berlin",
+          "kick_utc": 1778434200,
+          "time": "11/05 12:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports France 8 HD max",
+                "DAZN 1 Bar Deutsch HD",
+                "DAZN Deutsch",
+                "Diema Sport 3 HD",
+                "MBC Action HD",
+                "OneFootball",
+                "Prime Video UK PPV",
+                "S Sport+ Streaming",
+                "Setanta Sports Ukraine HD",
+                "Sky Sport 257 Italia HD",
+                "Tivibu Spor 3 HD",
+                "V Sport 1 Norge HD",
+                "ViaPlay 1 Urheilu HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Serie A",
+          "match": "Atalanta vs AC Milan",
+          "kick_utc": 1778438700,
+          "time": "11/05 01:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Paramount+ (US)",
+                "DAZN US",
+                "TLN",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Real Madrid vs FC Barcelona",
+          "kick_utc": 1778439600,
+          "time": "11/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Fubo Sports",
+                "ESPN Select",
+                "ESPN Unlimited",
+                "ESPN",
+                "ESPN Deportes"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Brest vs PSG",
+          "kick_utc": 1778439600,
+          "time": "11/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sport USA",
+                "beIN Sport USA Espanol",
+                "beIN Sport Canada",
+                "beIN Sport Canada Espanol"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Barcelona vs Real Madrid",
+          "kick_utc": 1778439600,
+          "time": "11/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 1 Srbija HD",
+                "Arena Premium 3 BiH HD",
+                "Arena Sport 1 Hrvatska HD",
+                "Arena Sport 1 Slovenija HD",
+                "Azam Sports 4 HD",
+                "beIN Connect Indonesia",
+                "beIN Connect Malaysia",
+                "beIN Connect New Zealand",
+                "beIN Connect Philippines",
+                "beIN Connect Singapore",
+                "beIN Connect Thailand",
+                "beIN Sports 1 HD",
+                "beIN Sports Australia 2 HD",
+                "beIN Sports France 1 HD",
+                "beIN Sports Indonesia 1 HD",
+                "beIN Sports MENA 1 HD",
+                "beIN Sports MENA English 1 HD",
+                "beIN Sports MENA French 1 HD",
+                "beIN Sports Philippines 1 HD",
+                "beIN Sports Thailand 1 HD",
+                "Belarus 5 HD",
+                "Belarus 5 Internet",
+                "Blue Sport D 1 HD",
+                "Canal+ Polska",
+                "Canal+ Sport 3 Afrique HD",
+                "DAZN 1 Portugal HD",
+                "DAZN 2 Bar Deutsch HD",
+                "DAZN Belgium",
+                "DAZN Deutsch",
+                "DAZN Japan",
+                "DAZN Portugal",
+                "Digi 4K UHD",
+                "Digi Sport 1 Romania HD",
+                "DirecTV Sports Colombia",
+                "Disney+ Brazil",
+                "Eleven Sports 1 Polska HD",
+                "ESPN 1 Brazil HD",
+                "ESPN Deportes",
+                "FanCode India",
+                "Fast Sports TV Armenia",
+                "Fubo Sports USA",
+                "FuboTV Canada",
+                "Go3 Extra Sport Baltics",
+                "Ice Xtra Maldives",
+                "Idman TV HD",
+                "LaLiga TV Bar HD",
+                "M+ LaLiga 2 HD",
+                "M+ LaLiga HD",
+                "M+ LaLiga HDR",
+                "M+ Vamos 2 España HD",
+                "MATCH! Futbol 2 HD",
+                "MAX Sport 4 Bulgaria HD",
+                "Megogo Futbol 1",
+                "Movistar Plus+ HD",
+                "MTV Katsomon+",
+                "MTV Urheilu 2 Suomi HD",
+                "New World Sport 3 Togo",
+                "New World Sport 5 Togo",
+                "Nova Sport 4 Czech HD",
+                "Nova Sports 1 Hellas HD",
+                "NOW Sports HK 2 HD",
+                "Okko Sport HD",
+                "Orange Fútbol 1 HD",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 1 UK HD",
+                "Premier Sports GB Player HD",
+                "Prima Sport RO 1 HD",
+                "QQ Sports",
+                "Rete 4 Italia HD",
+                "S Sport 1 Türkiye HD",
+                "S Sport+ Streaming",
+                "Setanta Sports 1 Eurasia HD",
+                "Silk Sport 1 HD",
+                "Spíler 2 TV Hungary HD",
+                "SuperSport 2 Albania HD",
+                "SuperSport GOtv Africa",
+                "SuperSport LaLiga HD",
+                "SuperSport MáXimo 1 HD",
+                "Tigo Sports Paraguay",
+                "Tolo TV",
+                "TSN Canada 2 HD",
+                "TSN Malta 4 HD",
+                "TSN+ Canada",
+                "TV2 Play Danmark",
+                "TV2 Play Norge",
+                "TV2 Play Premium",
+                "TV2 Sport X Dansk HD",
+                "TV4 Fotboll HD",
+                "TV4 Play Sverige",
+                "ViaPlay Norge HD",
+                "ZhiBo8 TV",
+                "Ziggo Sport HD",
+                "Zor TV Uzbekistan"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Le Havre vs Marseille",
+          "kick_utc": 1778439600,
+          "time": "11/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports MENA 6 HD",
+                "beIN Sports Türkiye 5 HD",
+                "Prime Video UK PPV"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Paris St Germain vs Brest",
+          "kick_utc": 1778439600,
+          "time": "11/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports Türkiye 2 HD",
+                "Megogo Futbol 4",
+                "Nova Sport Bulgaria HD",
+                "Prime Video UK PPV",
+                "Setanta Sports Qazaqstan HD",
+                "Sky Sport 251 Italia HD",
+                "Sport TV3 Portugal HD",
+                "TV3 MAX Dansk HD",
+                "V Sport+ Norge HD",
+                "ViaPlay 3 Urheilu HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Monaco vs Lille",
+          "kick_utc": 1778439600,
+          "time": "11/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports MENA 4 HD",
+                "beIN Sports Türkiye 3 HD",
+                "Diema Sport HD",
+                "TV5 Monde Afrique HD",
+                "TV5 Monde Amérique Latine",
+                "TV5 Monde Asie",
+                "TV5 Monde Europe HD",
+                "TV5 Monde Maghreb-Orient HD",
+                "ViaPlay 2 Urheilu HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Toulouse vs Lyon",
+          "kick_utc": 1778439600,
+          "time": "11/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports Türkiye 4 HD",
+                "Diema Sport 2 HD",
+                "Megogo Futbol 5",
+                "Prime Video UK PPV",
+                "Sport TV7 Portugal HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Rennes vs Paris FC",
+          "kick_utc": 1778439600,
+          "time": "11/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports MENA 5 HD",
+                "beIN Sports Türkiye Max 1 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Metz vs Lorient",
+          "kick_utc": 1778439600,
+          "time": "11/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Connect Türkiye",
+                "beIN Sports MENA Xtra 2 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
           "league": "Premier League",
           "match": "Nottingham-Forest vs Newcastle-United",
           "kick_utc": 1778418000,
@@ -514,8 +946,8 @@
             {
               "country": "Wheresthematch",
               "channels": [
-                "Sky Sports Premier League",
                 "Sky Sports Main Event",
+                "Sky Sports Premier League",
                 "Sky Sports Ultra HDR"
               ]
             }
@@ -562,8 +994,8 @@
             {
               "country": "Wheresthematch",
               "channels": [
-                "Sky Sports Premier League",
                 "Sky Sports Main Event",
+                "Sky Sports Premier League",
                 "Sky Sports Ultra HDR"
               ]
             }
@@ -650,21 +1082,6 @@
           "source": "wheresthematch"
         },
         {
-          "league": "Premier League",
-          "match": "Nottingham vs Newcastle Utd",
-          "kick_utc": 1778418000,
-          "time": "10/05 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
           "league": "Serie A",
           "match": "Parma vs AS Roma",
           "kick_utc": 1778428800,
@@ -697,22 +1114,6 @@
           "source": "ausport"
         },
         {
-          "league": "La Liga",
-          "match": "Barcelona vs Real Madrid",
-          "kick_utc": 1778439600,
-          "time": "11/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
           "league": "Tennis",
           "match": "Italian Open",
           "kick_utc": 1778403600,
@@ -721,6 +1122,7 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "T2",
                 "DAZN Canada"
               ]
             }
@@ -745,22 +1147,6 @@
         {
           "league": "Tennis",
           "match": "Internazionali BNL dItalia",
-          "kick_utc": 1778403600,
-          "time": "10/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Tennis",
-                "Sky Sports+"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Internazionali BNL dItalia",
           "kick_utc": 1778432400,
           "time": "11/05 12:00 AM",
           "tv_channels": [
@@ -772,22 +1158,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1778403600,
-          "time": "10/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
         },
         {
           "league": "Tennis",
