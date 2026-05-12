@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-12 15:47 VN",
+  "updated": "2026-05-12 21:36 VN",
   "days": {
     "20260512": {
       "date": "Tuesday, 12/05",
@@ -18,39 +18,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Italian Open",
-          "kick_utc": 1778576400,
-          "time": "12/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "T2",
-                "TSN5"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Italian Open",
-          "kick_utc": 1778583600,
-          "time": "12/05 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN2",
-                "TVA Sports",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -87,6 +54,21 @@
         },
         {
           "league": "Tennis",
+          "match": "Internazionali BNL dItalia",
+          "kick_utc": 1778670000,
+          "time": "13/05 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Tennis"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
           "match": "",
           "kick_utc": 1778598000,
           "time": "12/05 10:00 PM",
@@ -110,6 +92,37 @@
             {
               "country": "Ausport",
               "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1778670000,
+          "time": "13/05 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1778677200,
+          "time": "13/05 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1",
                 "beIN Sports Connect"
               ]
             }
