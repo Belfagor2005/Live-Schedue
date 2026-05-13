@@ -1,98 +1,6 @@
 [
     {
         "Date": "2026-05-13",
-        "Time": "00:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Italian Open",
-        "Services": [
-            "TSN2",
-            "TVA Sports",
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "00:00",
-        "League": "Spanish La Liga (Primera) - Week 36",
-        "Matchup": "Celta Vigo vs Levante",
-        "Services": [
-            "beIN Sports France 2 HD",
-            "Canal+ Sport 1 Polska HD",
-            "DAZN 1 Bar Deutsch HD",
-            "DAZN 1 Portugal HD",
-            "Go3 Sport 4 Baltic",
-            "Idman TV HD",
-            "M+ LaLiga HD",
-            "MAX Sport 4 Bulgaria HD",
-            "Nova Sports 1 Hellas HD",
-            "Premier Sports 1 Ireland HD",
-            "Premier Sports 1 UK HD",
-            "Premier Sports GB Player HD",
-            "S Sport+ Streaming",
-            "Setanta Sports 1 Eurasia HD",
-            "Spíler 2 TV Hungary HD",
-            "SuperSport 2 Albania HD"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "01:00",
-        "League": "Spanish La Liga (Primera) - Week 36",
-        "Matchup": "Real Betis vs Elche",
-        "Services": [
-            "beIN Sports France 4 HD max",
-            "DAZN 2 Portugal HD",
-            "DAZN LaLiga HD",
-            "Eleven Sports 2 Polska HD",
-            "ESPN 1 Brazil HD",
-            "LaLiga TV UK",
-            "MAX Sport 3 Bulgaria HD",
-            "Nova Sports Start Hellas HD",
-            "Premier Sports GB Player HD",
-            "S Sport+ Streaming",
-            "SuperSport 3 Albania HD"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "01:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Thiago Agustin Tirante",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "02:30",
-        "League": "Spanish La Liga (Primera) - Week 36",
-        "Matchup": "Osasuna vs Atlético Madrid",
-        "Services": [
-            "beIN Sports France 2 HD",
-            "DAZN 1 Bar Deutsch HD",
-            "DAZN 1 Italia HD",
-            "DAZN 1 Portugal HD",
-            "Eleven Sports 1 Polska HD",
-            "Go3 Sport Open Baltic",
-            "Idman TV HD",
-            "M+ LaLiga HD",
-            "M+ LaLiga HDR",
-            "MAX Sport 4 Bulgaria HD",
-            "Nova Sports 1 Hellas HD",
-            "Nova Sports Prime Hellas HD",
-            "Premier Sports 1 Ireland HD",
-            "Premier Sports 1 UK HD",
-            "Premier Sports GB Player HD",
-            "S Sport 1 Türkiye HD",
-            "S Sport+ Streaming",
-            "Setanta Sports 1 Eurasia HD",
-            "Spíler 2 TV Hungary HD",
-            "SuperSport 2 Albania HD",
-            "Varzish TV Sport HD"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
         "Time": "18:00",
         "League": "Tennis (WTA)",
         "Matchup": "Italian Open",
@@ -110,115 +18,6 @@
         "Services": [
             "RDS",
             "TSN2"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "22:00",
-        "League": "French Ligue 1 - Week 29",
-        "Matchup": "Brest vs Strasbourg",
-        "Services": [
-            "beIN Connect Türkiye",
-            "Ligue 1+",
-            "Sky Sport 257 Italia HD"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "22:00",
-        "League": "French Ligue 1 - Week 29",
-        "Matchup": "Lens vs Paris St Germain",
-        "Services": [
-            "beIN Connect Türkiye",
-            "Ligue 1+",
-            "Prime Video UK PPV",
-            "Sky Sport 256 Italia HD"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "23:00",
-        "League": "Spanish La Liga (Primera) - Week 36",
-        "Matchup": "Alavés vs Barcelona",
-        "Services": [
-            "DAZN 2 Portugal HD",
-            "M+ LaLiga HD",
-            "M+ LaLiga HDR",
-            "Premier Sports 2 Ireland HD",
-            "Premier Sports 2 UK HD",
-            "Premier Sports GB Player HD",
-            "Setanta Sports 2 Eurasia HD"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "23:00",
-        "League": "Spanish La Liga (Primera) - Week 36",
-        "Matchup": "Real Madrid vs Real Oviedo",
-        "Services": [
-            "DAZN 1 Bar Deutsch HD",
-            "DAZN 1 Portugal HD",
-            "DAZN LaLiga HD",
-            "Idman TV HD",
-            "M+ LaLiga HD",
-            "Premier Sports 1 Ireland HD",
-            "Premier Sports 1 UK HD",
-            "Premier Sports GB Player HD",
-            "Setanta Sports 1 Eurasia HD"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "23:00",
-        "League": "Spanish La Liga (Primera) - Week 36",
-        "Matchup": "Valencia vs Rayo Vallecano",
-        "Services": [
-            "DAZN 1 Bar Deutsch HD",
-            "DAZN 1 Portugal HD",
-            "DAZN LaLiga HD",
-            "Idman TV HD",
-            "Premier Sports 1 Ireland HD",
-            "Premier Sports 1 UK HD",
-            "Premier Sports GB Player HD",
-            "Setanta Sports 1 Eurasia HD"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "23:00",
-        "League": "Spanish La Liga (Primera) - Week 36",
-        "Matchup": "Espanyol vs Athletic Bilbao",
-        "Services": [
-            "DAZN 2 Portugal HD",
-            "LaLiga TV UK",
-            "M+ LaLiga HD",
-            "Premier Sports GB Player HD"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "23:00",
-        "League": "Spanish La Liga (Primera) - Week 36",
-        "Matchup": "Getafe vs Mallorca",
-        "Services": [
-            "DAZN 3 Portugal HD",
-            "DAZN LaLiga HD",
-            "LaLiga TV UK",
-            "M+ LaLiga HD",
-            "Premier Sports GB Player HD"
-        ]
-    },
-    {
-        "Date": "2026-05-13",
-        "Time": "23:00",
-        "League": "Spanish La Liga (Primera) - Week 36",
-        "Matchup": "Girona vs Real Sociedad",
-        "Services": [
-            "DAZN 2 Portugal HD",
-            "LaLiga TV UK",
-            "M+ LaLiga HD",
-            "M+ LaLiga HDR",
-            "Premier Sports GB Player HD"
         ]
     },
     {
@@ -246,11 +45,156 @@
             "DAZN LaLiga HD",
             "ESPN 4 Brazil HD",
             "Futbol TV Tajikistan",
+            "New World Sport 3 Togo",
             "Premier Sports 2 Ireland HD",
             "Premier Sports 2 UK HD",
             "Premier Sports GB Player HD",
             "Setanta Sports 1 Eurasia HD",
             "Teledeporte España"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "00:00",
+        "League": "Spanish La Liga (Primera) - Week 36",
+        "Matchup": "Espanyol vs Athletic Bilbao",
+        "Services": [
+            "DAZN 2 Portugal HD",
+            "LaLiga TV UK",
+            "M+ LaLiga HD",
+            "New World Sport 6 Togo",
+            "Premier Sports GB Player HD"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "00:00",
+        "League": "French Ligue 1 - Week 29",
+        "Matchup": "Brest vs Strasbourg",
+        "Services": [
+            "beIN Connect Türkiye",
+            "beIN Sports Türkiye 4 HD",
+            "Ligue 1+",
+            "Sky Sport 257 Italia HD"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "01:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Italian Open",
+        "Services": [
+            "TSN2"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "01:30",
+        "League": "Tennis (WTA)",
+        "Matchup": "Italian Open",
+        "Services": [
+            "RDS 2"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "02:00",
+        "League": "Premier League",
+        "Matchup": "Crystal Palace @ Manchester City",
+        "Services": [
+            "USA Network",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "02:00",
+        "League": "Ligue 1",
+        "Matchup": "PSG @ Lens",
+        "Services": [
+            "beIN Sport USA Espanol",
+            "beIN Sport Canada",
+            "beIN Sport Canada Espanol"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "02:00",
+        "League": "English Premier League - Week 31",
+        "Matchup": "Manchester City vs Crystal Palace",
+        "Services": [
+            "beIN Sports MENA 2 HD",
+            "beIN Sports Türkiye 3 HD",
+            "DAZN 1 Portugal HD",
+            "Diema Sport 2 HD",
+            "DigiTurk 4K UHD",
+            "ESPN 1 Brazil HD",
+            "Futbol TV Tajikistan",
+            "Idman TV HD",
+            "M+ #Vamos Bar",
+            "Setanta Sports 1 Eurasia HD",
+            "Setanta Sports Ukraine HD",
+            "Sky Go UK",
+            "Sky Sports Main Event HD",
+            "Sky Sports Main Event UHD",
+            "Sky UK Ultra HD 1"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "02:00",
+        "League": "French Ligue 1 - Week 29",
+        "Matchup": "Lens vs Paris St Germain",
+        "Services": [
+            "beIN Connect Türkiye",
+            "beIN Sports Türkiye 4 HD",
+            "Ligue 1+",
+            "Nova Sport Bulgaria HD",
+            "Prime Video UK PPV",
+            "Sky Sport 256 Italia HD",
+            "Sport TV 2 Azerbaijan"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "02:30",
+        "League": "La Liga",
+        "Matchup": "FC Barcelona @ Deportivo Alavés",
+        "Services": [
+            "ESPN Select",
+            "ESPN Unlimited",
+            "ESPN Deportes",
+            "TSN3"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "02:30",
+        "League": "Spanish La Liga (Primera) - Week 36",
+        "Matchup": "Alavés vs Barcelona",
+        "Services": [
+            "DAZN 2 Portugal HD",
+            "M+ LaLiga HD",
+            "M+ LaLiga HDR",
+            "New World Sport 3 Togo",
+            "Premier Sports 2 Ireland HD",
+            "Premier Sports 2 UK HD",
+            "Premier Sports GB Player HD",
+            "Setanta Sports 2 Eurasia HD"
+        ]
+    },
+    {
+        "Date": "2026-05-14",
+        "Time": "02:30",
+        "League": "Spanish La Liga (Primera) - Week 36",
+        "Matchup": "Getafe vs Mallorca",
+        "Services": [
+            "DAZN 3 Portugal HD",
+            "DAZN LaLiga HD",
+            "LaLiga TV UK",
+            "M+ LaLiga HD",
+            "New World Sport 6 Togo",
+            "Premier Sports GB Player HD"
         ]
     }
 ]
