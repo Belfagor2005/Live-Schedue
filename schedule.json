@@ -1,44 +1,9 @@
 {
-  "updated": "2026-05-13 03:00 VN",
+  "updated": "2026-05-13 10:52 VN",
   "days": {
-    "20260512": {
-      "date": "Tuesday, 12/05",
+    "20260513": {
+      "date": "Wednesday, 13/05",
       "games": [
-        {
-          "league": "La Liga",
-          "match": "Osasuna vs Atlético Madrid",
-          "kick_utc": 1778614200,
-          "time": "13/05 02:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Sports France 2 HD",
-                "DAZN 1 Bar Deutsch HD",
-                "DAZN 1 Italia HD",
-                "DAZN 1 Portugal HD",
-                "Eleven Sports 1 Polska HD",
-                "Go3 Sport Open Baltic",
-                "Idman TV HD",
-                "M+ LaLiga HD",
-                "M+ LaLiga HDR",
-                "MAX Sport 4 Bulgaria HD",
-                "Nova Sports 1 Hellas HD",
-                "Nova Sports Prime Hellas HD",
-                "Premier Sports 1 Ireland HD",
-                "Premier Sports 1 UK HD",
-                "Premier Sports GB Player HD",
-                "S Sport 1 Türkiye HD",
-                "S Sport+ Streaming",
-                "Setanta Sports 1 Eurasia HD",
-                "Spíler 2 TV Hungary HD",
-                "SuperSport 2 Albania HD",
-                "Varzish TV Sport HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Ligue 1",
           "match": "Brest vs Strasbourg",
@@ -224,21 +189,6 @@
           "source": "livesportsontv"
         },
         {
-          "league": "La Liga",
-          "match": "Osasuna vs Atletico-Madrid",
-          "kick_utc": 1778614200,
-          "time": "13/05 02:30 AM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Premier Sports 1"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
           "league": "Premier League",
           "match": "Manchester-City vs Crystal-Palace",
           "kick_utc": 1778698800,
@@ -285,21 +235,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Thiago Agustin Tirante",
-          "kick_utc": 1778610600,
-          "time": "13/05 01:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
