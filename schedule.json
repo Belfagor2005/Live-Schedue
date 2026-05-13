@@ -1,166 +1,9 @@
 {
-  "updated": "2026-05-13 10:52 VN",
+  "updated": "2026-05-13 21:47 VN",
   "days": {
     "20260513": {
       "date": "Wednesday, 13/05",
       "games": [
-        {
-          "league": "Ligue 1",
-          "match": "Brest vs Strasbourg",
-          "kick_utc": 1778684400,
-          "time": "13/05 10:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Connect Türkiye",
-                "Ligue 1+",
-                "Sky Sport 257 Italia HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Ligue 1",
-          "match": "Lens vs Paris St Germain",
-          "kick_utc": 1778684400,
-          "time": "13/05 10:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Connect Türkiye",
-                "Ligue 1+",
-                "Prime Video UK PPV",
-                "Sky Sport 256 Italia HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Alavés vs Barcelona",
-          "kick_utc": 1778688000,
-          "time": "13/05 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN 2 Portugal HD",
-                "M+ LaLiga HD",
-                "M+ LaLiga HDR",
-                "Premier Sports 2 Ireland HD",
-                "Premier Sports 2 UK HD",
-                "Premier Sports GB Player HD",
-                "Setanta Sports 2 Eurasia HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Real Madrid vs Real Oviedo",
-          "kick_utc": 1778688000,
-          "time": "13/05 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN 1 Bar Deutsch HD",
-                "DAZN 1 Portugal HD",
-                "DAZN LaLiga HD",
-                "Idman TV HD",
-                "M+ LaLiga HD",
-                "Premier Sports 1 Ireland HD",
-                "Premier Sports 1 UK HD",
-                "Premier Sports GB Player HD",
-                "Setanta Sports 1 Eurasia HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Valencia vs Rayo Vallecano",
-          "kick_utc": 1778688000,
-          "time": "13/05 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN 1 Bar Deutsch HD",
-                "DAZN 1 Portugal HD",
-                "DAZN LaLiga HD",
-                "Idman TV HD",
-                "Premier Sports 1 Ireland HD",
-                "Premier Sports 1 UK HD",
-                "Premier Sports GB Player HD",
-                "Setanta Sports 1 Eurasia HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Espanyol vs Athletic Bilbao",
-          "kick_utc": 1778688000,
-          "time": "13/05 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN 2 Portugal HD",
-                "LaLiga TV UK",
-                "M+ LaLiga HD",
-                "Premier Sports GB Player HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Getafe vs Mallorca",
-          "kick_utc": 1778688000,
-          "time": "13/05 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN 3 Portugal HD",
-                "DAZN LaLiga HD",
-                "LaLiga TV UK",
-                "M+ LaLiga HD",
-                "Premier Sports GB Player HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Girona vs Real Sociedad",
-          "kick_utc": 1778688000,
-          "time": "13/05 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN 2 Portugal HD",
-                "LaLiga TV UK",
-                "M+ LaLiga HD",
-                "M+ LaLiga HDR",
-                "Premier Sports GB Player HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "La Liga",
           "match": "Villarreal vs Sevilla",
@@ -178,11 +21,192 @@
                 "DAZN LaLiga HD",
                 "ESPN 4 Brazil HD",
                 "Futbol TV Tajikistan",
+                "New World Sport 3 Togo",
                 "Premier Sports 2 Ireland HD",
                 "Premier Sports 2 UK HD",
                 "Premier Sports GB Player HD",
                 "Setanta Sports 1 Eurasia HD",
                 "Teledeporte España"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Espanyol vs Athletic Bilbao",
+          "kick_utc": 1778691600,
+          "time": "14/05 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN 2 Portugal HD",
+                "LaLiga TV UK",
+                "M+ LaLiga HD",
+                "New World Sport 6 Togo",
+                "Premier Sports GB Player HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Brest vs Strasbourg",
+          "kick_utc": 1778691600,
+          "time": "14/05 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Connect Türkiye",
+                "beIN Sports Türkiye 4 HD",
+                "Ligue 1+",
+                "Sky Sport 257 Italia HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Premier League",
+          "match": "Crystal Palace vs Manchester City",
+          "kick_utc": 1778698800,
+          "time": "14/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "USA Network",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "PSG vs Lens",
+          "kick_utc": 1778698800,
+          "time": "14/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sport USA Espanol",
+                "beIN Sport Canada",
+                "beIN Sport Canada Espanol"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Premier League",
+          "match": "Manchester City vs Crystal Palace",
+          "kick_utc": 1778698800,
+          "time": "14/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports MENA 2 HD",
+                "beIN Sports Türkiye 3 HD",
+                "DAZN 1 Portugal HD",
+                "Diema Sport 2 HD",
+                "DigiTurk 4K UHD",
+                "ESPN 1 Brazil HD",
+                "Futbol TV Tajikistan",
+                "Idman TV HD",
+                "M+ #Vamos Bar",
+                "Setanta Sports 1 Eurasia HD",
+                "Setanta Sports Ukraine HD",
+                "Sky Go UK",
+                "Sky Sports Main Event HD",
+                "Sky Sports Main Event UHD",
+                "Sky UK Ultra HD 1"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Lens vs Paris St Germain",
+          "kick_utc": 1778698800,
+          "time": "14/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Connect Türkiye",
+                "beIN Sports Türkiye 4 HD",
+                "Ligue 1+",
+                "Nova Sport Bulgaria HD",
+                "Prime Video UK PPV",
+                "Sky Sport 256 Italia HD",
+                "Sport TV 2 Azerbaijan"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "FC Barcelona vs Deportivo Alavés",
+          "kick_utc": 1778700600,
+          "time": "14/05 02:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited",
+                "ESPN Deportes",
+                "TSN3"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Alavés vs Barcelona",
+          "kick_utc": 1778700600,
+          "time": "14/05 02:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN 2 Portugal HD",
+                "M+ LaLiga HD",
+                "M+ LaLiga HDR",
+                "New World Sport 3 Togo",
+                "Premier Sports 2 Ireland HD",
+                "Premier Sports 2 UK HD",
+                "Premier Sports GB Player HD",
+                "Setanta Sports 2 Eurasia HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Getafe vs Mallorca",
+          "kick_utc": 1778700600,
+          "time": "14/05 02:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN 3 Portugal HD",
+                "DAZN LaLiga HD",
+                "LaLiga TV UK",
+                "M+ LaLiga HD",
+                "New World Sport 6 Togo",
+                "Premier Sports GB Player HD"
               ]
             }
           ],
@@ -198,7 +222,6 @@
               "country": "Wheresthematch",
               "channels": [
                 "Sky Sports Main Event",
-                "Sky Sports Premier League",
                 "Sky Sports Ultra HDR"
               ]
             }
@@ -239,23 +262,6 @@
         {
           "league": "Tennis",
           "match": "Italian Open",
-          "kick_utc": 1778670000,
-          "time": "13/05 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN2",
-                "TVA Sports",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Italian Open",
           "kick_utc": 1778677200,
           "time": "13/05 08:00 PM",
           "tv_channels": [
@@ -288,9 +294,25 @@
         },
         {
           "league": "Tennis",
+          "match": "Italian Open",
+          "kick_utc": 1778697000,
+          "time": "14/05 01:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TSN2",
+                "RDS 2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
           "match": "Internazionali BNL dItalia",
-          "kick_utc": 1778670000,
-          "time": "13/05 06:00 PM",
+          "kick_utc": 1778756400,
+          "time": "14/05 06:00 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -303,77 +325,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Lorenzo Musetti vs Casper Ruud",
-          "kick_utc": 1778662800,
-          "time": "13/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Karen Khachanov vs Dino Prizmic",
-          "kick_utc": 1778662800,
-          "time": "13/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Sorana-Mihaela Cirstea vs Jelena Ostapenko",
-          "kick_utc": 1778670000,
-          "time": "13/05 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Hamad Medjedovic vs Martin Landaluce",
-          "kick_utc": 1778684400,
-          "time": "13/05 10:00 PM",
+          "match": "",
+          "kick_utc": 1778698800,
+          "time": "14/05 02:00 AM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN SPORTS 1",
                 "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Cori Gauff vs Mirra Andreeva",
-          "kick_utc": 1778691600,
-          "time": "14/05 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
               ]
             }
           ],
