@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-14 10:52 VN",
+  "updated": "2026-05-14 15:44 VN",
   "days": {
     "20260514": {
       "date": "Thursday, 14/05",
@@ -37,6 +37,80 @@
         },
         {
           "league": "La Liga",
+          "match": "Girona vs Real Sociedad",
+          "kick_utc": 1778781600,
+          "time": "15/05 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ART Motion Sport 2 HD",
+                "beIN Sports MENA 3 HD",
+                "DAZN 2 Portugal HD",
+                "LaLiga TV UK",
+                "M+ LaLiga HD",
+                "M+ LaLiga HDR",
+                "New World Sport 6 Togo",
+                "Premier Sports GB Player HD",
+                "S Sport+ Streaming",
+                "Setanta Sports Qazaqstan HD",
+                "SuperSport 3 Albania HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Real Oviedo vs Real Madrid",
+          "kick_utc": 1778787000,
+          "time": "15/05 02:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited",
+                "ESPN Deportes"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
+          "match": "Real Madrid vs Real Oviedo",
+          "kick_utc": 1778787000,
+          "time": "15/05 02:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ART Motion Sport 1 HD",
+                "beIN Sports MENA 1 HD",
+                "Cytavision Sports 4K 1 UHD",
+                "Cytavision Sports 8 HD",
+                "DAZN 1 Bar Deutsch HD",
+                "DAZN 1 Portugal HD",
+                "DAZN LaLiga HD",
+                "Digi 4K UHD",
+                "Idman TV HD",
+                "M+ LaLiga HD",
+                "New World Sport 3 Togo",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 1 UK HD",
+                "Premier Sports GB Player HD",
+                "S Sport 1 Türkiye HD",
+                "S Sport+ Streaming",
+                "Setanta Sports 1 Eurasia HD",
+                "SuperSport 2 Albania HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "La Liga",
           "match": "Real-Madrid vs Real-Oviedo",
           "kick_utc": 1778787000,
           "time": "15/05 02:30 AM",
@@ -51,37 +125,6 @@
           "source": "wheresthematch"
         },
         {
-          "league": "Premier League",
-          "match": "Manchester City vs Crystal Palace",
-          "kick_utc": 1778785200,
-          "time": "15/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "La Liga",
-          "match": "Alaves vs Barcelona",
-          "kick_utc": 1778787000,
-          "time": "15/05 02:30 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
           "league": "Tennis",
           "match": "Jannik Sinner",
           "kick_utc": 1778756400,
@@ -90,9 +133,23 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "Tennis Channel",
                 "RDS",
                 "TSN2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Italian Open",
+          "kick_utc": 1778756400,
+          "time": "14/05 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
               ]
             }
           ],
@@ -133,50 +190,34 @@
         },
         {
           "league": "Tennis",
-          "match": "Internazionali BNL dItalia",
-          "kick_utc": 1778756400,
-          "time": "14/05 06:00 PM",
+          "match": "Italian Open",
+          "kick_utc": 1778783400,
+          "time": "15/05 01:30 AM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "Sky Sports Tennis"
+                "TVA Sports",
+                "DAZN Canada"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "Jessica Pegula vs Iga Swiatek",
-          "kick_utc": 1778756400,
-          "time": "14/05 06:00 PM",
+          "match": "Italian Open",
+          "kick_utc": 1778785200,
+          "time": "15/05 02:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
+                "TSN2"
               ]
             }
           ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Casper Ruud vs Karen Khachanov",
-          "kick_utc": 1778763600,
-          "time": "14/05 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
+          "source": "livesportsontv"
         }
       ]
     }
