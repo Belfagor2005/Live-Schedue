@@ -1,19 +1,5 @@
 [
   {
-    "hari": "Jumat",
-    "tanggal": "15-05-2026",
-    "time": "02:30",
-    "sport": "Football",
-    "competition": "La Liga",
-    "title": "Real-Madrid vs Real-Oviedo",
-    "home": "Real-Madrid",
-    "away": "Real-Oviedo",
-    "channels": [
-      "Premier Sports 1"
-    ],
-    "event_url": ""
-  },
-  {
     "hari": "Sabtu",
     "tanggal": "15-05-2026",
     "time": "18:30",
@@ -54,6 +40,79 @@
     "away": "",
     "channels": [
       "Sky Sports Tennis"
+    ],
+    "event_url": ""
+  },
+  {
+    "hari": "Senin",
+    "tanggal": "17-05-2026",
+    "time": "17:00",
+    "sport": "Tennis",
+    "competition": "",
+    "title": "Internazionali BNL dItalia",
+    "home": "Internazionali BNL dItalia",
+    "away": "",
+    "channels": [
+      "Sky Sports Tennis",
+      "Sky Sports+"
+    ],
+    "event_url": ""
+  },
+  {
+    "hari": "Senin",
+    "tanggal": "17-05-2026",
+    "time": "17:30",
+    "sport": "Football",
+    "competition": "Serie A",
+    "title": "Genoa vs AC-Milan",
+    "home": "Genoa",
+    "away": "AC-Milan",
+    "channels": [
+      "DAZN"
+    ],
+    "event_url": ""
+  },
+  {
+    "hari": "Senin",
+    "tanggal": "17-05-2026",
+    "time": "17:30",
+    "sport": "Football",
+    "competition": "Serie A",
+    "title": "Juventus vs Fiorentina",
+    "home": "Juventus",
+    "away": "Fiorentina",
+    "channels": [
+      "DAZN"
+    ],
+    "event_url": ""
+  },
+  {
+    "hari": "Senin",
+    "tanggal": "17-05-2026",
+    "time": "17:30",
+    "sport": "Football",
+    "competition": "Serie A",
+    "title": "Pisa-SC vs Napoli",
+    "home": "Pisa-SC",
+    "away": "Napoli",
+    "channels": [
+      "DAZN"
+    ],
+    "event_url": ""
+  },
+  {
+    "hari": "Senin",
+    "tanggal": "17-05-2026",
+    "time": "17:30",
+    "sport": "Football",
+    "competition": "Serie A",
+    "title": "Roma vs Lazio",
+    "home": "Roma",
+    "away": "Lazio",
+    "channels": [
+      "DAZN",
+      "TNT Sports 1",
+      "HBO Max"
     ],
     "event_url": ""
   }
