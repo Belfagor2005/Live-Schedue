@@ -1,20 +1,20 @@
 [
   {
     "competition": "ATP Rome",
-    "home": "",
-    "away": "",
+    "home": "Casper Ruud",
+    "away": "Luciano Darderi",
     "vietnam_time": "20:30",
-    "vietnam_date": "15/05/2026",
-    "channels": "beIN SPORTS 1 | beIN Sports Connect",
+    "vietnam_date": "16/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
     "competition": "ATP Rome",
-    "home": "",
-    "away": "",
+    "home": "Jannik Sinner",
+    "away": "Daniil Medvedev",
     "vietnam_time": "00:00",
-    "vietnam_date": "16/05/2026",
-    "channels": "beIN SPORTS 1 | beIN Sports Connect",
+    "vietnam_date": "17/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
@@ -22,26 +22,17 @@
     "home": "Aston Villa",
     "away": "Liverpool",
     "vietnam_time": "02:00",
-    "vietnam_date": "16/05/2026",
+    "vietnam_date": "17/05/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
-  },
-  {
-    "competition": "ATP Rome",
-    "home": "",
-    "away": "",
-    "vietnam_time": "17:00",
-    "vietnam_date": "16/05/2026",
-    "channels": "beIN SPORTS 1 | beIN Sports Connect",
-    "sport": "Tennis"
   },
   {
     "competition": "Bundesliga",
     "home": "Bayern Munich",
     "away": "FC Koln",
     "vietnam_time": "20:30",
-    "vietnam_date": "16/05/2026",
-    "channels": "beIN SPORTS 2 | beIN Sports Connect",
+    "vietnam_date": "17/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Soccer"
   },
   {
@@ -49,17 +40,8 @@
     "home": "Bayer Leverkusen",
     "away": "Hamburger SV",
     "vietnam_time": "20:30",
-    "vietnam_date": "16/05/2026",
+    "vietnam_date": "17/05/2026",
     "channels": "beIN Sports Connect",
     "sport": "Soccer"
-  },
-  {
-    "competition": "WTA Rome",
-    "home": "",
-    "away": "",
-    "vietnam_time": "22:00",
-    "vietnam_date": "16/05/2026",
-    "channels": "beIN SPORTS 1",
-    "sport": "Tennis"
   }
 ]
