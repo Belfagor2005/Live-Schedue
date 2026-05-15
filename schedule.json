@@ -1,85 +1,9 @@
 {
-  "updated": "2026-05-15 02:52 VN",
+  "updated": "2026-05-15 10:56 VN",
   "days": {
-    "20260514": {
-      "date": "Thursday, 14/05",
+    "20260515": {
+      "date": "Friday, 15/05",
       "games": [
-        {
-          "league": "La Liga",
-          "match": "Girona vs Real Sociedad",
-          "kick_utc": 1778781600,
-          "time": "15/05 01:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "ART Motion Sport 2 HD",
-                "beIN Sports MENA 3 HD",
-                "DAZN 2 Portugal HD",
-                "LaLiga TV UK",
-                "M+ LaLiga HD",
-                "M+ LaLiga HDR",
-                "New World Sport 6 Togo",
-                "Premier Sports GB Player HD",
-                "S Sport+ Streaming",
-                "Setanta Sports Qazaqstan HD",
-                "SuperSport 3 Albania HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Real Oviedo vs Real Madrid",
-          "kick_utc": 1778787000,
-          "time": "15/05 02:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "ESPN Select",
-                "ESPN Unlimited",
-                "ESPN Deportes"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Real Madrid vs Real Oviedo",
-          "kick_utc": 1778787000,
-          "time": "15/05 02:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "ART Motion Sport 1 HD",
-                "beIN Sports MENA 1 HD",
-                "Cytavision Sports 4K 1 UHD",
-                "Cytavision Sports 8 HD",
-                "DAZN 1 Bar Deutsch HD",
-                "DAZN 1 Portugal HD",
-                "DAZN LaLiga HD",
-                "Digi 4K UHD",
-                "Futbol TV Uzbekistan",
-                "Idman TV HD",
-                "M+ LaLiga HD",
-                "New World Sport 3 Togo",
-                "Premier Sports 1 Ireland HD",
-                "Premier Sports 1 UK HD",
-                "Premier Sports GB Player HD",
-                "S Sport 1 Türkiye HD",
-                "S Sport+ Streaming",
-                "Setanta Sports 1 Eurasia HD",
-                "SuperSport 2 Albania HD",
-                "Zor TV Uzbekistan"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Bundesliga",
           "match": "Hoffenheim U-19 vs Mainz 05 U-19",
@@ -95,21 +19,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "La Liga",
-          "match": "Real-Madrid vs Real-Oviedo",
-          "kick_utc": 1778787000,
-          "time": "15/05 02:30 AM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Premier Sports 1"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
         },
         {
           "league": "Premier League",
@@ -143,37 +52,6 @@
             }
           ],
           "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Italian Open",
-          "kick_utc": 1778783400,
-          "time": "15/05 01:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TVA Sports",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Italian Open",
-          "kick_utc": 1778785200,
-          "time": "15/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
