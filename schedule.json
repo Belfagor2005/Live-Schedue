@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-15 15:55 VN",
+  "updated": "2026-05-15 21:20 VN",
   "days": {
     "20260515": {
       "date": "Friday, 15/05",
@@ -70,19 +70,35 @@
           "source": "ausport"
         },
         {
-          "league": "Tennis",
-          "match": "Italian Open",
-          "kick_utc": 1778844600,
-          "time": "15/05 06:30 PM",
+          "league": "Bundesliga",
+          "match": "Bayern Munich vs FC Koln",
+          "kick_utc": 1778938200,
+          "time": "16/05 08:30 PM",
           "tv_channels": [
             {
-              "country": "LiveSportsOnTV",
+              "country": "Ausport",
               "channels": [
-                "Tennis Channel"
+                "beIN SPORTS 2",
+                "beIN Sports Connect"
               ]
             }
           ],
-          "source": "livesportsontv"
+          "source": "ausport"
+        },
+        {
+          "league": "Bundesliga",
+          "match": "Bayer Leverkusen vs Hamburger SV",
+          "kick_utc": 1778938200,
+          "time": "16/05 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
         },
         {
           "league": "Tennis",
@@ -120,8 +136,8 @@
         {
           "league": "Tennis",
           "match": "Internazionali BNL dItalia",
-          "kick_utc": 1778844600,
-          "time": "15/05 06:30 PM",
+          "kick_utc": 1778925600,
+          "time": "16/05 05:00 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -153,6 +169,22 @@
           "match": "",
           "kick_utc": 1778864400,
           "time": "16/05 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1778925600,
+          "time": "16/05 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
