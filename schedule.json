@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-16 10:37 VN",
+  "updated": "2026-05-16 15:10 VN",
   "days": {
     "20260516": {
       "date": "Saturday, 16/05",
@@ -57,6 +57,33 @@
         },
         {
           "league": "Bundesliga",
+          "match": "Eintracht Frankfurt vs Stuttgart",
+          "kick_utc": 1778938200,
+          "time": "16/05 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports France 6 HD max",
+                "DAZN 1 Portugal HD",
+                "Fast Sports 1 Armenia",
+                "Nova Sport Bulgaria HD",
+                "Nova Sports Extra 4 Hellas HD",
+                "S Sport+ Streaming",
+                "Setanta Sports Qazaqstan HD",
+                "Sky Go UK",
+                "Sky Sport Bundesliga 3 HD",
+                "Sky Sports Action HD",
+                "Tivibu Spor 1 HD",
+                "Tring Sport 2 HD",
+                "V Sport Football HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Bundesliga",
           "match": "Bayern Munich vs FC Cologne",
           "kick_utc": 1778938200,
           "time": "16/05 08:30 PM",
@@ -73,6 +100,8 @@
                 "Orange Fútbol 3 HD",
                 "Play Sports 2 Belgium",
                 "S Sport+ Streaming",
+                "Setanta Sports 1 Eurasia HD",
+                "Setanta Sports+ Ukraine HD",
                 "Sky Sport 251 Italia HD",
                 "Sky Sport Bundesliga 1 HD",
                 "Sky Sport Bundesliga HD",
@@ -80,7 +109,10 @@
                 "Sky Sport Top Event HD",
                 "SporTV Brazil HD",
                 "Tivibu Spor 4 HD",
-                "TV3 MAX Dansk HD"
+                "Tring Sport 1 HD",
+                "TV3 MAX Dansk HD",
+                "V Sport 1 Sverige HD",
+                "YouTube: Bundesliga"
               ]
             }
           ],
@@ -95,12 +127,17 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "BBC iPlayer",
+                "BBC Sport",
+                "BBC Sport Website",
                 "beIN Sports France 4 HD max",
+                "Fast Sports 2 Armenia",
                 "Nova Sports Extra 2 Hellas HD",
                 "S Sport+ Streaming",
                 "See Dansk HD",
                 "Sky Sport Bundesliga 8 HD",
-                "Tivibu Spor 4 HD"
+                "Tivibu Spor 4 HD",
+                "V Sport Extra Sverige HD"
               ]
             }
           ],
@@ -121,28 +158,8 @@
                 "S Sport+ Streaming",
                 "Sky Sport Bundesliga 5 HD",
                 "SporTV 2 Brazil HD",
-                "Tivibu Spor 4 HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Bundesliga",
-          "match": "Eintracht Frankfurt vs Stuttgart",
-          "kick_utc": 1778938200,
-          "time": "16/05 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "beIN Sports France 6 HD max",
-                "DAZN 1 Portugal HD",
-                "Nova Sport Bulgaria HD",
-                "Nova Sports Extra 4 Hellas HD",
-                "S Sport+ Streaming",
-                "Sky Sport Bundesliga 3 HD",
-                "Tivibu Spor 1 HD"
+                "Tivibu Spor 4 HD",
+                "Tring Sport 7 HD"
               ]
             }
           ],
@@ -161,7 +178,8 @@
                 "Nova Sports 5 Hellas HD",
                 "S Sport+ Streaming",
                 "Sky Sport Bundesliga 2 HD",
-                "Tivibu Spor 4 HD"
+                "Tivibu Spor 4 HD",
+                "Tring Sport 4 HD"
               ]
             }
           ],
@@ -180,7 +198,9 @@
                 "Nova Sports Extra 1 Hellas HD",
                 "S Sport+ Streaming",
                 "Sky Sport Bundesliga 6 HD",
-                "Tivibu Spor 2 HD"
+                "Tivibu Spor 2 HD",
+                "Tring Sport 5 HD",
+                "YouTube: Bundesliga"
               ]
             }
           ],
@@ -198,7 +218,9 @@
                 "Nova Sports Start Hellas HD",
                 "S Sport+ Streaming",
                 "Sky Sport Bundesliga 4 HD",
-                "Tivibu Spor 4 HD"
+                "Tivibu Spor 4 HD",
+                "Tring Sport 6 HD",
+                "YouTube: Bundesliga"
               ]
             }
           ],
@@ -216,7 +238,8 @@
                 "Nova Sports 2 Hellas HD",
                 "S Sport+ Streaming",
                 "Sky Sport Bundesliga 9 HD",
-                "Tivibu Spor 3 HD"
+                "Tivibu Spor 3 HD",
+                "YouTube: Bundesliga"
               ]
             }
           ],
@@ -234,26 +257,175 @@
                 "Nova Sports Extra 3 Hellas HD",
                 "S Sport+ Streaming",
                 "Sky Sport Bundesliga 7 HD",
-                "Tivibu Spor 4 HD"
+                "Tivibu Spor 4 HD",
+                "YouTube: Bundesliga"
               ]
             }
           ],
           "source": "livesportsontv"
         },
         {
-          "league": "Premier League",
-          "match": "Aston Villa vs Liverpool",
+          "league": "Ligue 1",
+          "match": "Paris FC vs Paris St Germain",
           "kick_utc": 1778958000,
           "time": "17/05 02:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "Stan Sport"
+                "Arena Premium 3 Srbija HD",
+                "Arena Sport 1 BiH HD",
+                "beIN Sports MENA 1 HD",
+                "beIN Sports MENA English 2 HD",
+                "beIN Sports MENA French 2 HD",
+                "beIN Sports Türkiye 5 HD",
+                "Diema Sport 2 HD",
+                "Ligue 1+",
+                "Sport TV3 Portugal HD",
+                "SuperSport 1 Albania HD",
+                "SuperSport MáXimo 1 HD",
+                "SuperSport Variety 4 HD",
+                "TV3 Sport Dansk HD"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Lyon vs Lens",
+          "kick_utc": 1778958000,
+          "time": "17/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Connect Türkiye",
+                "beIN Sports France 1 HD",
+                "Diema Sport 3 HD",
+                "Fast Sports 1 Armenia",
+                "SuperSport 2 Albania HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Lille vs Auxerre",
+          "kick_utc": 1778958000,
+          "time": "17/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Sports Türkiye Max 2 HD",
+                "Ligue 1+",
+                "Setanta Sports Qazaqstan HD",
+                "SuperSport 4 Albania HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Brest vs Angers",
+          "kick_utc": 1778958000,
+          "time": "17/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Connect Türkiye",
+                "Ligue 1+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Lorient vs Le Havre",
+          "kick_utc": 1778958000,
+          "time": "17/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Connect Türkiye",
+                "Ligue 1+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Marseille vs Rennes",
+          "kick_utc": 1778958000,
+          "time": "17/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Connect Türkiye",
+                "Fast Sports 2 Armenia",
+                "Ligue 1+",
+                "Nova Sport Bulgaria HD",
+                "SuperSport 3 Albania HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Nantes vs Toulouse",
+          "kick_utc": 1778958000,
+          "time": "17/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Connect Türkiye",
+                "Ligue 1+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Nice vs Metz",
+          "kick_utc": 1778958000,
+          "time": "17/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Connect Türkiye",
+                "Ligue 1+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Ligue 1",
+          "match": "Strasbourg vs Monaco",
+          "kick_utc": 1778958000,
+          "time": "17/05 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "beIN Connect Türkiye",
+                "Ligue 1+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -287,53 +459,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Internazionali BNL dItalia",
-          "kick_utc": 1778925600,
-          "time": "16/05 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Tennis"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Casper Ruud vs Luciano Darderi",
-          "kick_utc": 1778938200,
-          "time": "16/05 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jannik Sinner vs Daniil Medvedev",
-          "kick_utc": 1778950800,
-          "time": "17/05 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
         }
       ]
     }
