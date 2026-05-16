@@ -1,79 +1,9 @@
 {
-  "updated": "2026-05-16 02:45 VN",
+  "updated": "2026-05-16 10:37 VN",
   "days": {
-    "20260515": {
-      "date": "Friday, 15/05",
+    "20260516": {
+      "date": "Saturday, 16/05",
       "games": [
-        {
-          "league": "Premier League",
-          "match": "Liverpool FC vs Aston Villa",
-          "kick_utc": 1778871600,
-          "time": "16/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Peacock",
-                "NBC Sports Network",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Premier League",
-          "match": "Aston Villa vs Liverpool",
-          "kick_utc": 1778871600,
-          "time": "16/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Astro Grandstand HD",
-                "Astro Premier League HD",
-                "Astro Sports UHD",
-                "beIN Connect MENA",
-                "beIN Connect Türkiye",
-                "beIN Sports Türkiye 3 HD",
-                "DAZN 1 Bar Espana",
-                "DAZN 1 Espana HD",
-                "DAZN 1 Portugal HD",
-                "DAZN España",
-                "Diema Sport 2 HD",
-                "ESPN 1 Brazil HD",
-                "Fast Sports",
-                "FuboTV Canada",
-                "Go3 Extra Sport Baltics",
-                "Monomax Streaming",
-                "Nova Sports Premier League HD",
-                "Persiana Sport HD",
-                "Play Sports 1 Belgium",
-                "See Dansk HD",
-                "Sky Go UK",
-                "Sky Sport 251 Italia HD",
-                "Sky Sport Calcio HD",
-                "Sky Sport Deutsch UHD",
-                "Sky Sport Italia 4K UHD",
-                "Sky Sport Premier League DE HD",
-                "Sky Sport Top Event HD",
-                "Sky Sports HD",
-                "Sky Sports Main Event HD",
-                "Sky Sports Main Event UHD",
-                "Sky Sports Premier League HD",
-                "Sky UK Ultra HD 1",
-                "Solh TV",
-                "Stan Sport Australia",
-                "Varzish TV Sport HD",
-                "ViaPlay Nederland HD",
-                "ViaPlay Norge HD",
-                "ViaPlay Suomi HD",
-                "VOYO Pro TV Romania"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Bundesliga",
           "match": "Hamburger SV vs Bayer Leverkusen",
@@ -309,23 +239,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Premier League",
-          "match": "Aston-Villa vs Liverpool",
-          "kick_utc": 1778871600,
-          "time": "16/05 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Premier League",
-                "Sky Sports Main Event",
-                "Sky Sports Ultra HDR"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
         },
         {
           "league": "Premier League",
