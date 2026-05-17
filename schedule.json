@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-17 02:12 VN",
+  "updated": "2026-05-17 10:56 VN",
   "days": {
-    "20260516": {
-      "date": "Saturday, 16/05",
+    "20260517": {
+      "date": "Sunday, 17/05",
       "games": [
         {
           "league": "Bundesliga",
@@ -1212,6 +1212,21 @@
           "source": "wheresthematch"
         },
         {
+          "league": "La Liga",
+          "match": "Barcelona vs Real-Betis",
+          "kick_utc": 1779045300,
+          "time": "18/05 02:15 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Premier Sports 1"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
           "league": "Premier League",
           "match": "Wolverhampton Wanderers vs Fulham",
           "kick_utc": 1779026400,
@@ -1250,6 +1265,22 @@
             {
               "country": "Ausport",
               "channels": [
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "La Liga",
+          "match": "Barcelona vs Real Betis",
+          "kick_utc": 1779045300,
+          "time": "18/05 02:15 AM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
                 "beIN SPORTS 2"
               ]
             }
