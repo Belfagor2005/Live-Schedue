@@ -1,111 +1,9 @@
 {
-  "updated": "2026-05-17 15:27 VN",
+  "updated": "2026-05-17 20:42 VN",
   "days": {
     "20260517": {
       "date": "Sunday, 17/05",
       "games": [
-        {
-          "league": "Bundesliga",
-          "match": "Paderborn vs FC Cologne U-19",
-          "kick_utc": 1779008400,
-          "time": "17/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Sky Sport Bundesliga HD",
-                "Sky Sport News Deutsch HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Serie A",
-          "match": "AC Milan vs Genoa",
-          "kick_utc": 1779013800,
-          "time": "17/05 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+ (US)",
-                "DAZN US",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Serie A",
-          "match": "Fiorentina vs Juventus",
-          "kick_utc": 1779013800,
-          "time": "17/05 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+ (US)",
-                "DAZN US",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Serie A",
-          "match": "Napoli vs Pisa",
-          "kick_utc": 1779013800,
-          "time": "17/05 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+ (US)",
-                "DAZN US",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Serie A",
-          "match": "Lazio vs Roma",
-          "kick_utc": 1779013800,
-          "time": "17/05 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Paramount+ (US)",
-                "DAZN US",
-                "FOX Deportes",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Premier League",
-          "match": "Nottingham Forest vs Manchester United",
-          "kick_utc": 1779017400,
-          "time": "17/05 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Telemundo",
-                "USA Network",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Serie A",
           "match": "Atalanta vs Bologna",
@@ -1407,83 +1305,6 @@
           "source": "wheresthematch"
         },
         {
-          "league": "Serie A",
-          "match": "Juventus vs Fiorentina",
-          "kick_utc": 1779012000,
-          "time": "17/05 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Serie A",
-          "match": "AS Roma vs Lazio",
-          "kick_utc": 1779012000,
-          "time": "17/05 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Serie A",
-          "match": "Pisa vs Napoli",
-          "kick_utc": 1779012000,
-          "time": "17/05 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Serie A",
-          "match": "Genoa vs AC Milan",
-          "kick_utc": 1779012000,
-          "time": "17/05 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Premier League",
-          "match": "Manchester United vs Nottingham",
-          "kick_utc": 1779017400,
-          "time": "17/05 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
           "league": "Premier League",
           "match": "Wolverhampton Wanderers vs Fulham",
           "kick_utc": 1779026400,
@@ -1512,21 +1333,6 @@
             }
           ],
           "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Internationaux de Strasbourg",
-          "kick_utc": 1779013800,
-          "time": "17/05 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -1562,19 +1368,19 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1779013800,
-          "time": "17/05 05:30 PM",
+          "match": "ATP Tennis",
+          "kick_utc": 1779094800,
+          "time": "18/05 04:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
+                "Sky Sports Tennis",
+                "Sky Sports+"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -1597,6 +1403,39 @@
           "match": "Jannik Sinner vs Casper Ruud",
           "kick_utc": 1779030000,
           "time": "17/05 10:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1779093000,
+          "time": "18/05 03:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport",
+                "beIN SPORTS 2",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1779098400,
+          "time": "18/05 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
