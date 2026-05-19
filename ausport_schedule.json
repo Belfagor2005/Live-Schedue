@@ -1,56 +1,65 @@
 [
   {
     "competition": "ATP Geneva",
-    "home": "",
-    "away": "",
+    "home": "Alexei Popyrin",
+    "away": "Clement Tabur",
     "vietnam_time": "15:30",
-    "vietnam_date": "19/05/2026",
-    "channels": "beIN SPORTS 2 | beIN Sports Connect",
+    "vietnam_date": "20/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
   {
     "competition": "WTA Strasbourg",
-    "home": "",
-    "away": "",
+    "home": "Diane Parry",
+    "away": "Emma Raducanu",
     "vietnam_time": "15:30",
-    "vietnam_date": "19/05/2026",
-    "channels": "beIN Sports Connect | Stan Sport",
+    "vietnam_date": "20/05/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Strasbourg",
+    "home": "Shuai Zhang",
+    "away": "Cristina Bucsa",
+    "vietnam_time": "15:30",
+    "vietnam_date": "20/05/2026",
+    "channels": "beIN Sports Connect",
     "sport": "Tennis"
   },
   {
     "competition": "ATP Hamburg",
-    "home": "",
-    "away": "",
+    "home": "Flavio Cobolli",
+    "away": "Ignacio Buse",
     "vietnam_time": "17:00",
-    "vietnam_date": "19/05/2026",
-    "channels": "beIN SPORTS 1 | beIN Sports Connect",
+    "vietnam_date": "20/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
     "competition": "ATP Hamburg",
-    "home": "",
-    "away": "",
-    "vietnam_time": "21:00",
-    "vietnam_date": "19/05/2026",
-    "channels": "beIN SPORTS 1 | beIN Sports Connect",
+    "home": "Tommy Paul",
+    "away": "Tomas Martin Etcheverry",
+    "vietnam_time": "20:30",
+    "vietnam_date": "20/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
     "competition": "WTA Strasbourg",
-    "home": "",
-    "away": "",
+    "home": "Victoria Mboko",
+    "away": "Lois Boisson",
     "vietnam_time": "22:30",
-    "vietnam_date": "19/05/2026",
+    "vietnam_date": "20/05/2026",
     "channels": "beIN Sports Connect",
     "sport": "Tennis"
   },
   {
     "competition": "ATP Geneva",
-    "home": "",
-    "away": "",
+    "home": "Adrian Mannarino",
+    "away": "Raphael Collignon",
     "vietnam_time": "23:00",
-    "vietnam_date": "19/05/2026",
-    "channels": "beIN SPORTS 2 | beIN Sports Connect",
+    "vietnam_date": "20/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
   {
@@ -58,7 +67,7 @@
     "home": "Bournemouth",
     "away": "Manchester City",
     "vietnam_time": "01:30",
-    "vietnam_date": "20/05/2026",
+    "vietnam_date": "21/05/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -67,7 +76,7 @@
     "home": "Chelsea",
     "away": "Tottenham",
     "vietnam_time": "02:15",
-    "vietnam_date": "20/05/2026",
+    "vietnam_date": "21/05/2026",
     "channels": "Stan Sport",
     "sport": "Soccer"
   },
@@ -76,8 +85,8 @@
     "home": "Cameron Norrie",
     "away": "Mariano Navone",
     "vietnam_time": "15:00",
-    "vietnam_date": "20/05/2026",
-    "channels": "beIN SPORTS 2 | beIN Sports Connect",
+    "vietnam_date": "21/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
   {
@@ -85,7 +94,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "15:30",
-    "vietnam_date": "20/05/2026",
+    "vietnam_date": "21/05/2026",
     "channels": "beIN Sports Connect | Stan Sport",
     "sport": "Tennis"
   },
@@ -94,8 +103,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "17:00",
-    "vietnam_date": "20/05/2026",
-    "channels": "beIN SPORTS 1 | beIN Sports Connect",
+    "vietnam_date": "21/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
@@ -103,7 +112,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "17:00",
-    "vietnam_date": "20/05/2026",
+    "vietnam_date": "21/05/2026",
     "channels": "beIN Sports Connect",
     "sport": "Tennis"
   },
@@ -112,8 +121,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "21:00",
-    "vietnam_date": "20/05/2026",
-    "channels": "beIN SPORTS 1 | beIN Sports Connect",
+    "vietnam_date": "21/05/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
@@ -121,26 +130,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "22:30",
-    "vietnam_date": "20/05/2026",
+    "vietnam_date": "21/05/2026",
     "channels": "beIN Sports Connect",
     "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Geneva",
-    "home": "",
-    "away": "",
-    "vietnam_time": "23:00",
-    "vietnam_date": "20/05/2026",
-    "channels": "beIN SPORTS 2 | beIN Sports Connect",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "Europa League",
-    "home": "Freiburg",
-    "away": "Aston Villa",
-    "vietnam_time": "02:00",
-    "vietnam_date": "21/05/2026",
-    "channels": "9Gem | Stan Sport",
-    "sport": "Soccer"
   }
 ]
