@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-19 16:55 VN",
+  "updated": "2026-05-19 22:36 VN",
   "days": {
     "20260519": {
       "date": "Tuesday, 19/05",
@@ -213,36 +213,6 @@
         },
         {
           "league": "Tennis",
-          "match": "Internationaux de Strasbourg",
-          "kick_utc": 1779179400,
-          "time": "19/05 03:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Hamburg Open",
-          "kick_utc": 1779184800,
-          "time": "19/05 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN5"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
           "match": "ATP Tennis",
           "kick_utc": 1779213600,
           "time": "20/05 01:00 AM",
@@ -287,39 +257,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1779179400,
-          "time": "19/05 03:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport",
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1779184800,
-          "time": "19/05 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
         },
         {
           "league": "Tennis",
@@ -395,6 +332,53 @@
               "channels": [
                 "beIN Sports Connect",
                 "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1779271200,
+          "time": "20/05 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1779285600,
+          "time": "20/05 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1779291000,
+          "time": "20/05 10:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
               ]
             }
           ],
