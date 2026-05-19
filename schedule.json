@@ -1,9 +1,169 @@
 {
-  "updated": "2026-05-19 11:03 VN",
+  "updated": "2026-05-19 16:55 VN",
   "days": {
     "20260519": {
       "date": "Tuesday, 19/05",
       "games": [
+        {
+          "league": "Premier League",
+          "match": "Manchester City vs AFC Bournemouth",
+          "kick_utc": 1779215400,
+          "time": "20/05 01:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "NBC Universo",
+                "TeleXitos",
+                "USA Network",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Premier League",
+          "match": "Bournemouth vs Manchester City",
+          "kick_utc": 1779215400,
+          "time": "20/05 01:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "** P-O-S-T-P-O-N-E-D **",
+                "Arena Premium 1 BiH HD",
+                "Arena Premium 1 Slovenija",
+                "Arena Premium 1 Srbija HD",
+                "Arena Sport 2 Hrvatska HD",
+                "Astro Premier League 2 HD",
+                "beIN Connect MENA",
+                "beIN Connect Türkiye",
+                "beIN Sports Türkiye 4 HD",
+                "Canal+ Foot HD",
+                "Canal+ Live 1 France HD",
+                "Canal+ Sport 1 Czech HD",
+                "Cytavision Sports 3 HD",
+                "Cytavision Sports 4K 1 UHD",
+                "Cytavision Sports PPV 3 HD",
+                "DAZN 1 Bar Espana",
+                "DAZN 1 Espana HD",
+                "DAZN 1 Portugal HD",
+                "DAZN Canada",
+                "DAZN España",
+                "Diema Sport HD",
+                "ESPN 1 Brazil HD",
+                "Fast Sports",
+                "Fast Sports TV Armenia",
+                "FuboTV Canada",
+                "Go3 Extra Sport Baltics",
+                "Idman TV HD",
+                "Monomax Streaming",
+                "Movistar Plus+ HD",
+                "NBC Universo USA",
+                "Nova Sports Premier League HD",
+                "Play Sports 1 Belgium",
+                "Setanta Sports Ukraine HD",
+                "Sky Go UK",
+                "Sky Sport Italia 4K UHD",
+                "Sky Sport Premier League DE HD",
+                "Sky Sport Uno Italia HD",
+                "Sky Sports HD",
+                "Sky Sports Main Event HD",
+                "Sky Sports Main Event UHD",
+                "Sky UK Ultra HD 1",
+                "Spíler 1 TV Hungary HD",
+                "Stan Sport Australia",
+                "SuperSport 2 Albania HD",
+                "SuperSport Grandstand HD",
+                "SuperSport MáXimo 2A HD",
+                "SuperSport Premier League HD",
+                "TSN Malta 2 HD",
+                "USA Network HD",
+                "ViaPlay Nederland HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD",
+                "VOYO Pro TV Romania"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Premier League",
+          "match": "Tottenham Hotspur vs Chelsea",
+          "kick_utc": 1779218100,
+          "time": "20/05 02:15 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Peacock",
+                "NBC Sports Network",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Premier League",
+          "match": "Chelsea vs Tottenham Hotspur",
+          "kick_utc": 1779218100,
+          "time": "20/05 02:15 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "** P-O-S-T-P-O-N-E-D **",
+                "Arena Premium 2 BiH HD",
+                "Arena Premium 2 Srbija HD",
+                "Arena Sport 1 Hrvatska HD",
+                "Arena Sport 2 Slovenija HD",
+                "Astro Grandstand HD",
+                "Astro Premier League HD",
+                "beIN Connect MENA",
+                "beIN Connect Türkiye",
+                "beIN Sports Türkiye 3 HD",
+                "Canal+ Sport 360 HD",
+                "Canal+ Sport 4 Czech HD",
+                "Cytavision Sports 4 HD",
+                "Cytavision Sports PPV 4 HD",
+                "DAZN 2 Bar Espana",
+                "DAZN 2 Espana HD",
+                "DAZN 2 Portugal HD",
+                "DAZN Canada",
+                "DAZN España",
+                "Diema Sport 2 HD",
+                "Fast Sports",
+                "FuboTV Canada",
+                "Go3 Extra Sport Baltics",
+                "Match 4 Hungary HD",
+                "Monomax Streaming",
+                "NBC Sports Network",
+                "Nova Sports Prime Hellas HD",
+                "Play Sports 2 Belgium",
+                "Setanta Sports+ Ukraine HD",
+                "Sky Go UK",
+                "Sky Sport Calcio HD",
+                "Sky Sport MIX Deutsch HD",
+                "Sky Sports HD",
+                "Sky Sports Premier League HD",
+                "Sky UK Ultra HD 1",
+                "Stan Sport Australia",
+                "SuperSport 3 Albania HD",
+                "SuperSport MáXimo 1 HD",
+                "SuperSport PSL HD",
+                "TSN Malta 7 HD",
+                "ViaPlay Nederland HD",
+                "ViaPlay Norge HD",
+                "ViaPlay Suomi HD",
+                "VOYO Pro TV Romania"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Premier League",
           "match": "Bournemouth-AFC vs Manchester-City",
@@ -38,9 +198,9 @@
         },
         {
           "league": "Premier League",
-          "match": "Arsenal vs Burnley",
-          "kick_utc": 1779217200,
-          "time": "20/05 02:00 AM",
+          "match": "Chelsea vs Tottenham",
+          "kick_utc": 1779218100,
+          "time": "20/05 02:15 AM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -83,37 +243,6 @@
         },
         {
           "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1779177600,
-          "time": "19/05 03:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "HBO Max"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "ATP Tennis",
-          "kick_utc": 1779181200,
-          "time": "19/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Tennis",
-                "Sky Sports+"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
           "match": "ATP Tennis",
           "kick_utc": 1779213600,
           "time": "20/05 01:00 AM",
@@ -130,29 +259,45 @@
         },
         {
           "league": "Tennis",
-          "match": "Magdalena Frech vs Talia Gibson",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1779264000,
+          "time": "20/05 03:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "ATP Tennis",
+          "kick_utc": 1779267600,
+          "time": "20/05 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "Sky Sports Tennis",
+                "Sky Sports+"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
           "kick_utc": 1779179400,
           "time": "19/05 03:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Sebastian Baez vs Alex Michelsen",
-          "kick_utc": 1779179700,
-          "time": "19/05 03:35 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
+                "Stan Sport",
                 "beIN SPORTS 2",
                 "beIN Sports Connect"
               ]
@@ -162,7 +307,7 @@
         },
         {
           "league": "Tennis",
-          "match": "Francisco Cerundolo vs Alex De Minaur",
+          "match": "",
           "kick_utc": 1779184800,
           "time": "19/05 05:00 PM",
           "tv_channels": [
@@ -178,9 +323,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Daniel Altmaier vs Rinky Hijikata",
-          "kick_utc": 1779195600,
-          "time": "19/05 08:00 PM",
+          "match": "",
+          "kick_utc": 1779199200,
+          "time": "19/05 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -194,7 +339,7 @@
         },
         {
           "league": "Tennis",
-          "match": "Marie Bouzkova vs Katerina Siniakova",
+          "match": "",
           "kick_utc": 1779204600,
           "time": "19/05 10:30 PM",
           "tv_channels": [
@@ -209,7 +354,7 @@
         },
         {
           "league": "Tennis",
-          "match": "Raul Brancaccio vs Stan Wawrinka",
+          "match": "",
           "kick_utc": 1779206400,
           "time": "19/05 11:00 PM",
           "tv_channels": [
@@ -218,6 +363,38 @@
               "channels": [
                 "beIN SPORTS 2",
                 "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Cameron Norrie vs Mariano Navone",
+          "kick_utc": 1779264000,
+          "time": "20/05 03:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1779265800,
+          "time": "20/05 03:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "Stan Sport"
               ]
             }
           ],
