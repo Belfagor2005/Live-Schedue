@@ -1,7 +1,7 @@
 [
   {
-    "hari": "Kamis",
-    "tanggal": "21-05-2026",
+    "hari": "Jumat",
+    "tanggal": "22-05-2026",
     "time": "01:00",
     "sport": "Tennis",
     "competition": "",
@@ -14,24 +14,8 @@
     "event_url": ""
   },
   {
-    "hari": "Kamis",
-    "tanggal": "21-05-2026",
-    "time": "02:00",
-    "sport": "Football",
-    "competition": "UEFA Europa League",
-    "title": "SC-Freiburg vs Aston-Villa",
-    "home": "SC-Freiburg",
-    "away": "Aston-Villa",
-    "channels": [
-      "TNT Sports 1",
-      "TNT Sports Ultimate",
-      "HBO Max"
-    ],
-    "event_url": ""
-  },
-  {
-    "hari": "Kamis",
-    "tanggal": "21-05-2026",
+    "hari": "Jumat",
+    "tanggal": "22-05-2026",
     "time": "15:00",
     "sport": "Tennis",
     "competition": "",
@@ -44,9 +28,9 @@
     "event_url": ""
   },
   {
-    "hari": "Kamis",
-    "tanggal": "21-05-2026",
-    "time": "16:00",
+    "hari": "Sabtu",
+    "tanggal": "22-05-2026",
+    "time": "19:00",
     "sport": "Tennis",
     "competition": "",
     "title": "ATP Tennis",
@@ -59,30 +43,16 @@
     "event_url": ""
   },
   {
-    "hari": "Jumat",
-    "tanggal": "22-05-2026",
-    "time": "01:00",
-    "sport": "Tennis",
-    "competition": "",
-    "title": "Geneva Open",
-    "home": "Geneva Open",
-    "away": "",
+    "hari": "Sabtu",
+    "tanggal": "23-05-2026",
+    "time": "01:45",
+    "sport": "Football",
+    "competition": "Serie A",
+    "title": "Fiorentina vs Atalanta",
+    "home": "Fiorentina",
+    "away": "Atalanta",
     "channels": [
-      "Sky Sports Tennis"
-    ],
-    "event_url": ""
-  },
-  {
-    "hari": "Jumat",
-    "tanggal": "22-05-2026",
-    "time": "15:00",
-    "sport": "Tennis",
-    "competition": "",
-    "title": "Roland Garros French Open",
-    "home": "Roland Garros French Open",
-    "away": "",
-    "channels": [
-      "HBO Max"
+      "DAZN"
     ],
     "event_url": ""
   }
