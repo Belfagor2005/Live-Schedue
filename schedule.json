@@ -1,24 +1,32 @@
 {
-  "updated": "2026-05-21 11:13 VN",
+  "updated": "2026-05-21 16:53 VN",
   "days": {
     "20260521": {
       "date": "Thursday, 21/05",
       "games": [
         {
-          "league": "UEFA Europa League",
-          "match": "Freiburg vs Aston Villa",
-          "kick_utc": 1779390000,
-          "time": "22/05 02:00 AM",
+          "league": "Bundesliga",
+          "match": "Wolfsburg vs Paderborn",
+          "kick_utc": 1779388200,
+          "time": "22/05 01:30 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "9Gem",
-                "Stan Sport"
+                "Prime Video UK PPV",
+                "S Sport+ Streaming",
+                "SAT.1 Deutschland HD",
+                "SAT.1 Schweiz HD",
+                "SAT.1 Österreich HD",
+                "Sky Sport Bundesliga HD",
+                "Sky Sport Bundesliga UHD",
+                "Sky Sport News Deutsch HD",
+                "Sky Sport Top Event HD",
+                "Tivibu Spor 1 HD"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -67,37 +75,6 @@
         },
         {
           "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1779350400,
-          "time": "21/05 03:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "HBO Max"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "ATP Tennis",
-          "kick_utc": 1779354000,
-          "time": "21/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Tennis",
-                "Sky Sports+"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
           "match": "Geneva Open",
           "kick_utc": 1779386400,
           "time": "22/05 01:00 AM",
@@ -113,15 +90,31 @@
         },
         {
           "league": "Tennis",
-          "match": "Marie Bouzkova vs Oleksandra Oliynykova",
-          "kick_utc": 1779352500,
-          "time": "21/05 03:35 PM",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1779436800,
+          "time": "22/05 03:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1779357600,
+          "time": "21/05 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
+                "Stan Sport",
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
               ]
             }
           ],
@@ -129,9 +122,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Cameron Norrie vs Mariano Navone",
-          "kick_utc": 1779354000,
-          "time": "21/05 04:00 PM",
+          "match": "",
+          "kick_utc": 1779361200,
+          "time": "21/05 06:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -145,29 +138,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Felix Auger-Aliassime vs Aleksandar Kovacevic",
-          "kick_utc": 1779357600,
-          "time": "21/05 05:00 PM",
+          "match": "",
+          "kick_utc": 1779372000,
+          "time": "21/05 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alycia Parks vs Jil Belen Teichmann",
-          "kick_utc": 1779357600,
-          "time": "21/05 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
+                "beIN SPORTS 1",
                 "beIN Sports Connect"
               ]
             }
@@ -176,23 +154,7 @@
         },
         {
           "league": "Tennis",
-          "match": "Alejandro Davidovich Fokina vs Alex De Minaur",
-          "kick_utc": 1779368400,
-          "time": "21/05 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Emma Navarro vs Iva Jovic",
+          "match": "",
           "kick_utc": 1779377400,
           "time": "21/05 10:30 PM",
           "tv_channels": [
@@ -207,7 +169,7 @@
         },
         {
           "league": "Tennis",
-          "match": "Stan Wawrinka vs Alex Michelsen",
+          "match": "",
           "kick_utc": 1779379200,
           "time": "21/05 11:00 PM",
           "tv_channels": [
