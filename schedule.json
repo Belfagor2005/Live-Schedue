@@ -1,58 +1,9 @@
 {
-  "updated": "2026-05-22 03:00 VN",
+  "updated": "2026-05-22 11:07 VN",
   "days": {
-    "20260521": {
-      "date": "Thursday, 21/05",
+    "20260522": {
+      "date": "Friday, 22/05",
       "games": [
-        {
-          "league": "Bundesliga",
-          "match": "Wolfsburg vs Paderborn",
-          "kick_utc": 1779388200,
-          "time": "22/05 01:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 3 Srbija HD",
-                "Azam Sports 2 HD",
-                "beIN Sports 3 HD",
-                "beIN Sports France 1 HD",
-                "DAZN 2 Portugal HD",
-                "Diema Sport 2 HD",
-                "Digi Sport 3 Romania",
-                "Eleven Sports 1 Polska HD",
-                "Fast Sports TV Armenia",
-                "Go3 Sport 2 Baltic HD",
-                "Nova Sport 3 Czech HD",
-                "Nova Sports 3 Hellas HD",
-                "Play Sports 1 Belgium",
-                "Prima Sport RO 2 HD",
-                "Prime Video UK PPV",
-                "S Sport+ Streaming",
-                "SAT.1 Deutschland HD",
-                "SAT.1 Schweiz HD",
-                "SAT.1 Österreich HD",
-                "Setanta Sports 1 Eurasia HD",
-                "Setanta Sports 1 Georgia HD",
-                "Setanta Sports Ukraine HD",
-                "Sky Sport Bundesliga HD",
-                "Sky Sport Bundesliga UHD",
-                "Sky Sport News Deutsch HD",
-                "Sky Sport Top Event HD",
-                "Sport TV1 Slovenija",
-                "SportKlub 3 Hrvatska",
-                "SporTV 2 Brazil HD",
-                "ST Sports Life",
-                "Tivibu Spor 1 HD",
-                "Tring Sport 1 HD",
-                "TV3 MAX Dansk HD",
-                "V Sport 2 Norge HD",
-                "ViaPlay 2 Urheilu HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Serie A",
           "match": "Fiorentina vs Atalanta",
