@@ -1,23 +1,5 @@
 [
   {
-    "competition": "ATP French Open",
-    "home": "James Duckworth",
-    "away": "Gabriel Diallo",
-    "vietnam_time": "16:00",
-    "vietnam_date": "24/05/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA French Open",
-    "home": "Ajla Tomljanovic",
-    "away": "Caty McNally",
-    "vietnam_time": "16:00",
-    "vietnam_date": "24/05/2026",
-    "channels": "9Gem",
-    "sport": "Tennis"
-  },
-  {
     "competition": "Premier League",
     "home": "Fulham",
     "away": "Newcastle Utd",
