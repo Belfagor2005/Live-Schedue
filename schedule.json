@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-24 15:36 VN",
+  "updated": "2026-05-24 20:46 VN",
   "days": {
     "20260524": {
       "date": "Sunday, 24/05",
@@ -1293,29 +1293,36 @@
         },
         {
           "league": "Tennis",
-          "match": "James Duckworth vs Gabriel Diallo",
-          "kick_utc": 1779613200,
-          "time": "24/05 04:00 PM",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1779699600,
+          "time": "25/05 04:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "Stan Sport"
+                "TNT Sports 1",
+                "TNT Sports 4",
+                "TNT Sports 5",
+                "TNT Sports 6",
+                "TNT Sports 7",
+                "TNT Sports Ultimate",
+                "HBO Max"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
-          "match": "Ajla Tomljanovic vs Caty McNally",
-          "kick_utc": 1779613200,
-          "time": "24/05 04:00 PM",
+          "match": "",
+          "kick_utc": 1779699600,
+          "time": "25/05 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "9Gem"
+                "9Gem",
+                "Stan Sport"
               ]
             }
           ],
