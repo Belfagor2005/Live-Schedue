@@ -1,29 +1,33 @@
 {
-  "updated": "2026-05-25 11:18 VN",
+  "updated": "2026-05-25 17:19 VN",
   "days": {
     "20260525": {
       "date": "Monday, 25/05",
       "games": [
         {
-          "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1779699600,
-          "time": "25/05 04:00 PM",
+          "league": "Bundesliga",
+          "match": "Paderborn vs Wolfsburg",
+          "kick_utc": 1779733800,
+          "time": "26/05 01:30 AM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "TNT Sports 1",
-                "TNT Sports 4",
-                "TNT Sports 5",
-                "TNT Sports 6",
-                "TNT Sports 7",
-                "TNT Sports Ultimate",
-                "HBO Max"
+                "beIN Sports Australia 2 HD",
+                "Prime Video UK PPV",
+                "S Sport+ Streaming",
+                "SAT.1 Deutschland HD",
+                "SAT.1 Schweiz HD",
+                "SAT.1 Österreich HD",
+                "Sky Sport Bundesliga HD",
+                "Sky Sport Bundesliga UHD",
+                "Sky Sport News Deutsch HD",
+                "Sky Sport Top Event HD",
+                "Tivibu Spor 1 HD"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -45,9 +49,46 @@
         },
         {
           "league": "Tennis",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1779786000,
+          "time": "26/05 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 1",
+                "TNT Sports 4",
+                "TNT Sports 5",
+                "TNT Sports 6",
+                "TNT Sports 7",
+                "TNT Sports Ultimate",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
           "match": "",
           "kick_utc": 1779699600,
           "time": "25/05 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "9Gem",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1779786000,
+          "time": "26/05 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
