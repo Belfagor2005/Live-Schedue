@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-27 17:03 VN",
+  "updated": "2026-05-27 22:57 VN",
   "days": {
     "20260527": {
       "date": "Wednesday, 27/05",
@@ -76,22 +76,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1779872400,
-          "time": "27/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
         },
         {
           "league": "Tennis",
