@@ -1,51 +1,9 @@
 {
-  "updated": "2026-05-27 03:15 VN",
+  "updated": "2026-05-27 11:17 VN",
   "days": {
-    "20260526": {
-      "date": "Tuesday, 26/05",
+    "20260527": {
+      "date": "Wednesday, 27/05",
       "games": [
-        {
-          "league": "Ligue 1",
-          "match": "St Etienne vs Nice",
-          "kick_utc": 1779821100,
-          "time": "27/05 01:45 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 1 BiH HD",
-                "Arena Premium 5 Srbija HD",
-                "Arena Sport 2 Hrvatska HD",
-                "Arena Sport 2 Slovenija HD",
-                "ART Motion Sport 1 HD",
-                "beIN Connect Türkiye",
-                "beIN Sports France 1 HD",
-                "beIN Sports MENA 2 HD",
-                "beIN Sports MENA French 1 HD",
-                "beIN Sports Türkiye 4 HD",
-                "beIN Sports US Español",
-                "Canal+ Sport 2 Afrique HD",
-                "DAZN 1 Bar Deutsch HD",
-                "Diema Sport 2 HD",
-                "Eleven Sports 1 Polska HD",
-                "Fast Sports TV Armenia",
-                "Go3 Sport 2 Baltic HD",
-                "Megogo Futbol 1",
-                "Nova Sport 3 Czech HD",
-                "Okko Prime Sport HD",
-                "Persiana Sport HD",
-                "Setanta Sports 1 Baltic",
-                "Setanta Sports 1 Georgia HD",
-                "Setanta Sports 2 Eurasia HD",
-                "Sport TV2 Portugal HD",
-                "SuperSport Variety 4 HD",
-                "V Sport Premium HD",
-                "VOYO Pro TV Romania"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
