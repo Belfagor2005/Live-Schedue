@@ -1,30 +1,32 @@
 {
-  "updated": "2026-05-28 11:06 VN",
+  "updated": "2026-05-28 17:13 VN",
   "days": {
     "20260528": {
       "date": "Thursday, 28/05",
       "games": [
         {
-          "league": "UEFA Europa Conference League",
-          "match": "Crystal Palace vs Rayo Vallecano",
-          "kick_utc": 1779994800,
-          "time": "29/05 02:00 AM",
+          "league": "Tennis",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1779992100,
+          "time": "29/05 01:15 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "9Gem",
-                "Stan Sport"
+                "TNT Sports 1",
+                "TNT Sports 4",
+                "TNT Sports Ultimate",
+                "HBO Max"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
-          "kick_utc": 1779958800,
-          "time": "28/05 04:00 PM",
+          "kick_utc": 1780045200,
+          "time": "29/05 04:00 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -33,8 +35,6 @@
                 "TNT Sports 4",
                 "TNT Sports 5",
                 "TNT Sports 6",
-                "TNT Sports 7",
-                "TNT Sports 8",
                 "TNT Sports Ultimate",
                 "HBO Max"
               ]
@@ -44,25 +44,7 @@
         },
         {
           "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1779992100,
-          "time": "29/05 01:15 AM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "TNT Sports 1",
-                "TNT Sports 4",
-                "TNT Sports Ultimate",
-                "HBO Max"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alex De Minaur vs Alexander Blockx",
+          "match": "",
           "kick_utc": 1779958800,
           "time": "28/05 04:00 PM",
           "tv_channels": [
@@ -78,373 +60,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Karen Khachanov vs Marco Trungelliti",
-          "kick_utc": 1779958800,
-          "time": "28/05 04:00 PM",
+          "match": "",
+          "kick_utc": 1780045200,
+          "time": "29/05 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alejandro Davidovich Fokina vs Thiago Augustin Tirante",
-          "kick_utc": 1779958800,
-          "time": "28/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Federico Cina vs Jesper De Jong",
-          "kick_utc": 1779958800,
-          "time": "28/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Caty McNally vs Belinda Bencic",
-          "kick_utc": 1779958800,
-          "time": "28/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Tamara Korpatsch vs Xinyu Wang",
-          "kick_utc": 1779958800,
-          "time": "28/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Sara Bejlek vs Iga Swiatek",
-          "kick_utc": 1779962400,
-          "time": "28/05 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Camilo Ugo Carabelli vs Andrey Rublev",
-          "kick_utc": 1779964200,
-          "time": "28/05 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Viktorija Golubic vs Alycia Parks",
-          "kick_utc": 1779964200,
-          "time": "28/05 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Daria Snigur vs Peyton Stearns",
-          "kick_utc": 1779964200,
-          "time": "28/05 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jelena Ostapenko vs Magda Linette",
-          "kick_utc": 1779964200,
-          "time": "28/05 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Mariano Navone vs Jakub Mensik",
-          "kick_utc": 1779966000,
-          "time": "28/05 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Yulia Starodubtseva vs Elena Rybakina",
-          "kick_utc": 1779966000,
-          "time": "28/05 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Marta Kostyuk vs Katie Volynets",
-          "kick_utc": 1779966000,
-          "time": "28/05 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Elina Svitolina vs Kaitlin Quevedo",
-          "kick_utc": 1779967800,
-          "time": "28/05 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Nuno Borges vs Miomir Kecmanovic",
-          "kick_utc": 1779969600,
-          "time": "28/05 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Thanasi Kokkinakis vs Pablo Carreno-Busta",
-          "kick_utc": 1779969600,
-          "time": "28/05 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "James Duckworth vs Rafael Jodar",
-          "kick_utc": 1779969600,
-          "time": "28/05 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Francesca Jones vs Marie Bouzkova",
-          "kick_utc": 1779969600,
-          "time": "28/05 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Ugo Humbert vs Quentin Halys",
-          "kick_utc": 1779971400,
-          "time": "28/05 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Joao Fonseca vs Dino Prizmic",
-          "kick_utc": 1779971400,
-          "time": "28/05 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jasmine Paolini vs Solana Sierra",
-          "kick_utc": 1779971400,
-          "time": "28/05 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Valentin Royer vs Novak Djokovic",
-          "kick_utc": 1779973200,
-          "time": "28/05 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Hailey Baptiste vs Xiyu Wang",
-          "kick_utc": 1779973200,
-          "time": "28/05 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Nishesh Basavareddy vs Alex Michelsen",
-          "kick_utc": 1779975000,
-          "time": "28/05 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Tomas Machac vs Alexander Zverev",
-          "kick_utc": 1779992100,
-          "time": "29/05 01:15 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
+                "9Gem",
                 "Stan Sport"
               ]
             }
