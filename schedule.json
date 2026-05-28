@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-28 17:13 VN",
+  "updated": "2026-05-28 23:12 VN",
   "days": {
     "20260528": {
       "date": "Thursday, 28/05",
@@ -41,22 +41,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1779958800,
-          "time": "28/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
         },
         {
           "league": "Tennis",
