@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-29 22:53 VN",
+  "updated": "2026-05-30 03:32 VN",
   "days": {
     "20260529": {
       "date": "Friday, 29/05",
@@ -17,25 +17,33 @@
                 "Arena Premium 2 Srbija HD",
                 "Arena Premium 3 BiH HD",
                 "Arena Sport 1 Hrvatska HD",
+                "ART Motion Sport 1 HD",
                 "beIN Connect Türkiye",
                 "beIN Sports France 1 HD",
                 "beIN Sports MENA 3 HD",
                 "beIN Sports MENA French 1 HD",
                 "beIN Sports Türkiye 4 HD",
+                "beIN Sports US Español",
+                "Canal+ Sport 2 Afrique HD",
                 "DAZN 1 Bar Deutsch HD",
                 "Diema Sport 2 HD",
                 "Eleven Sports 1 Polska HD",
                 "Fast Sports TV Armenia",
+                "Futbol TV Tajikistan",
                 "Go3 Sport 2 Baltic HD",
                 "Ligue 1+",
                 "Megogo Futbol 1",
                 "Nova Sport 4 Czech HD",
+                "Okko Sport HD",
+                "Persiana Sport HD",
                 "Setanta Sports 1 Baltic",
                 "Setanta Sports 1 Eurasia HD",
                 "Setanta Sports 1 Georgia HD",
+                "Sky Sport Calcio HD",
                 "Sport TV2 Portugal HD",
                 "SuperSport Variety 4 HD",
                 "ViaPlay 2 Urheilu HD",
+                "ViaPlay Nederland HD",
                 "ViaPlay Sport Sverige HD",
                 "VOYO Pro TV Romania"
               ]
@@ -44,18 +52,173 @@
           "source": "livesportsontv"
         },
         {
-          "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1780078500,
-          "time": "30/05 01:15 AM",
+          "league": "UEFA Champions League",
+          "match": "Arsenal FC vs PSG",
+          "kick_utc": 1780156800,
+          "time": "30/05 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Fubo Sports",
+                "Paramount+ (US)",
+                "DAZN US",
+                "CBS",
+                "TUDN"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Paris St Germain vs Arsenal",
+          "kick_utc": 1780156800,
+          "time": "30/05 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 1 BiH HD",
+                "Arena Premium 1 Srbija HD",
+                "Arena Sport 1 Hrvatska HD",
+                "Arezo TV HD",
+                "beIN Sports 1 HD",
+                "beIN Sports MENA 1 HD",
+                "beIN Sports MENA English 1 HD",
+                "Blue Sport 1 Live HD",
+                "Blue Sport 1 Live UHD",
+                "Blue Sport 2 Live HDR",
+                "Blue Sport D 2 HD",
+                "bTV Action HD",
+                "Canal+ Extra 1 Polska HD",
+                "Canal+ Foot HD",
+                "Canal+ France HD",
+                "Canal+ France UHD",
+                "Canal+ Live 1 France HD",
+                "Canal+ Sport 1 Afrique HD",
+                "Canal+ Sport 2 Afrique HD",
+                "CBS USA",
+                "Cosmote Sport 1 HD",
+                "Cosmote Sport 4K UHD",
+                "CRTV Sports Cameroon",
+                "Cytavision Sports 3 HD",
+                "Cytavision Sports 4K 1 UHD",
+                "Cytavision Sports PPV 1 HD",
+                "DAZN 1 Bar Deutsch HD",
+                "DAZN Canada",
+                "DAZN Deutsch",
+                "DAZN USA en Español",
+                "Digi 4K UHD",
+                "Digi Sport 1 Romania HD",
+                "GEM Sport HD",
+                "Go3 Extra Sport Baltics",
+                "HBO Max",
+                "HRT 2 Hrvatska HD",
+                "IRIB TV3 HD",
+                "Jurnal TV Moldova",
+                "La Nouvelle Chaîne Ivorienne",
+                "LaLiga TV Bar HD",
+                "M+ Liga de Campeones HD",
+                "M+ Liga de Campeones HDR",
+                "M6 France 4K UHD",
+                "M6 France HD",
+                "M6 Suisse HD",
+                "MAX Sport 3 Bulgaria HD",
+                "MEGA Hellas HD",
+                "Megogo Futbol 1",
+                "Meraj TV",
+                "Movistar Plus+ HD",
+                "MTV Sub Suomi",
+                "MTV Urheilu 2 Suomi HD",
+                "Nova Sport 3 Czech HD",
+                "Okko Futbol HD",
+                "Orange Fútbol 1 HD",
+                "Paramount+ USA",
+                "Pickx+ Sports 1 HD",
+                "Pop TV Slovenija HD",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 2 Mongolia HD",
+                "Prima 4K UHD",
+                "Prima Sport RO 1 HD",
+                "QazSport HD",
+                "RSI La 2 Svizzera HD",
+                "RTK 1 Kosovo HD",
+                "RTL Club Belgique",
+                "RTL Hungary HD",
+                "RTL Zwee Luxembourg",
+                "RTS 2 Srbija HD",
+                "RTS 2 Suisse HD",
+                "RTÉ 2 Ireland HD",
+                "Setanta Sports 1 Georgia HD",
+                "Silk Universal HD",
+                "Sky Sport 1 Austria HD",
+                "Sky Sport 251 Italia HD",
+                "Sky Sport Calcio HD",
+                "Sky Sport Italia 4K UHD",
+                "Sky Sport Uno Italia HD",
+                "Solh TV",
+                "Sony Sports TEN 2 India HD",
+                "Sony Sports TEN 3 India HD",
+                "Sony Sports TEN 4 India HD",
+                "Sport 24 At Sea HD",
+                "Sport 24 In Flight HD",
+                "Sport TV Azerbaijan",
+                "Sport TV5 Portugal HD",
+                "SportKlub 1 Slovenija HD",
+                "SRF Info Schweiz HD",
+                "Stan Sport Australia",
+                "SuperSport MáXimo 1 HD",
+                "SuperSport MáXimo 2A HD",
+                "SuperSport MáXimo 360",
+                "SuperSport Premier League HD",
+                "SÝN Sport ViaPlay HD",
+                "TNT Sports 1 HD",
+                "TNT Sports Ultimate UHD",
+                "Tolo TV",
+                "Tring Sport 1 HD",
+                "TRT 1 Türkiye HD",
+                "TSN Malta 2 HD",
+                "TUDN Español USA",
+                "TV2 Direkte Norge HD",
+                "TV3+ Dansk HD",
+                "TVE La 1 HD España",
+                "TVE La 1 UHD 4K",
+                "TVM Sport+ HD",
+                "TVM+ Malta HD",
+                "TVP 1 Polska HD",
+                "TVP Sport Polska HD",
+                "Univision USA",
+                "V Sport Premium HD",
+                "V Sport Ultra 4K UHD",
+                "Varzish TV Sport HD",
+                "ViaPlay Sport Sverige HD",
+                "Vizion Plus HD",
+                "Voyo Player PPV",
+                "VTM 2 Belgium HD",
+                "ZDF Deutschland HD",
+                "Ziggo Sport 4K UHD",
+                "Ziggo Sport HD",
+                "Zor TV Uzbekistan"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Paris-Saint-Germain vs Arsenal",
+          "kick_utc": 1780156800,
+          "time": "30/05 11:00 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
               "channels": [
                 "TNT Sports 1",
-                "TNT Sports 4",
                 "TNT Sports Ultimate",
-                "HBO Max"
+                "HBO Max",
+                "RTE 2",
+                "RTE Player"
               ]
             }
           ],
@@ -80,7 +243,24 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1780164900,
+          "time": "31/05 01:15 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 4",
+                "TNT Sports 5",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Nuno Borges vs Andrey Rublev",
           "kick_utc": 1780131600,
           "time": "30/05 04:00 PM",
           "tv_channels": [
@@ -88,6 +268,201 @@
               "country": "Ausport",
               "channels": [
                 "9Gem",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Thiago Augustin Tirante vs Pablo Carreno-Busta",
+          "kick_utc": 1780131600,
+          "time": "30/05 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Marta Kostyuk vs Viktorija Golubic",
+          "kick_utc": 1780131600,
+          "time": "30/05 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Xiyu Wang vs Yulia Starodubtseva",
+          "kick_utc": 1780131600,
+          "time": "30/05 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Magda Linette vs Iga Swiatek",
+          "kick_utc": 1780135200,
+          "time": "30/05 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Alex Michelsen vs Rafael Jodar",
+          "kick_utc": 1780137000,
+          "time": "30/05 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jil Belen Teichmann vs Karolina Muchova",
+          "kick_utc": 1780138800,
+          "time": "30/05 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Solana Sierra vs Sorana-Mihaela Cirstea",
+          "kick_utc": 1780138800,
+          "time": "30/05 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Mirra Andreeva vs Marie Bouzkova",
+          "kick_utc": 1780140600,
+          "time": "30/05 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Alex De Minaur vs Jakub Mensik",
+          "kick_utc": 1780144200,
+          "time": "30/05 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Karen Khachanov vs Jesper De Jong",
+          "kick_utc": 1780144200,
+          "time": "30/05 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Elina Svitolina vs Tamara Korpatsch",
+          "kick_utc": 1780144200,
+          "time": "30/05 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Joao Fonseca vs Novak Djokovic",
+          "kick_utc": 1780147800,
+          "time": "30/05 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Quentin Halys vs Alexander Zverev",
+          "kick_utc": 1780164900,
+          "time": "31/05 01:15 AM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
                 "Stan Sport"
               ]
             }
