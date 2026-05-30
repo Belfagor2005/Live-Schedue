@@ -1,56 +1,9 @@
 {
-  "updated": "2026-05-30 03:32 VN",
+  "updated": "2026-05-30 10:54 VN",
   "days": {
-    "20260529": {
-      "date": "Friday, 29/05",
+    "20260530": {
+      "date": "Saturday, 30/05",
       "games": [
-        {
-          "league": "Ligue 1",
-          "match": "Nice vs St Etienne",
-          "kick_utc": 1780080300,
-          "time": "30/05 01:45 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 1 Slovenija",
-                "Arena Premium 2 Srbija HD",
-                "Arena Premium 3 BiH HD",
-                "Arena Sport 1 Hrvatska HD",
-                "ART Motion Sport 1 HD",
-                "beIN Connect Türkiye",
-                "beIN Sports France 1 HD",
-                "beIN Sports MENA 3 HD",
-                "beIN Sports MENA French 1 HD",
-                "beIN Sports Türkiye 4 HD",
-                "beIN Sports US Español",
-                "Canal+ Sport 2 Afrique HD",
-                "DAZN 1 Bar Deutsch HD",
-                "Diema Sport 2 HD",
-                "Eleven Sports 1 Polska HD",
-                "Fast Sports TV Armenia",
-                "Futbol TV Tajikistan",
-                "Go3 Sport 2 Baltic HD",
-                "Ligue 1+",
-                "Megogo Futbol 1",
-                "Nova Sport 4 Czech HD",
-                "Okko Sport HD",
-                "Persiana Sport HD",
-                "Setanta Sports 1 Baltic",
-                "Setanta Sports 1 Eurasia HD",
-                "Setanta Sports 1 Georgia HD",
-                "Sky Sport Calcio HD",
-                "Sport TV2 Portugal HD",
-                "SuperSport Variety 4 HD",
-                "ViaPlay 2 Urheilu HD",
-                "ViaPlay Nederland HD",
-                "ViaPlay Sport Sverige HD",
-                "VOYO Pro TV Romania"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "UEFA Champions League",
           "match": "Arsenal FC vs PSG",
