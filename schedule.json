@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-31 11:19 VN",
+  "updated": "2026-05-31 15:53 VN",
   "days": {
     "20260531": {
       "date": "Sunday, 31/05",
@@ -20,23 +20,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1780218000,
-          "time": "31/05 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "TNT Sports 4",
-                "TNT Sports 5",
-                "HBO Max"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
