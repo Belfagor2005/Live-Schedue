@@ -1,26 +1,23 @@
 {
-  "updated": "2026-06-02 23:42 VN",
+  "updated": "2026-06-03 03:55 VN",
   "days": {
     "20260602": {
       "date": "Tuesday, 02/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1780424100,
-          "time": "03/06 01:15 AM",
+          "match": "Birmingham Open",
+          "kick_utc": 1780491600,
+          "time": "03/06 08:00 PM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "TNT Sports 1",
-                "TNT Sports 4",
-                "TNT Sports Ultimate",
-                "HBO Max"
+                "T2"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -42,9 +39,43 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1780424100,
-          "time": "03/06 01:15 AM",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1780510500,
+          "time": "04/06 01:15 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 1",
+                "TNT Sports 4",
+                "TNT Sports Ultimate",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Mirra Andreeva vs Sorana-Mihaela Cirstea",
+          "kick_utc": 1780477800,
+          "time": "03/06 04:10 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "9Gem",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Elina Svitolina vs Marta Kostyuk",
+          "kick_utc": 1780482600,
+          "time": "03/06 05:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -57,9 +88,24 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1780476300,
-          "time": "03/06 03:45 PM",
+          "match": "Rafael Jodar vs Alexander Zverev",
+          "kick_utc": 1780488000,
+          "time": "03/06 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jakub Mensik vs Joao Fonseca",
+          "kick_utc": 1780510500,
+          "time": "04/06 01:15 AM",
           "tv_channels": [
             {
               "country": "Ausport",
