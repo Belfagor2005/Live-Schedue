@@ -1,62 +1,17 @@
 [
   {
     "competition": "ATP French Open",
-    "home": "Flavio Cobolli",
-    "away": "Zachary Svajda",
-    "vietnam_time": "16:00",
+    "home": "",
+    "away": "",
+    "vietnam_time": "15:45",
     "vietnam_date": "02/06/2026",
     "channels": "9Gem | Stan Sport",
     "sport": "Tennis"
   },
   {
-    "competition": "WTA French Open",
-    "home": "Anastasia Potapova",
-    "away": "Anna Kalinskaya",
-    "vietnam_time": "16:00",
-    "vietnam_date": "02/06/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA French Open",
-    "home": "Madison Keys",
-    "away": "Diana Shnaider",
-    "vietnam_time": "17:30",
-    "vietnam_date": "02/06/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA French Open",
-    "home": "Maja Chwalinska",
-    "away": "Diane Parry",
-    "vietnam_time": "18:00",
-    "vietnam_date": "02/06/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
     "competition": "ATP French Open",
-    "home": "Juan Manuel Cerundolo",
-    "away": "Matteo Berrettini",
-    "vietnam_time": "19:00",
-    "vietnam_date": "02/06/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP French Open",
-    "home": "Felix Auger-Aliassime",
-    "away": "Alejandro Tabilo",
-    "vietnam_time": "20:30",
-    "vietnam_date": "02/06/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA French Open",
-    "home": "Aryna Sabalenka",
-    "away": "Naomi Osaka",
+    "home": "",
+    "away": "",
     "vietnam_time": "01:15",
     "vietnam_date": "03/06/2026",
     "channels": "Stan Sport",
@@ -68,7 +23,16 @@
     "away": "",
     "vietnam_time": "15:45",
     "vietnam_date": "03/06/2026",
-    "channels": "9Gem | Stan Sport",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP French Open",
+    "home": "",
+    "away": "",
+    "vietnam_time": "01:15",
+    "vietnam_date": "04/06/2026",
+    "channels": "Stan Sport",
     "sport": "Tennis"
   }
 ]
