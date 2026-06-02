@@ -1,24 +1,9 @@
 {
-  "updated": "2026-06-02 17:45 VN",
+  "updated": "2026-06-02 23:42 VN",
   "days": {
     "20260602": {
       "date": "Tuesday, 02/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Birmingham Open",
-          "kick_utc": 1780401600,
-          "time": "02/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "T2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
