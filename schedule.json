@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-02 11:27 VN",
+  "updated": "2026-06-02 17:45 VN",
   "days": {
     "20260602": {
       "date": "Tuesday, 02/06",
@@ -22,8 +22,8 @@
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
-          "kick_utc": 1780390800,
-          "time": "02/06 04:00 PM",
+          "kick_utc": 1780424100,
+          "time": "03/06 01:15 AM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -40,8 +40,8 @@
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
-          "kick_utc": 1780424100,
-          "time": "03/06 01:15 AM",
+          "kick_utc": 1780477200,
+          "time": "03/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -57,100 +57,24 @@
         },
         {
           "league": "Tennis",
-          "match": "Flavio Cobolli vs Zachary Svajda",
-          "kick_utc": 1780390800,
-          "time": "02/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Anastasia Potapova vs Anna Kalinskaya",
-          "kick_utc": 1780390800,
-          "time": "02/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Madison Keys vs Diana Shnaider",
-          "kick_utc": 1780396200,
-          "time": "02/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Maja Chwalinska vs Diane Parry",
-          "kick_utc": 1780398000,
-          "time": "02/06 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Juan Manuel Cerundolo vs Matteo Berrettini",
-          "kick_utc": 1780401600,
-          "time": "02/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Felix Auger-Aliassime vs Alejandro Tabilo",
-          "kick_utc": 1780407000,
-          "time": "02/06 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Aryna Sabalenka vs Naomi Osaka",
+          "match": "",
           "kick_utc": 1780424100,
           "time": "03/06 01:15 AM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1780476300,
+          "time": "03/06 03:45 PM",
           "tv_channels": [
             {
               "country": "Ausport",
