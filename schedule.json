@@ -1,26 +1,23 @@
 {
-  "updated": "2026-06-03 23:59 VN",
+  "updated": "2026-06-04 04:21 VN",
   "days": {
     "20260603": {
       "date": "Wednesday, 03/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1780510500,
-          "time": "04/06 01:15 AM",
+          "match": "Birmingham Open",
+          "kick_utc": 1780570800,
+          "time": "04/06 06:00 PM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "TNT Sports 1",
-                "TNT Sports 4",
-                "TNT Sports Ultimate",
-                "HBO Max"
+                "T2"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -57,67 +54,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Matteo Berrettini vs Matteo Arnaldi",
-          "kick_utc": 1780510500,
-          "time": "04/06 01:15 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1780566300,
-          "time": "04/06 04:45 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1780578000,
-          "time": "04/06 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1780581600,
-          "time": "04/06 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem"
-              ]
-            }
-          ],
-          "source": "ausport"
         }
       ]
     }
