@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-03 11:46 VN",
+  "updated": "2026-06-03 18:09 VN",
   "days": {
     "20260603": {
       "date": "Wednesday, 03/06",
@@ -22,8 +22,8 @@
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
-          "kick_utc": 1780477200,
-          "time": "03/06 04:00 PM",
+          "kick_utc": 1780510500,
+          "time": "04/06 01:15 AM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -40,8 +40,8 @@
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
-          "kick_utc": 1780510500,
-          "time": "04/06 01:15 AM",
+          "kick_utc": 1780567200,
+          "time": "04/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -57,55 +57,24 @@
         },
         {
           "league": "Tennis",
-          "match": "Mirra Andreeva vs Sorana-Mihaela Cirstea",
-          "kick_utc": 1780477800,
-          "time": "03/06 04:10 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Elina Svitolina vs Marta Kostyuk",
-          "kick_utc": 1780482600,
-          "time": "03/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Rafael Jodar vs Alexander Zverev",
-          "kick_utc": 1780488000,
-          "time": "03/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jakub Mensik vs Joao Fonseca",
+          "match": "Matteo Berrettini vs Matteo Arnaldi",
           "kick_utc": 1780510500,
           "time": "04/06 01:15 AM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1780566300,
+          "time": "04/06 04:45 PM",
           "tv_channels": [
             {
               "country": "Ausport",
