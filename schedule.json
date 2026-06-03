@@ -1,24 +1,9 @@
 {
-  "updated": "2026-06-03 18:09 VN",
+  "updated": "2026-06-03 23:59 VN",
   "days": {
     "20260603": {
       "date": "Wednesday, 03/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Birmingham Open",
-          "kick_utc": 1780491600,
-          "time": "03/06 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "T2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
@@ -57,6 +42,24 @@
         },
         {
           "league": "Tennis",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1780576200,
+          "time": "04/06 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 1",
+                "TNT Sports 4",
+                "TNT Sports Ultimate",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
           "match": "Matteo Berrettini vs Matteo Arnaldi",
           "kick_utc": 1780510500,
           "time": "04/06 01:15 AM",
@@ -80,6 +83,37 @@
               "country": "Ausport",
               "channels": [
                 "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1780578000,
+          "time": "04/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "9Gem",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1780581600,
+          "time": "04/06 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "9Gem"
               ]
             }
           ],
