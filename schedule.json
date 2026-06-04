@@ -1,35 +1,19 @@
 {
-  "updated": "2026-06-04 17:03 VN",
+  "updated": "2026-06-04 22:26 VN",
   "days": {
     "20260604": {
       "date": "Thursday, 04/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Birmingham Open",
-          "kick_utc": 1780570800,
-          "time": "04/06 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "T2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
           "match": "Roland Garros French Open",
-          "kick_utc": 1780576200,
-          "time": "04/06 07:30 PM",
+          "kick_utc": 1780662600,
+          "time": "05/06 07:30 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
               "channels": [
                 "TNT Sports 1",
-                "TNT Sports 4",
                 "TNT Sports Ultimate",
                 "HBO Max"
               ]
@@ -40,13 +24,13 @@
         {
           "league": "Tennis",
           "match": "",
-          "kick_utc": 1780566300,
-          "time": "04/06 04:45 PM",
+          "kick_utc": 1780581600,
+          "time": "04/06 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "Stan Sport"
+                "9Gem"
               ]
             }
           ],
@@ -55,8 +39,8 @@
         {
           "league": "Tennis",
           "match": "",
-          "kick_utc": 1780578000,
-          "time": "04/06 08:00 PM",
+          "kick_utc": 1780661700,
+          "time": "05/06 07:15 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -71,8 +55,8 @@
         {
           "league": "Tennis",
           "match": "",
-          "kick_utc": 1780581600,
-          "time": "04/06 09:00 PM",
+          "kick_utc": 1780668000,
+          "time": "05/06 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
