@@ -1,9 +1,24 @@
 {
-  "updated": "2026-06-04 22:26 VN",
+  "updated": "2026-06-05 03:11 VN",
   "days": {
     "20260604": {
       "date": "Thursday, 04/06",
       "games": [
+        {
+          "league": "Tennis",
+          "match": "Birmingham Open",
+          "kick_utc": 1780651800,
+          "time": "05/06 04:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "T2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
@@ -23,18 +38,20 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1780581600,
-          "time": "04/06 09:00 PM",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1780678800,
+          "time": "06/06 12:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "9Gem"
+                "TNT Sports 1",
+                "TNT Sports Ultimate",
+                "HBO Max"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -62,6 +79,22 @@
               "country": "Ausport",
               "channels": [
                 "9Gem"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1780677900,
+          "time": "05/06 11:45 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "9Gem",
+                "Stan Sport"
               ]
             }
           ],
