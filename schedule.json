@@ -1,41 +1,9 @@
 {
-  "updated": "2026-06-05 17:01 VN",
+  "updated": "2026-06-05 22:15 VN",
   "days": {
     "20260605": {
       "date": "Friday, 05/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Birmingham Open",
-          "kick_utc": 1780651800,
-          "time": "05/06 04:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "T2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1780662600,
-          "time": "05/06 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "TNT Sports 1",
-                "TNT Sports Ultimate",
-                "HBO Max"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
@@ -72,19 +40,20 @@
         },
         {
           "league": "Tennis",
-          "match": "Jakub Mensik vs Alexander Zverev",
-          "kick_utc": 1780662600,
-          "time": "05/06 07:30 PM",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1780750800,
+          "time": "06/06 08:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "9Gem",
-                "Stan Sport"
+                "TNT Sports 1",
+                "TNT Sports Ultimate",
+                "HBO Max"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -111,6 +80,22 @@
             {
               "country": "Ausport",
               "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Maja Chwalinska vs Mirra Andreeva",
+          "kick_utc": 1780750800,
+          "time": "06/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "9Gem",
                 "Stan Sport"
               ]
             }
