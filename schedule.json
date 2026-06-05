@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-05 11:15 VN",
+  "updated": "2026-06-05 17:01 VN",
   "days": {
     "20260605": {
       "date": "Friday, 05/06",
@@ -55,9 +55,42 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1780661700,
-          "time": "05/06 07:15 PM",
+          "match": "Roland Garros French Open",
+          "kick_utc": 1780736400,
+          "time": "06/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "TNT Sports 1",
+                "TNT Sports Ultimate",
+                "HBO Max"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jakub Mensik vs Alexander Zverev",
+          "kick_utc": 1780662600,
+          "time": "05/06 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "9Gem",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Matteo Arnaldi vs Flavio Cobolli",
+          "kick_utc": 1780678800,
+          "time": "06/06 12:00 AM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -72,28 +105,12 @@
         {
           "league": "Tennis",
           "match": "",
-          "kick_utc": 1780668000,
-          "time": "05/06 09:00 PM",
+          "kick_utc": 1780735500,
+          "time": "06/06 03:45 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "9Gem"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1780677900,
-          "time": "05/06 11:45 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem",
                 "Stan Sport"
               ]
             }
