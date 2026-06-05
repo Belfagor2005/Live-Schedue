@@ -1,25 +1,23 @@
 {
-  "updated": "2026-06-05 22:15 VN",
+  "updated": "2026-06-06 03:01 VN",
   "days": {
     "20260605": {
       "date": "Friday, 05/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1780678800,
-          "time": "06/06 12:00 AM",
+          "match": "Birmingham Open",
+          "kick_utc": 1780740000,
+          "time": "06/06 05:00 PM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "TNT Sports 1",
-                "TNT Sports Ultimate",
-                "HBO Max"
+                "T2"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -54,22 +52,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Matteo Arnaldi vs Flavio Cobolli",
-          "kick_utc": 1780678800,
-          "time": "06/06 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
         },
         {
           "league": "Tennis",
