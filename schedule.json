@@ -1,24 +1,9 @@
 {
-  "updated": "2026-06-07 16:23 VN",
+  "updated": "2026-06-07 21:05 VN",
   "days": {
     "20260607": {
       "date": "Sunday, 07/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Birmingham Open",
-          "kick_utc": 1780826400,
-          "time": "07/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "T2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Roland Garros French Open",
@@ -46,6 +31,24 @@
               "country": "Wheresthematch",
               "channels": [
                 "Sky Sports Tennis"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Queens Club Championships",
+          "kick_utc": 1780920000,
+          "time": "08/06 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "BBC2",
+                "Tennis Channel",
+                "BBC iPlayer",
+                "BBC Sport Website"
               ]
             }
           ],
