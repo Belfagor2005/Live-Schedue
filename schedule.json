@@ -1,25 +1,23 @@
 {
-  "updated": "2026-06-07 21:05 VN",
+  "updated": "2026-06-08 02:40 VN",
   "days": {
     "20260607": {
       "date": "Sunday, 07/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Roland Garros French Open",
-          "kick_utc": 1780837200,
-          "time": "07/06 08:00 PM",
+          "match": "The HSBC Championships",
+          "kick_utc": 1780920000,
+          "time": "08/06 07:00 PM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "TNT Sports 1",
-                "TNT Sports Ultimate",
-                "HBO Max"
+                "DAZN Canada"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -53,6 +51,40 @@
             }
           ],
           "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Queens Club Championships",
+          "kick_utc": 1780938000,
+          "time": "09/06 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "BBC iPlayer",
+                "Tennis Channel",
+                "BBC Sport Website",
+                "BBC Red Button"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Flavio Cobolli vs Alexander Zverev",
+          "kick_utc": 1780923600,
+          "time": "08/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "9Gem",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
         }
       ]
     }
