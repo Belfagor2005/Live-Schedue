@@ -1,14 +1,29 @@
 {
-  "updated": "2026-06-08 23:03 VN",
+  "updated": "2026-06-09 03:25 VN",
   "days": {
     "20260608": {
       "date": "Monday, 08/06",
       "games": [
         {
           "league": "Tennis",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781006400,
+          "time": "09/06 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
           "match": "Stuttgart Open",
-          "kick_utc": 1780938000,
-          "time": "09/06 12:00 AM",
+          "kick_utc": 1781024400,
+          "time": "10/06 12:00 AM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
@@ -18,24 +33,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Queens Club Championships",
-          "kick_utc": 1780938000,
-          "time": "09/06 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC iPlayer",
-                "Tennis Channel",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -65,6 +62,24 @@
                 "Tennis Channel",
                 "BBC iPlayer",
                 "BBC Sport Website"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Queens Club Championships",
+          "kick_utc": 1781024400,
+          "time": "10/06 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "BBC iPlayer",
+                "Tennis Channel",
+                "BBC Sport Website",
+                "BBC Red Button"
               ]
             }
           ],
