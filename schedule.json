@@ -1,39 +1,9 @@
 {
-  "updated": "2026-06-08 18:07 VN",
+  "updated": "2026-06-08 23:03 VN",
   "days": {
     "20260608": {
       "date": "Monday, 08/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "The HSBC Championships",
-          "kick_utc": 1780920000,
-          "time": "08/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Libema Open",
-          "kick_utc": 1780921800,
-          "time": "08/06 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Stuttgart Open",
@@ -84,19 +54,21 @@
         },
         {
           "league": "Tennis",
-          "match": "Flavio Cobolli vs Alexander Zverev",
-          "kick_utc": 1780923600,
-          "time": "08/06 08:00 PM",
+          "match": "Queens Club Championships",
+          "kick_utc": 1781006400,
+          "time": "09/06 07:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "9Gem",
-                "Stan Sport"
+                "BBC2",
+                "Tennis Channel",
+                "BBC iPlayer",
+                "BBC Sport Website"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         }
       ]
     }
