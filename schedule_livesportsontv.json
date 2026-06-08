@@ -1,6 +1,6 @@
 [
     {
-        "Date": "2026-06-08",
+        "Date": "2026-06-09",
         "Time": "19:00",
         "League": "Tennis (WTA)",
         "Matchup": "The HSBC Championships",
@@ -9,16 +9,7 @@
         ]
     },
     {
-        "Date": "2026-06-08",
-        "Time": "19:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Libema Open",
-        "Services": [
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-06-09",
+        "Date": "2026-06-10",
         "Time": "00:00",
         "League": "Tennis (ATP)",
         "Matchup": "Stuttgart Open",
