@@ -1,7 +1,17 @@
 [
     {
         "Date": "2026-06-09",
-        "Time": "19:00",
+        "Time": "23:30",
+        "League": "Tennis (WTA)",
+        "Matchup": "The HSBC Championships",
+        "Services": [
+            "Tennis Channel",
+            "TVA Sports"
+        ]
+    },
+    {
+        "Date": "2026-06-10",
+        "Time": "17:30",
         "League": "Tennis (WTA)",
         "Matchup": "The HSBC Championships",
         "Services": [
