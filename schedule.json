@@ -1,26 +1,23 @@
 {
-  "updated": "2026-06-09 22:15 VN",
+  "updated": "2026-06-10 03:12 VN",
   "days": {
     "20260609": {
       "date": "Tuesday, 09/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Queens Club Championships",
-          "kick_utc": 1781024400,
-          "time": "10/06 12:00 AM",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781087400,
+          "time": "10/06 05:30 PM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "BBC iPlayer",
-                "Tennis Channel",
-                "BBC Sport Website",
-                "BBC Red Button"
+                "DAZN Canada"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -75,30 +72,13 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781022600,
-          "time": "09/06 11:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
+          "match": "Gabriel Diallo vs Adrian Mannarino",
           "kick_utc": 1781082000,
           "time": "10/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 1",
                 "beIN Sports Connect",
                 "beIN SPORTS 2"
               ]
@@ -108,14 +88,58 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781087400,
-          "time": "10/06 05:30 PM",
+          "match": "Yannick Hanfmann vs Aleksandar Kovacevic",
+          "kick_utc": 1781082000,
+          "time": "10/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Roberto Bautista-Agut vs David Giron",
+          "kick_utc": 1781082000,
+          "time": "10/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Emma Raducanu vs Anna Blinkova",
+          "kick_utc": 1781089200,
+          "time": "10/06 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Shuai Zhang vs Alexandra Eala",
+          "kick_utc": 1781091000,
+          "time": "10/06 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
                 "beIN SPORTS 3"
               ]
             }
@@ -124,16 +148,60 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Laura Siegemund vs Francesca Jones",
+          "kick_utc": 1781091000,
+          "time": "10/06 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Hubert Hurkacz vs Marton Fucsovics",
+          "kick_utc": 1781092800,
+          "time": "10/06 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "James McCabe vs Zizou Bergs",
+          "kick_utc": 1781094600,
+          "time": "10/06 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Daniel Altmaier vs Frances Tiafoe",
           "kick_utc": 1781096400,
           "time": "10/06 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 1",
                 "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "beIN SPORTS 1"
               ]
             }
           ],
