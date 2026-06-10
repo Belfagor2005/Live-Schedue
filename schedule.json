@@ -1,9 +1,24 @@
 {
-  "updated": "2026-06-10 11:12 VN",
+  "updated": "2026-06-10 17:11 VN",
   "days": {
     "20260610": {
       "date": "Wednesday, 10/06",
       "games": [
+        {
+          "league": "Tennis",
+          "match": "Stuttgart Open",
+          "kick_utc": 1781082000,
+          "time": "10/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TSN+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "The HSBC Championships",
@@ -18,39 +33,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "ATP Tennis",
-          "kick_utc": 1781082000,
-          "time": "10/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Tennis"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Queens Club Championships",
-          "kick_utc": 1781087400,
-          "time": "10/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC iPlayer",
-                "Tennis Channel",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -72,44 +54,30 @@
         },
         {
           "league": "Tennis",
-          "match": "Gabriel Diallo vs Adrian Mannarino",
-          "kick_utc": 1781082000,
-          "time": "10/06 04:00 PM",
+          "match": "ATP Tennis",
+          "kick_utc": 1781168400,
+          "time": "11/06 04:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "Sky Sports Tennis"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
-          "match": "Yannick Hanfmann vs Aleksandar Kovacevic",
+          "match": "",
           "kick_utc": 1781082000,
           "time": "10/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Roberto Bautista-Agut vs David Giron",
-          "kick_utc": 1781082000,
-          "time": "10/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
+                "beIN SPORTS 2",
+                "beIN SPORTS 1",
                 "beIN Sports Connect"
               ]
             }
@@ -118,28 +86,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Emma Raducanu vs Anna Blinkova",
-          "kick_utc": 1781089200,
-          "time": "10/06 06:00 PM",
+          "match": "",
+          "kick_utc": 1781087400,
+          "time": "10/06 05:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Shuai Zhang vs Alexandra Eala",
-          "kick_utc": 1781091000,
-          "time": "10/06 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
+                "beIN Sports Connect",
                 "beIN SPORTS 3"
               ]
             }
@@ -148,60 +102,49 @@
         },
         {
           "league": "Tennis",
-          "match": "Laura Siegemund vs Francesca Jones",
-          "kick_utc": 1781091000,
-          "time": "10/06 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Hubert Hurkacz vs Marton Fucsovics",
-          "kick_utc": 1781092800,
-          "time": "10/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "James McCabe vs Zizou Bergs",
-          "kick_utc": 1781094600,
-          "time": "10/06 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Daniel Altmaier vs Frances Tiafoe",
+          "match": "",
           "kick_utc": 1781096400,
           "time": "10/06 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
+                "beIN SPORTS 2",
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1781109000,
+          "time": "10/06 11:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
                 "beIN Sports Connect",
-                "beIN SPORTS 1"
+                "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1781168400,
+          "time": "11/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2",
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
               ]
             }
           ],
