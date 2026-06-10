@@ -1,57 +1,9 @@
 {
-  "updated": "2026-06-10 17:11 VN",
+  "updated": "2026-06-10 22:50 VN",
   "days": {
     "20260610": {
       "date": "Wednesday, 10/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Stuttgart Open",
-          "kick_utc": 1781082000,
-          "time": "10/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "The HSBC Championships",
-          "kick_utc": 1781087400,
-          "time": "10/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Queens Club Championships",
-          "kick_utc": 1781092800,
-          "time": "10/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC2",
-                "Tennis Channel",
-                "BBC iPlayer",
-                "BBC Sport Website"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
         {
           "league": "Tennis",
           "match": "ATP Tennis",
@@ -69,53 +21,39 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781082000,
-          "time": "10/06 04:00 PM",
+          "match": "Queens Club Championships",
+          "kick_utc": 1781173800,
+          "time": "11/06 05:30 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "beIN SPORTS 2",
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
+                "BBC iPlayer",
+                "Tennis Channel",
+                "BBC Sport Website",
+                "BBC Red Button"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781087400,
-          "time": "10/06 05:30 PM",
+          "match": "Queens Club Championships",
+          "kick_utc": 1781179200,
+          "time": "11/06 07:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
+                "BBC2",
+                "Tennis Channel",
+                "BBC iPlayer",
+                "BBC Sport Website"
               ]
             }
           ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781096400,
-          "time": "10/06 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 2",
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
@@ -143,8 +81,41 @@
               "country": "Ausport",
               "channels": [
                 "beIN SPORTS 2",
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1781173800,
+          "time": "11/06 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1781182800,
+          "time": "11/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2",
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
