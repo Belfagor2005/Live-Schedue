@@ -1,9 +1,39 @@
 {
-  "updated": "2026-06-10 22:50 VN",
+  "updated": "2026-06-11 03:36 VN",
   "days": {
     "20260610": {
       "date": "Wednesday, 10/06",
       "games": [
+        {
+          "league": "Tennis",
+          "match": "Libema Open",
+          "kick_utc": 1781168400,
+          "time": "11/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781173800,
+          "time": "11/06 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "ATP Tennis",
@@ -57,15 +87,15 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781109000,
-          "time": "10/06 11:30 PM",
+          "match": "James McCabe vs Zizou Bergs",
+          "kick_utc": 1781168400,
+          "time": "11/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN Sports Connect",
-                "beIN SPORTS 3"
+                "beIN SPORTS 2"
               ]
             }
           ],
@@ -73,15 +103,13 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Giovanni Mpetshi Perricard vs Gauthier Onclin",
           "kick_utc": 1781168400,
           "time": "11/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect",
                 "beIN SPORTS 1"
               ]
             }
@@ -90,7 +118,22 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Mattia Bellucci vs Yannick Hanfmann",
+          "kick_utc": 1781168400,
+          "time": "11/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Iva Jovic vs Alexandra Eala",
           "kick_utc": 1781173800,
           "time": "11/06 05:30 PM",
           "tv_channels": [
@@ -106,16 +149,47 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Martin Landaluce vs Taylor Harry Fritz",
           "kick_utc": 1781182800,
           "time": "11/06 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 2",
                 "beIN Sports Connect",
                 "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Ugo Humbert vs Benjamin Bonzi",
+          "kick_utc": 1781184600,
+          "time": "11/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Marie Bouzkova vs Donna Vekic",
+          "kick_utc": 1781195400,
+          "time": "11/06 11:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
               ]
             }
           ],
