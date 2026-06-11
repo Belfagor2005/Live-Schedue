@@ -1,9 +1,39 @@
 {
-  "updated": "2026-06-11 23:11 VN",
+  "updated": "2026-06-12 03:27 VN",
   "days": {
     "20260611": {
       "date": "Thursday, 11/06",
       "games": [
+        {
+          "league": "Tennis",
+          "match": "Libema Open",
+          "kick_utc": 1781254800,
+          "time": "12/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781260200,
+          "time": "12/06 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "ATP Tennis",
@@ -54,6 +84,116 @@
             }
           ],
           "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Ugo Humbert vs Benjamin Bonzi",
+          "kick_utc": 1781254800,
+          "time": "12/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Rinky Hijikata vs Frances Tiafoe",
+          "kick_utc": 1781254800,
+          "time": "12/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Elena Gabriela Ruse vs Elise Mertens",
+          "kick_utc": 1781254800,
+          "time": "12/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Sorana-Mihaela Cirstea vs Emma Raducanu",
+          "kick_utc": 1781260200,
+          "time": "12/06 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Martin Landaluce vs Taylor Harry Fritz",
+          "kick_utc": 1781269200,
+          "time": "12/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Daniil Medvedev vs Thijs Boogaard",
+          "kick_utc": 1781271000,
+          "time": "12/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jaqueline Adina Cristian vs Katie Boulter",
+          "kick_utc": 1781276400,
+          "time": "12/06 10:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
         }
       ]
     }
