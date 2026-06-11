@@ -1,58 +1,9 @@
 {
-  "updated": "2026-06-11 17:46 VN",
+  "updated": "2026-06-11 23:11 VN",
   "days": {
     "20260611": {
       "date": "Thursday, 11/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Libema Open",
-          "kick_utc": 1781168400,
-          "time": "11/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN+",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "The HSBC Championships",
-          "kick_utc": 1781173800,
-          "time": "11/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Queens Club Championships",
-          "kick_utc": 1781179200,
-          "time": "11/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC2",
-                "Tennis Channel",
-                "BBC iPlayer",
-                "BBC Sport Website"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
         {
           "league": "Tennis",
           "match": "ATP Tennis",
@@ -81,6 +32,24 @@
                 "Tennis Channel",
                 "BBC Sport Website",
                 "BBC Red Button"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Queens Club Championships",
+          "kick_utc": 1781265600,
+          "time": "12/06 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "BBC2",
+                "Tennis Channel",
+                "BBC iPlayer",
+                "BBC Sport Website"
               ]
             }
           ],
