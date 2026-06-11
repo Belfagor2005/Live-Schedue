@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11 11:24 VN",
+  "updated": "2026-06-11 17:46 VN",
   "days": {
     "20260611": {
       "date": "Thursday, 11/06",
@@ -13,6 +13,7 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "TSN+",
                 "DAZN Canada"
               ]
             }
@@ -36,39 +37,6 @@
         },
         {
           "league": "Tennis",
-          "match": "ATP Tennis",
-          "kick_utc": 1781168400,
-          "time": "11/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Tennis"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Queens Club Championships",
-          "kick_utc": 1781173800,
-          "time": "11/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC iPlayer",
-                "Tennis Channel",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
           "match": "Queens Club Championships",
           "kick_utc": 1781179200,
           "time": "11/06 07:00 PM",
@@ -87,113 +55,36 @@
         },
         {
           "league": "Tennis",
-          "match": "James McCabe vs Zizou Bergs",
-          "kick_utc": 1781168400,
-          "time": "11/06 04:00 PM",
+          "match": "ATP Tennis",
+          "kick_utc": 1781254800,
+          "time": "12/06 04:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "Sky Sports Tennis"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
-          "match": "Giovanni Mpetshi Perricard vs Gauthier Onclin",
-          "kick_utc": 1781168400,
-          "time": "11/06 04:00 PM",
+          "match": "Queens Club Championships",
+          "kick_utc": 1781260200,
+          "time": "12/06 05:30 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "beIN SPORTS 1"
+                "BBC iPlayer",
+                "Tennis Channel",
+                "BBC Sport Website",
+                "BBC Red Button"
               ]
             }
           ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Mattia Bellucci vs Yannick Hanfmann",
-          "kick_utc": 1781168400,
-          "time": "11/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Iva Jovic vs Alexandra Eala",
-          "kick_utc": 1781173800,
-          "time": "11/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Martin Landaluce vs Taylor Harry Fritz",
-          "kick_utc": 1781182800,
-          "time": "11/06 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Ugo Humbert vs Benjamin Bonzi",
-          "kick_utc": 1781184600,
-          "time": "11/06 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Marie Bouzkova vs Donna Vekic",
-          "kick_utc": 1781195400,
-          "time": "11/06 11:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
+          "source": "wheresthematch"
         }
       ]
     }
