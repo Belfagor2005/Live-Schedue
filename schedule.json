@@ -1,9 +1,24 @@
 {
-  "updated": "2026-06-12 11:27 VN",
+  "updated": "2026-06-12 17:21 VN",
   "days": {
     "20260612": {
       "date": "Friday, 12/06",
       "games": [
+        {
+          "league": "Tennis",
+          "match": "Stuttgart Open",
+          "kick_utc": 1781254800,
+          "time": "12/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TSN+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "Libema Open",
@@ -13,6 +28,7 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "TSN+",
                 "DAZN Canada"
               ]
             }
@@ -37,8 +53,8 @@
         {
           "league": "Tennis",
           "match": "ATP Tennis",
-          "kick_utc": 1781254800,
-          "time": "12/06 04:00 PM",
+          "kick_utc": 1781341200,
+          "time": "13/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -51,45 +67,43 @@
         },
         {
           "league": "Tennis",
-          "match": "Queens Club Championships",
+          "match": "",
+          "kick_utc": 1781254800,
+          "time": "12/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport",
+                "beIN Sports Connect",
+                "beIN SPORTS 1",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
           "kick_utc": 1781260200,
           "time": "12/06 05:30 PM",
           "tv_channels": [
             {
-              "country": "Wheresthematch",
+              "country": "Ausport",
               "channels": [
-                "BBC iPlayer",
-                "Tennis Channel",
-                "BBC Sport Website",
-                "BBC Red Button"
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
               ]
             }
           ],
-          "source": "wheresthematch"
+          "source": "ausport"
         },
         {
           "league": "Tennis",
-          "match": "Queens Club Championships",
-          "kick_utc": 1781265600,
-          "time": "12/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC2",
-                "Tennis Channel",
-                "BBC iPlayer",
-                "BBC Sport Website"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Ugo Humbert vs Benjamin Bonzi",
-          "kick_utc": 1781254800,
-          "time": "12/06 04:00 PM",
+          "match": "",
+          "kick_utc": 1781267400,
+          "time": "12/06 07:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -103,14 +117,13 @@
         },
         {
           "league": "Tennis",
-          "match": "Rinky Hijikata vs Frances Tiafoe",
-          "kick_utc": 1781254800,
-          "time": "12/06 04:00 PM",
+          "match": "",
+          "kick_utc": 1781269200,
+          "time": "12/06 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
                 "beIN SPORTS 1"
               ]
             }
@@ -119,9 +132,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Elena Gabriela Ruse vs Elise Mertens",
-          "kick_utc": 1781254800,
-          "time": "12/06 04:00 PM",
+          "match": "",
+          "kick_utc": 1781274600,
+          "time": "12/06 09:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -134,9 +147,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Sorana-Mihaela Cirstea vs Emma Raducanu",
-          "kick_utc": 1781260200,
-          "time": "12/06 05:30 PM",
+          "match": "",
+          "kick_utc": 1781281800,
+          "time": "12/06 11:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -150,25 +163,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Martin Landaluce vs Taylor Harry Fritz",
-          "kick_utc": 1781269200,
-          "time": "12/06 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Daniil Medvedev vs Thijs Boogaard",
-          "kick_utc": 1781271000,
-          "time": "12/06 08:30 PM",
+          "match": "",
+          "kick_utc": 1781341200,
+          "time": "13/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -182,14 +179,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Jaqueline Adina Cristian vs Katie Boulter",
-          "kick_utc": 1781276400,
-          "time": "12/06 10:00 PM",
+          "match": "",
+          "kick_utc": 1781344800,
+          "time": "13/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 3"
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
