@@ -1,9 +1,55 @@
 {
-  "updated": "2026-06-12 22:26 VN",
+  "updated": "2026-06-13 03:17 VN",
   "days": {
     "20260612": {
       "date": "Friday, 12/06",
       "games": [
+        {
+          "league": "Tennis",
+          "match": "Libema Open",
+          "kick_utc": 1781341200,
+          "time": "13/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781353800,
+          "time": "13/06 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TVA Sports",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781361000,
+          "time": "13/06 09:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TVA Sports"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "ATP Tennis",
@@ -39,38 +85,7 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781274600,
-          "time": "12/06 09:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781281800,
-          "time": "12/06 11:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
+          "match": "Ze Zhang vs Adrian Mannarino",
           "kick_utc": 1781341200,
           "time": "13/06 04:00 PM",
           "tv_channels": [
@@ -86,9 +101,9 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781344800,
-          "time": "13/06 05:00 PM",
+          "match": "Giovanni Mpetshi Perricard vs Alexander Bublik",
+          "kick_utc": 1781341200,
+          "time": "13/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -102,9 +117,25 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781353800,
-          "time": "13/06 07:30 PM",
+          "match": "Barbora Krejcikova vs Elena Gabriela Ruse",
+          "kick_utc": 1781341200,
+          "time": "13/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Elena Rybakina vs Tatjana Maria",
+          "kick_utc": 1781344800,
+          "time": "13/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -118,7 +149,7 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Felix Auger-Aliassime vs Kamil Majchrzak",
           "kick_utc": 1781355600,
           "time": "13/06 08:00 PM",
           "tv_channels": [
@@ -127,6 +158,52 @@
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Daria Snigur vs Robin Montgomery",
+          "kick_utc": 1781355600,
+          "time": "13/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jiri Lehecka vs Frances Tiafoe",
+          "kick_utc": 1781362800,
+          "time": "13/06 10:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1781368200,
+          "time": "13/06 11:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
               ]
             }
           ],
