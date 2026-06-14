@@ -1,40 +1,9 @@
 {
-  "updated": "2026-06-14 16:44 VN",
+  "updated": "2026-06-14 21:15 VN",
   "days": {
     "20260614": {
       "date": "Sunday, 14/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Libema Open",
-          "kick_utc": 1781431200,
-          "time": "14/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN+",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Stuttgart Open",
-          "kick_utc": 1781438400,
-          "time": "14/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Libema Open",
@@ -85,35 +54,40 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781431200,
-          "time": "14/06 05:00 PM",
+          "match": "Queens Club Championships",
+          "kick_utc": 1781519400,
+          "time": "15/06 05:30 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "BBC2",
+                "Tennis Channel",
+                "BBC iPlayer",
+                "BBC Sport Website",
+                "BBC Red Button"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781438400,
-          "time": "14/06 07:00 PM",
+          "match": "WTA Nottingham Open",
+          "kick_utc": 1781525700,
+          "time": "15/06 07:15 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "Wheresthematch",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
+                "BBC iPlayer",
+                "Tennis Channel",
+                "BBC Sport Website",
+                "BBC Red Button"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "wheresthematch"
         },
         {
           "league": "Tennis",
