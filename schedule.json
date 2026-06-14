@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-14 21:15 VN",
+  "updated": "2026-06-15 02:43 VN",
   "days": {
     "20260614": {
       "date": "Sunday, 14/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Libema Open",
-          "kick_utc": 1781440200,
-          "time": "14/06 07:30 PM",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781519400,
+          "time": "15/06 05:30 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "TSN+"
+                "T2"
               ]
             }
           ],
@@ -21,15 +21,28 @@
         },
         {
           "league": "Tennis",
-          "match": "The HSBC Championships",
-          "kick_utc": 1781440200,
-          "time": "14/06 07:30 PM",
+          "match": "Halle Open",
+          "kick_utc": 1781530200,
+          "time": "15/06 08:30 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "T2",
-                "TVA Sports",
+                "RDS 2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "German Open",
+          "kick_utc": 1781530200,
+          "time": "15/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
                 "DAZN Canada"
               ]
             }
@@ -88,23 +101,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781440200,
-          "time": "14/06 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
         }
       ]
     }
