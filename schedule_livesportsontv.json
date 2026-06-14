@@ -1,29 +1,30 @@
 [
     {
-        "Date": "2026-06-13",
-        "Time": "20:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Libema Open",
-        "Services": [
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-06-13",
-        "Time": "21:30",
-        "League": "Tennis (WTA)",
-        "Matchup": "The HSBC Championships",
-        "Services": [
-            "TVA Sports"
-        ]
-    },
-    {
         "Date": "2026-06-14",
         "Time": "17:00",
         "League": "Tennis (WTA)",
         "Matchup": "Libema Open",
         "Services": [
+            "TSN+",
             "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-06-14",
+        "Time": "19:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Stuttgart Open",
+        "Services": [
+            "TSN+"
+        ]
+    },
+    {
+        "Date": "2026-06-14",
+        "Time": "19:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Libema Open",
+        "Services": [
+            "TSN+"
         ]
     },
     {
@@ -32,6 +33,7 @@
         "League": "Tennis (WTA)",
         "Matchup": "The HSBC Championships",
         "Services": [
+            "T2",
             "TVA Sports",
             "DAZN Canada"
         ]
