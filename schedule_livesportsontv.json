@@ -1,39 +1,29 @@
 [
     {
-        "Date": "2026-06-15",
-        "Time": "16:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Halle Open",
+        "Date": "2026-06-16",
+        "Time": "16:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "German Open",
         "Services": [
-            "TSN+"
+            "DAZN Canada"
         ]
     },
     {
-        "Date": "2026-06-15",
+        "Date": "2026-06-16",
         "Time": "17:30",
         "League": "Tennis (ATP)",
         "Matchup": "The HSBC Championships",
         "Services": [
-            "T2",
-            "TSN+"
+            "T2"
         ]
     },
     {
-        "Date": "2026-06-15",
+        "Date": "2026-06-16",
         "Time": "20:30",
         "League": "Tennis (ATP)",
         "Matchup": "Halle Open",
         "Services": [
             "RDS 2"
-        ]
-    },
-    {
-        "Date": "2026-06-15",
-        "Time": "20:30",
-        "League": "Tennis (WTA)",
-        "Matchup": "German Open",
-        "Services": [
-            "DAZN Canada"
         ]
     }
 ]
