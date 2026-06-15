@@ -1,20 +1,34 @@
 {
-  "updated": "2026-06-15 19:26 VN",
+  "updated": "2026-06-16 04:10 VN",
   "days": {
     "20260615": {
       "date": "Monday, 15/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "The HSBC Championships",
-          "kick_utc": 1781519400,
-          "time": "15/06 05:30 PM",
+          "match": "German Open",
+          "kick_utc": 1781600400,
+          "time": "16/06 04:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "T2",
-                "TSN+"
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781605800,
+          "time": "16/06 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "T2"
               ]
             }
           ],
@@ -23,28 +37,13 @@
         {
           "league": "Tennis",
           "match": "Halle Open",
-          "kick_utc": 1781530200,
-          "time": "15/06 08:30 PM",
+          "kick_utc": 1781616600,
+          "time": "16/06 08:30 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
                 "RDS 2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "German Open",
-          "kick_utc": 1781530200,
-          "time": "15/06 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
               ]
             }
           ],
@@ -105,55 +104,7 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781519400,
-          "time": "15/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781530200,
-          "time": "15/06 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781533800,
-          "time": "15/06 09:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
+          "match": "Max Schoenhaus vs Learner Tien",
           "kick_utc": 1781602200,
           "time": "16/06 04:30 PM",
           "tv_channels": [
@@ -162,6 +113,22 @@
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Nikola Bartunkova vs Diana Shnaider",
+          "kick_utc": 1781616600,
+          "time": "16/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
               ]
             }
           ],
