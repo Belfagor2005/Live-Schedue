@@ -1,55 +1,55 @@
 [
   {
-    "competition": "ATP Halle",
-    "home": "",
-    "away": "",
-    "vietnam_time": "16:30",
-    "vietnam_date": "15/06/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 2",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA London",
-    "home": "",
-    "away": "",
-    "vietnam_time": "17:30",
-    "vietnam_date": "15/06/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 1",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Halle",
-    "home": "",
-    "away": "",
-    "vietnam_time": "20:30",
-    "vietnam_date": "15/06/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 2",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA London",
-    "home": "",
-    "away": "",
-    "vietnam_time": "21:30",
-    "vietnam_date": "15/06/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 1",
-    "sport": "Tennis"
+    "competition": "World Cup 2026",
+    "home": "Netherlands",
+    "away": "Japan",
+    "vietnam_time": "03:00",
+    "vietnam_date": "16/06/2026",
+    "channels": "SBS Melbourne | SBS Queensland",
+    "sport": "Soccer"
   },
   {
     "competition": "World Cup 2026",
-    "home": "Spain",
-    "away": "Cape Verde",
-    "vietnam_time": "23:00",
-    "vietnam_date": "15/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
+    "home": "Ivory Coast",
+    "away": "Ecuador",
+    "vietnam_time": "06:00",
+    "vietnam_date": "16/06/2026",
+    "channels": "SBS Melbourne | SBS Queensland",
     "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Sweden",
+    "away": "Tunisia",
+    "vietnam_time": "09:00",
+    "vietnam_date": "16/06/2026",
+    "channels": "SBS Melbourne | SBS Queensland",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "ATP Halle",
+    "home": "Max Schoenhaus",
+    "away": "Learner Tien",
+    "vietnam_time": "16:30",
+    "vietnam_date": "16/06/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Berlin",
+    "home": "Nikola Bartunkova",
+    "away": "Diana Shnaider",
+    "vietnam_time": "20:30",
+    "vietnam_date": "16/06/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 3",
+    "sport": "Tennis"
   },
   {
     "competition": "World Cup 2026",
     "home": "Belgium",
     "away": "Egypt",
     "vietnam_time": "02:00",
-    "vietnam_date": "16/06/2026",
+    "vietnam_date": "17/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -58,7 +58,7 @@
     "home": "Saudi Arabia",
     "away": "Uruguay",
     "vietnam_time": "05:00",
-    "vietnam_date": "16/06/2026",
+    "vietnam_date": "17/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -67,7 +67,7 @@
     "home": "Iran",
     "away": "New Zealand",
     "vietnam_time": "08:00",
-    "vietnam_date": "16/06/2026",
+    "vietnam_date": "17/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -76,44 +76,17 @@
     "home": "",
     "away": "",
     "vietnam_time": "16:30",
-    "vietnam_date": "16/06/2026",
+    "vietnam_date": "17/06/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
   {
-    "competition": "World Cup 2026",
-    "home": "France",
-    "away": "Senegal",
-    "vietnam_time": "02:00",
+    "competition": "ATP Halle",
+    "home": "",
+    "away": "",
+    "vietnam_time": "20:30",
     "vietnam_date": "17/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Iraq",
-    "away": "Norway",
-    "vietnam_time": "05:00",
-    "vietnam_date": "17/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Argentina",
-    "away": "Algeria",
-    "vietnam_time": "08:00",
-    "vietnam_date": "17/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Austria",
-    "away": "Jordan",
-    "vietnam_time": "11:00",
-    "vietnam_date": "17/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "sport": "Tennis"
   }
 ]
