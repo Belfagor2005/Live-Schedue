@@ -1,55 +1,9 @@
 {
-  "updated": "2026-06-16 18:21 VN",
+  "updated": "2026-06-17 00:04 VN",
   "days": {
     "20260616": {
       "date": "Tuesday, 16/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Halle Open",
-          "kick_utc": 1781602200,
-          "time": "16/06 04:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "The HSBC Championships",
-          "kick_utc": 1781605800,
-          "time": "16/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "T2",
-                "TSN+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Halle Open",
-          "kick_utc": 1781616600,
-          "time": "16/06 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "RDS 2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "ATP Tennis",
@@ -61,6 +15,43 @@
               "channels": [
                 "Sky Sports Tennis",
                 "Sky Sports+"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Queens Club Championships",
+          "kick_utc": 1781697600,
+          "time": "17/06 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "BBC2",
+                "Tennis Channel",
+                "BBC iPlayer",
+                "BBC Sport Website",
+                "BBC Red Button"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "WTA Nottingham Open",
+          "kick_utc": 1781698500,
+          "time": "17/06 07:15 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "BBC iPlayer",
+                "Tennis Channel",
+                "BBC Sport Website",
+                "BBC Red Button"
               ]
             }
           ],
