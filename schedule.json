@@ -1,9 +1,54 @@
 {
-  "updated": "2026-06-17 00:04 VN",
+  "updated": "2026-06-17 03:58 VN",
   "days": {
     "20260616": {
       "date": "Tuesday, 16/06",
       "games": [
+        {
+          "league": "Tennis",
+          "match": "German Open",
+          "kick_utc": 1781686800,
+          "time": "17/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781692200,
+          "time": "17/06 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "T2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Halle Open",
+          "kick_utc": 1781703000,
+          "time": "17/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "RDS 2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "ATP Tennis",
@@ -56,6 +101,84 @@
             }
           ],
           "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Magdalena Frech vs Eva Lys",
+          "kick_utc": 1781686800,
+          "time": "17/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Madison Keys vs Xinyu Wang",
+          "kick_utc": 1781686800,
+          "time": "17/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Alexei Popyrin vs Raphael Collignon",
+          "kick_utc": 1781688600,
+          "time": "17/06 04:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Alexander Zverev vs Vit Kopriva",
+          "kick_utc": 1781701200,
+          "time": "17/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Elina Svitolina vs Anna Kalinskaya",
+          "kick_utc": 1781703000,
+          "time": "17/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
         }
       ]
     }
