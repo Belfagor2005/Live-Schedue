@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-16 11:59 VN",
+  "updated": "2026-06-16 18:21 VN",
   "days": {
     "20260616": {
       "date": "Tuesday, 16/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "German Open",
-          "kick_utc": 1781600400,
-          "time": "16/06 04:00 PM",
+          "match": "Halle Open",
+          "kick_utc": 1781602200,
+          "time": "16/06 04:30 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "DAZN Canada"
+                "TSN+"
               ]
             }
           ],
@@ -28,7 +28,8 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "T2"
+                "T2",
+                "TSN+"
               ]
             }
           ],
@@ -52,8 +53,8 @@
         {
           "league": "Tennis",
           "match": "ATP Tennis",
-          "kick_utc": 1781602200,
-          "time": "16/06 04:30 PM",
+          "kick_utc": 1781688600,
+          "time": "17/06 04:30 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -64,75 +65,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Queens Club Championships",
-          "kick_utc": 1781605800,
-          "time": "16/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC2",
-                "Tennis Channel",
-                "BBC iPlayer",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "WTA Nottingham Open",
-          "kick_utc": 1781612100,
-          "time": "16/06 07:15 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC iPlayer",
-                "Tennis Channel",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Max Schoenhaus vs Learner Tien",
-          "kick_utc": 1781602200,
-          "time": "16/06 04:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Nikola Bartunkova vs Diana Shnaider",
-          "kick_utc": 1781616600,
-          "time": "16/06 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
         }
       ]
     }
