@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-17 11:44 VN",
+  "updated": "2026-06-17 18:06 VN",
   "days": {
     "20260617": {
       "date": "Wednesday, 17/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "German Open",
-          "kick_utc": 1781686800,
-          "time": "17/06 04:00 PM",
+          "match": "Halle Open",
+          "kick_utc": 1781688600,
+          "time": "17/06 04:30 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "DAZN Canada"
+                "TSN+"
               ]
             }
           ],
@@ -28,7 +28,8 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "T2"
+                "T2",
+                "TSN+"
               ]
             }
           ],
@@ -52,8 +53,8 @@
         {
           "league": "Tennis",
           "match": "ATP Tennis",
-          "kick_utc": 1781688600,
-          "time": "17/06 04:30 PM",
+          "kick_utc": 1781775000,
+          "time": "18/06 04:30 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -67,77 +68,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Queens Club Championships",
-          "kick_utc": 1781697600,
-          "time": "17/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC2",
-                "Tennis Channel",
-                "BBC iPlayer",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "WTA Nottingham Open",
-          "kick_utc": 1781698500,
-          "time": "17/06 07:15 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC iPlayer",
-                "Tennis Channel",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Magdalena Frech vs Eva Lys",
-          "kick_utc": 1781686800,
-          "time": "17/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Madison Keys vs Xinyu Wang",
-          "kick_utc": 1781686800,
-          "time": "17/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alexei Popyrin vs Raphael Collignon",
-          "kick_utc": 1781688600,
-          "time": "17/06 04:30 PM",
+          "match": "Learner Tien vs Felix Auger-Aliassime",
+          "kick_utc": 1781699400,
+          "time": "17/06 07:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -151,30 +84,46 @@
         },
         {
           "league": "Tennis",
-          "match": "Alexander Zverev vs Vit Kopriva",
-          "kick_utc": 1781701200,
-          "time": "17/06 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Elina Svitolina vs Anna Kalinskaya",
+          "match": "",
           "kick_utc": 1781703000,
           "time": "17/06 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 3"
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1781775000,
+          "time": "18/06 04:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1781778600,
+          "time": "18/06 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
               ]
             }
           ],
