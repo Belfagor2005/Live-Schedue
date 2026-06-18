@@ -1,6 +1,6 @@
 [
     {
-        "Date": "2026-06-18",
+        "Date": "2026-06-19",
         "Time": "16:00",
         "League": "Tennis (WTA)",
         "Matchup": "German Open",
@@ -9,26 +9,8 @@
         ]
     },
     {
-        "Date": "2026-06-18",
-        "Time": "16:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Halle Open",
-        "Services": [
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-06-18",
-        "Time": "17:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "The HSBC Championships",
-        "Services": [
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-06-18",
-        "Time": "17:30",
+        "Date": "2026-06-19",
+        "Time": "17:00",
         "League": "Tennis (WTA)",
         "Matchup": "Nottingham Open",
         "Services": [
@@ -36,7 +18,16 @@
         ]
     },
     {
-        "Date": "2026-06-18",
+        "Date": "2026-06-19",
+        "Time": "17:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "The HSBC Championships",
+        "Services": [
+            "T2"
+        ]
+    },
+    {
+        "Date": "2026-06-19",
         "Time": "20:30",
         "League": "Tennis (ATP)",
         "Matchup": "Halle Open",
