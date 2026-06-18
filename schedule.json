@@ -1,102 +1,9 @@
 {
-  "updated": "2026-06-18 17:37 VN",
+  "updated": "2026-06-18 22:37 VN",
   "days": {
     "20260618": {
       "date": "Thursday, 18/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "German Open",
-          "kick_utc": 1781773200,
-          "time": "18/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Halle Open",
-          "kick_utc": 1781775000,
-          "time": "18/06 04:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "The HSBC Championships",
-          "kick_utc": 1781778600,
-          "time": "18/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Nottingham Open",
-          "kick_utc": 1781778600,
-          "time": "18/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Halle Open",
-          "kick_utc": 1781789400,
-          "time": "18/06 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "RDS 2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "WTA Nottingham Open",
-          "kick_utc": 1781784900,
-          "time": "18/06 07:15 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC iPlayer",
-                "Tennis Channel",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
         {
           "league": "Tennis",
           "match": "ATP Tennis",
@@ -108,6 +15,43 @@
               "channels": [
                 "Sky Sports Tennis",
                 "Sky Sports+"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Queens Club Championships",
+          "kick_utc": 1781870400,
+          "time": "19/06 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "BBC2",
+                "Tennis Channel",
+                "BBC iPlayer",
+                "BBC Sport Website",
+                "BBC Red Button"
+              ]
+            }
+          ],
+          "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "WTA Nottingham Open",
+          "kick_utc": 1781871300,
+          "time": "19/06 07:15 PM",
+          "tv_channels": [
+            {
+              "country": "Wheresthematch",
+              "channels": [
+                "BBC iPlayer",
+                "Tennis Channel",
+                "BBC Sport Website",
+                "BBC Red Button"
               ]
             }
           ],
