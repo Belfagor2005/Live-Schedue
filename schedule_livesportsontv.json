@@ -10,6 +10,24 @@
     },
     {
         "Date": "2026-06-18",
+        "Time": "16:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Halle Open",
+        "Services": [
+            "TSN+"
+        ]
+    },
+    {
+        "Date": "2026-06-18",
+        "Time": "17:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "The HSBC Championships",
+        "Services": [
+            "TSN+"
+        ]
+    },
+    {
+        "Date": "2026-06-18",
         "Time": "17:30",
         "League": "Tennis (WTA)",
         "Matchup": "Nottingham Open",
