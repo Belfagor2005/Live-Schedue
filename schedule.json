@@ -1,9 +1,69 @@
 {
-  "updated": "2026-06-18 22:37 VN",
+  "updated": "2026-06-19 03:31 VN",
   "days": {
     "20260618": {
       "date": "Thursday, 18/06",
       "games": [
+        {
+          "league": "Tennis",
+          "match": "German Open",
+          "kick_utc": 1781859600,
+          "time": "19/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Nottingham Open",
+          "kick_utc": 1781863200,
+          "time": "19/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781865000,
+          "time": "19/06 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "T2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Halle Open",
+          "kick_utc": 1781875800,
+          "time": "19/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "RDS 2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "ATP Tennis",
@@ -56,6 +116,69 @@
             }
           ],
           "source": "wheresthematch"
+        },
+        {
+          "league": "Tennis",
+          "match": "Linda Noskova vs Diane Parry",
+          "kick_utc": 1781860200,
+          "time": "19/06 04:10 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Fabian Marozsan vs Taylor Harry Fritz",
+          "kick_utc": 1781862000,
+          "time": "19/06 04:40 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Alexander Zverev vs Yannick Hanfmann",
+          "kick_utc": 1781875800,
+          "time": "19/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Madison Keys vs Karolina Muchova",
+          "kick_utc": 1781875800,
+          "time": "19/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
         }
       ]
     }
