@@ -1,24 +1,16 @@
 [
     {
-        "Date": "2026-06-19",
-        "Time": "16:00",
+        "Date": "2026-06-20",
+        "Time": "16:30",
         "League": "Tennis (WTA)",
         "Matchup": "German Open",
         "Services": [
+            "TVA Sports",
             "DAZN Canada"
         ]
     },
     {
-        "Date": "2026-06-19",
-        "Time": "16:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Halle Open",
-        "Services": [
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-06-19",
+        "Date": "2026-06-20",
         "Time": "17:00",
         "League": "Tennis (WTA)",
         "Matchup": "Nottingham Open",
@@ -27,18 +19,8 @@
         ]
     },
     {
-        "Date": "2026-06-19",
-        "Time": "17:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "The HSBC Championships",
-        "Services": [
-            "T2",
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-06-19",
-        "Time": "20:30",
+        "Date": "2026-06-20",
+        "Time": "20:00",
         "League": "Tennis (ATP)",
         "Matchup": "Halle Open",
         "Services": [
