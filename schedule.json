@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19 11:55 VN",
+  "updated": "2026-06-19 17:45 VN",
   "days": {
     "20260619": {
       "date": "Friday, 19/06",
@@ -14,6 +14,21 @@
               "country": "LiveSportsOnTV",
               "channels": [
                 "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Halle Open",
+          "kick_utc": 1781861400,
+          "time": "19/06 04:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TSN+"
               ]
             }
           ],
@@ -43,7 +58,8 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "T2"
+                "T2",
+                "TSN+"
               ]
             }
           ],
@@ -67,8 +83,8 @@
         {
           "league": "Tennis",
           "match": "ATP Tennis",
-          "kick_utc": 1781861400,
-          "time": "19/06 04:30 PM",
+          "kick_utc": 1781946000,
+          "time": "20/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Wheresthematch",
@@ -82,77 +98,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Queens Club Championships",
-          "kick_utc": 1781870400,
-          "time": "19/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC2",
-                "Tennis Channel",
-                "BBC iPlayer",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "WTA Nottingham Open",
-          "kick_utc": 1781871300,
-          "time": "19/06 07:15 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC iPlayer",
-                "Tennis Channel",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "Linda Noskova vs Diane Parry",
-          "kick_utc": 1781860200,
-          "time": "19/06 04:10 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 3",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Fabian Marozsan vs Taylor Harry Fritz",
-          "kick_utc": 1781862000,
-          "time": "19/06 04:40 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alexander Zverev vs Yannick Hanfmann",
-          "kick_utc": 1781875800,
-          "time": "19/06 08:30 PM",
+          "match": "",
+          "kick_utc": 1781861400,
+          "time": "19/06 04:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -166,15 +114,46 @@
         },
         {
           "league": "Tennis",
-          "match": "Madison Keys vs Karolina Muchova",
-          "kick_utc": 1781875800,
-          "time": "19/06 08:30 PM",
+          "match": "",
+          "kick_utc": 1781863200,
+          "time": "19/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 3",
+                "beIN Sports Connect",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1781877600,
+          "time": "19/06 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
                 "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1781949600,
+          "time": "20/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "Stan Sport"
               ]
             }
           ],
