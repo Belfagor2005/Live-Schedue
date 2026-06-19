@@ -1,9 +1,55 @@
 {
-  "updated": "2026-06-19 22:31 VN",
+  "updated": "2026-06-20 02:54 VN",
   "days": {
     "20260619": {
       "date": "Friday, 19/06",
       "games": [
+        {
+          "league": "Tennis",
+          "match": "German Open",
+          "kick_utc": 1781947800,
+          "time": "20/06 04:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TVA Sports",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Nottingham Open",
+          "kick_utc": 1781949600,
+          "time": "20/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Halle Open",
+          "kick_utc": 1781960400,
+          "time": "20/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "RDS 2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "ATP Tennis",
@@ -37,21 +83,6 @@
             }
           ],
           "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781877600,
-          "time": "19/06 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
         },
         {
           "league": "Tennis",
