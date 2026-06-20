@@ -1,24 +1,163 @@
 {
-  "updated": "2026-06-20 21:14 VN",
+  "updated": "2026-06-21 02:44 VN",
   "days": {
     "20260620": {
       "date": "Saturday, 20/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Halle Open",
-          "kick_utc": 1781960400,
-          "time": "20/06 08:00 PM",
+          "match": "Bad Homburg Open",
+          "kick_utc": 1782032400,
+          "time": "21/06 04:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "TSN+",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "German Open",
+          "kick_utc": 1782036000,
+          "time": "21/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TVA Sports",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Nottingham Open",
+          "kick_utc": 1782039600,
+          "time": "21/06 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TVA Sports",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "The HSBC Championships",
+          "kick_utc": 1782045000,
+          "time": "21/06 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "T2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Halle Open",
+          "kick_utc": 1782048600,
+          "time": "21/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
                 "RDS 2"
               ]
             }
           ],
           "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Mallorca Championship",
+          "kick_utc": 1782055800,
+          "time": "21/06 10:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "T2"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Bad Homburg Open",
+          "kick_utc": 1782057600,
+          "time": "21/06 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Aryna Sabalenka vs Jessica Pegula",
+          "kick_utc": 1782034200,
+          "time": "21/06 04:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Karolina Pliskova vs Marie Bouzkova",
+          "kick_utc": 1782036000,
+          "time": "21/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Alexander Zverev vs Taylor Harry Fritz",
+          "kick_utc": 1782046800,
+          "time": "21/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
         }
       ]
     }
