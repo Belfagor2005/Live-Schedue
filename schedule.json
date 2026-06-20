@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20 11:10 VN",
+  "updated": "2026-06-20 16:26 VN",
   "days": {
     "20260620": {
       "date": "Saturday, 20/06",
@@ -37,14 +37,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Halle Open",
-          "kick_utc": 1781960400,
-          "time": "20/06 08:00 PM",
+          "match": "The HSBC Championships",
+          "kick_utc": 1781956800,
+          "time": "20/06 07:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "RDS 2"
+                "TSN+"
               ]
             }
           ],
@@ -52,69 +52,19 @@
         },
         {
           "league": "Tennis",
-          "match": "ATP Tennis",
-          "kick_utc": 1781946000,
-          "time": "20/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "Sky Sports Tennis",
-                "Sky Sports+"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "WTA Nottingham Open",
-          "kick_utc": 1781957700,
-          "time": "20/06 07:15 PM",
-          "tv_channels": [
-            {
-              "country": "Wheresthematch",
-              "channels": [
-                "BBC iPlayer",
-                "Tennis Channel",
-                "BBC Sport Website",
-                "BBC Red Button"
-              ]
-            }
-          ],
-          "source": "wheresthematch"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1781949600,
-          "time": "20/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
+          "match": "Halle Open",
           "kick_utc": 1781960400,
           "time": "20/06 08:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
+                "TSN+",
+                "RDS 2"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         }
       ]
     }
