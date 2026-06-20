@@ -20,10 +20,20 @@
     },
     {
         "Date": "2026-06-20",
+        "Time": "19:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "The HSBC Championships",
+        "Services": [
+            "TSN+"
+        ]
+    },
+    {
+        "Date": "2026-06-20",
         "Time": "20:00",
         "League": "Tennis (ATP)",
         "Matchup": "Halle Open",
         "Services": [
+            "TSN+",
             "RDS 2"
         ]
     }
