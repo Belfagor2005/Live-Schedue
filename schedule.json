@@ -1,55 +1,9 @@
 {
-  "updated": "2026-06-20 16:26 VN",
+  "updated": "2026-06-20 21:14 VN",
   "days": {
     "20260620": {
       "date": "Saturday, 20/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "German Open",
-          "kick_utc": 1781947800,
-          "time": "20/06 04:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TVA Sports",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Nottingham Open",
-          "kick_utc": 1781949600,
-          "time": "20/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "The HSBC Championships",
-          "kick_utc": 1781956800,
-          "time": "20/06 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Halle Open",
