@@ -1,71 +1,9 @@
 {
-  "updated": "2026-06-21 16:56 VN",
+  "updated": "2026-06-21 21:21 VN",
   "days": {
     "20260621": {
       "date": "Sunday, 21/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Bad Homburg Open",
-          "kick_utc": 1782032400,
-          "time": "21/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "German Open",
-          "kick_utc": 1782036000,
-          "time": "21/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TVA Sports",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Mallorca Championship",
-          "kick_utc": 1782037800,
-          "time": "21/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TSN+"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Nottingham Open",
-          "kick_utc": 1782039600,
-          "time": "21/06 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TVA Sports",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "The HSBC Championships",
@@ -127,38 +65,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jessica Pegula vs Linda Noskova",
-          "kick_utc": 1782036000,
-          "time": "21/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Marie Bouzkova vs Emma Navarro",
-          "kick_utc": 1782039600,
-          "time": "21/06 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
         },
         {
           "league": "Tennis",
