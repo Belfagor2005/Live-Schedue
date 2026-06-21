@@ -1,10 +1,73 @@
 [
   {
+    "competition": "World Cup 2026",
+    "home": "Germany",
+    "away": "Ivory Coast",
+    "vietnam_time": "03:00",
+    "vietnam_date": "22/06/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Ecuador",
+    "away": "Curacao",
+    "vietnam_time": "07:00",
+    "vietnam_date": "22/06/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Tunisia",
+    "away": "Japan",
+    "vietnam_time": "11:00",
+    "vietnam_date": "22/06/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "WTA Bad Homburg",
+    "home": "Solana Sierra",
+    "away": "Anna Blinkova",
+    "vietnam_time": "16:00",
+    "vietnam_date": "22/06/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Bad Homburg",
+    "home": "Liudmila Samsonova",
+    "away": "Katerina Siniakova",
+    "vietnam_time": "16:00",
+    "vietnam_date": "22/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Mallorca",
+    "home": "Adam Walton",
+    "away": "Antoine Ghibaudo",
+    "vietnam_time": "17:00",
+    "vietnam_date": "22/06/2026",
+    "channels": "beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Mallorca",
+    "home": "Alex Molcan",
+    "away": "Murphy Cassone",
+    "vietnam_time": "17:00",
+    "vietnam_date": "22/06/2026",
+    "channels": "beIN Sports Connect",
+    "sport": "Tennis"
+  },
+  {
     "competition": "WTA Berlin",
     "home": "Jessica Pegula",
     "away": "Linda Noskova",
     "vietnam_time": "17:00",
-    "vietnam_date": "21/06/2026",
+    "vietnam_date": "22/06/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 3",
     "sport": "Tennis"
   },
@@ -13,7 +76,7 @@
     "home": "Marie Bouzkova",
     "away": "Emma Navarro",
     "vietnam_time": "18:00",
-    "vietnam_date": "21/06/2026",
+    "vietnam_date": "22/06/2026",
     "channels": "beIN Sports Connect | Stan Sport",
     "sport": "Tennis"
   },
@@ -22,7 +85,7 @@
     "home": "Taylor Harry Fritz",
     "away": "Frances Tiafoe",
     "vietnam_time": "20:30",
-    "vietnam_date": "21/06/2026",
+    "vietnam_date": "22/06/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 3",
     "sport": "Tennis"
   },
@@ -31,7 +94,7 @@
     "home": "Spain",
     "away": "Saudi Arabia",
     "vietnam_time": "23:00",
-    "vietnam_date": "21/06/2026",
+    "vietnam_date": "22/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -40,7 +103,7 @@
     "home": "Belgium",
     "away": "Iran",
     "vietnam_time": "02:00",
-    "vietnam_date": "22/06/2026",
+    "vietnam_date": "23/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -49,7 +112,7 @@
     "home": "Uruguay",
     "away": "Cape Verde",
     "vietnam_time": "05:00",
-    "vietnam_date": "22/06/2026",
+    "vietnam_date": "23/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -58,44 +121,26 @@
     "home": "New Zealand",
     "away": "Egypt",
     "vietnam_time": "08:00",
-    "vietnam_date": "22/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Argentina",
-    "away": "Austria",
-    "vietnam_time": "00:00",
     "vietnam_date": "23/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
   {
-    "competition": "World Cup 2026",
-    "home": "France",
-    "away": "Iraq",
-    "vietnam_time": "04:00",
+    "competition": "WTA Bad Homburg",
+    "home": "",
+    "away": "",
+    "vietnam_time": "16:00",
     "vietnam_date": "23/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
+    "channels": "beIN Sports Connect | beIN SPORTS 3",
+    "sport": "Tennis"
   },
   {
-    "competition": "World Cup 2026",
-    "home": "Norway",
-    "away": "Senegal",
-    "vietnam_time": "07:00",
+    "competition": "ATP Mallorca",
+    "home": "",
+    "away": "",
+    "vietnam_time": "17:30",
     "vietnam_date": "23/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Jordan",
-    "away": "Algeria",
-    "vietnam_time": "10:00",
-    "vietnam_date": "23/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "sport": "Tennis"
   }
 ]
