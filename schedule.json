@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21 11:51 VN",
+  "updated": "2026-06-21 16:56 VN",
   "days": {
     "20260621": {
       "date": "Sunday, 21/06",
@@ -37,6 +37,21 @@
         },
         {
           "league": "Tennis",
+          "match": "Mallorca Championship",
+          "kick_utc": 1782037800,
+          "time": "21/06 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TSN+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
           "match": "Nottingham Open",
           "kick_utc": 1782039600,
           "time": "21/06 06:00 PM",
@@ -60,7 +75,8 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "T2"
+                "T2",
+                "TSN+"
               ]
             }
           ],
@@ -75,6 +91,7 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "TSN+",
                 "RDS 2"
               ]
             }
@@ -113,9 +130,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Aryna Sabalenka vs Jessica Pegula",
-          "kick_utc": 1782034200,
-          "time": "21/06 04:30 PM",
+          "match": "Jessica Pegula vs Linda Noskova",
+          "kick_utc": 1782036000,
+          "time": "21/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -129,9 +146,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Karolina Pliskova vs Marie Bouzkova",
-          "kick_utc": 1782036000,
-          "time": "21/06 05:00 PM",
+          "match": "Marie Bouzkova vs Emma Navarro",
+          "kick_utc": 1782039600,
+          "time": "21/06 06:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -145,15 +162,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Alexander Zverev vs Taylor Harry Fritz",
-          "kick_utc": 1782046800,
-          "time": "21/06 08:00 PM",
+          "match": "Taylor Harry Fritz vs Frances Tiafoe",
+          "kick_utc": 1782048600,
+          "time": "21/06 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "beIN SPORTS 3"
               ]
             }
           ],
