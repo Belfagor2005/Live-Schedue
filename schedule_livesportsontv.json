@@ -1,54 +1,6 @@
 [
     {
         "Date": "2026-06-21",
-        "Time": "16:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Bad Homburg Open",
-        "Services": [
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-06-21",
-        "Time": "17:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "German Open",
-        "Services": [
-            "TVA Sports",
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-06-21",
-        "Time": "17:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Mallorca Championship",
-        "Services": [
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-06-21",
-        "Time": "18:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Nottingham Open",
-        "Services": [
-            "TVA Sports",
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-06-21",
-        "Time": "19:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "The HSBC Championships",
-        "Services": [
-            "T2",
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-06-21",
         "Time": "20:30",
         "League": "Tennis (ATP)",
         "Matchup": "Halle Open",
@@ -73,6 +25,15 @@
         "Matchup": "Bad Homburg Open",
         "Services": [
             "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-06-22",
+        "Time": "16:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Bad Homburg Open",
+        "Services": [
+            "DAZN Canada"
         ]
     }
 ]
