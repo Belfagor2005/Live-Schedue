@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-22 12:00 VN",
+  "updated": "2026-06-22 19:13 VN",
   "days": {
     "20260622": {
       "date": "Monday, 22/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Bad Homburg Open",
-          "kick_utc": 1782118800,
-          "time": "22/06 04:00 PM",
+          "match": "Mallorca Championship",
+          "kick_utc": 1782124200,
+          "time": "22/06 05:30 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "DAZN Canada"
+                "TSN+"
               ]
             }
           ],
@@ -21,44 +21,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Solana Sierra vs Anna Blinkova",
-          "kick_utc": 1782118800,
-          "time": "22/06 04:00 PM",
+          "match": "",
+          "kick_utc": 1782124200,
+          "time": "22/06 05:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Liudmila Samsonova vs Katerina Siniakova",
-          "kick_utc": 1782118800,
-          "time": "22/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Adam Walton vs Antoine Ghibaudo",
-          "kick_utc": 1782122400,
-          "time": "22/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
                 "beIN SPORTS 2"
               ]
             }
@@ -67,24 +37,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Alex Molcan vs Murphy Cassone",
-          "kick_utc": 1782122400,
-          "time": "22/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jessica Pegula vs Linda Noskova",
-          "kick_utc": 1782122400,
-          "time": "22/06 05:00 PM",
+          "match": "",
+          "kick_utc": 1782205200,
+          "time": "23/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -98,31 +53,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Marie Bouzkova vs Emma Navarro",
-          "kick_utc": 1782126000,
-          "time": "22/06 06:00 PM",
+          "match": "",
+          "kick_utc": 1782210600,
+          "time": "23/06 05:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN Sports Connect",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Taylor Harry Fritz vs Frances Tiafoe",
-          "kick_utc": 1782135000,
-          "time": "22/06 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
+                "beIN SPORTS 2"
               ]
             }
           ],
