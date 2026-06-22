@@ -1,20 +1,83 @@
 [
   {
+    "competition": "World Cup 2026",
+    "home": "Belgium",
+    "away": "Iran",
+    "vietnam_time": "02:00",
+    "vietnam_date": "23/06/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Uruguay",
+    "away": "Cape Verde",
+    "vietnam_time": "05:00",
+    "vietnam_date": "23/06/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "New Zealand",
+    "away": "Egypt",
+    "vietnam_time": "08:00",
+    "vietnam_date": "23/06/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
     "competition": "WTA Bad Homburg",
-    "home": "",
-    "away": "",
+    "home": "Clara Tauson",
+    "away": "Diana Shnaider",
     "vietnam_time": "16:00",
-    "vietnam_date": "22/06/2026",
+    "vietnam_date": "23/06/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 3",
     "sport": "Tennis"
   },
   {
+    "competition": "ATP Eastbourne",
+    "home": "Jack Pinnington Jones",
+    "away": "Camilo Ugo Carabelli",
+    "vietnam_time": "17:00",
+    "vietnam_date": "23/06/2026",
+    "channels": "beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Eastbourne",
+    "home": "Gabriel Diallo",
+    "away": "Terence Atmane",
+    "vietnam_time": "17:00",
+    "vietnam_date": "23/06/2026",
+    "channels": "beIN Sports Connect",
+    "sport": "Tennis"
+  },
+  {
     "competition": "ATP Mallorca",
-    "home": "",
-    "away": "",
+    "home": "Corentin Moutet",
+    "away": "Marton Fucsovics",
     "vietnam_time": "17:30",
-    "vietnam_date": "22/06/2026",
+    "vietnam_date": "23/06/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Eastbourne",
+    "home": "Jan Choinski",
+    "away": "Alexei Popyrin",
+    "vietnam_time": "20:30",
+    "vietnam_date": "23/06/2026",
+    "channels": "beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Bad Homburg",
+    "home": "Venus Williams",
+    "away": "Irina Begu",
+    "vietnam_time": "20:30",
+    "vietnam_date": "23/06/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 3",
     "sport": "Tennis"
   },
   {
@@ -22,7 +85,7 @@
     "home": "Argentina",
     "away": "Austria",
     "vietnam_time": "00:00",
-    "vietnam_date": "23/06/2026",
+    "vietnam_date": "24/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -31,7 +94,7 @@
     "home": "France",
     "away": "Iraq",
     "vietnam_time": "04:00",
-    "vietnam_date": "23/06/2026",
+    "vietnam_date": "24/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -40,7 +103,7 @@
     "home": "Norway",
     "away": "Senegal",
     "vietnam_time": "07:00",
-    "vietnam_date": "23/06/2026",
+    "vietnam_date": "24/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -49,7 +112,7 @@
     "home": "Jordan",
     "away": "Algeria",
     "vietnam_time": "10:00",
-    "vietnam_date": "23/06/2026",
+    "vietnam_date": "24/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -58,8 +121,17 @@
     "home": "",
     "away": "",
     "vietnam_time": "16:00",
-    "vietnam_date": "23/06/2026",
+    "vietnam_date": "24/06/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 3",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Eastbourne",
+    "home": "",
+    "away": "",
+    "vietnam_time": "17:00",
+    "vietnam_date": "24/06/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
@@ -67,7 +139,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "17:30",
-    "vietnam_date": "23/06/2026",
+    "vietnam_date": "24/06/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
@@ -76,8 +148,17 @@
     "home": "",
     "away": "",
     "vietnam_time": "20:30",
-    "vietnam_date": "23/06/2026",
+    "vietnam_date": "24/06/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 3",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Eastbourne",
+    "home": "",
+    "away": "",
+    "vietnam_time": "21:00",
+    "vietnam_date": "24/06/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
@@ -85,34 +166,7 @@
     "home": "Portugal",
     "away": "Uzbekistan",
     "vietnam_time": "00:00",
-    "vietnam_date": "24/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "England",
-    "away": "Ghana",
-    "vietnam_time": "03:00",
-    "vietnam_date": "24/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Panama",
-    "away": "Croatia",
-    "vietnam_time": "06:00",
-    "vietnam_date": "24/06/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Colombia",
-    "away": "D.R. Congo",
-    "vietnam_time": "09:00",
-    "vietnam_date": "24/06/2026",
+    "vietnam_date": "25/06/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   }
