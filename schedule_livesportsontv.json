@@ -1,39 +1,29 @@
 [
     {
-        "Date": "2026-06-21",
-        "Time": "20:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Halle Open",
-        "Services": [
-            "TSN+",
-            "RDS 2"
-        ]
-    },
-    {
-        "Date": "2026-06-21",
-        "Time": "22:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Mallorca Championship",
-        "Services": [
-            "T2"
-        ]
-    },
-    {
-        "Date": "2026-06-21",
-        "Time": "23:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Bad Homburg Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
         "Date": "2026-06-22",
         "Time": "16:00",
         "League": "Tennis (WTA)",
         "Matchup": "Bad Homburg Open",
         "Services": [
             "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-06-22",
+        "Time": "17:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Rothesay International Eastbourne",
+        "Services": [
+            "TSN+"
+        ]
+    },
+    {
+        "Date": "2026-06-22",
+        "Time": "17:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Mallorca Championship",
+        "Services": [
+            "TSN+"
         ]
     }
 ]
