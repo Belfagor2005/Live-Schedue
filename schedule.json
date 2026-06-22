@@ -1,19 +1,19 @@
 {
-  "updated": "2026-06-22 19:13 VN",
+  "updated": "2026-06-23 03:54 VN",
   "days": {
     "20260622": {
       "date": "Monday, 22/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Mallorca Championship",
-          "kick_utc": 1782124200,
-          "time": "22/06 05:30 PM",
+          "match": "Bad Homburg Open",
+          "kick_utc": 1782205200,
+          "time": "23/06 04:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "TSN+"
+                "DAZN Canada"
               ]
             }
           ],
@@ -21,23 +21,7 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782124200,
-          "time": "22/06 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
+          "match": "Clara Tauson vs Diana Shnaider",
           "kick_utc": 1782205200,
           "time": "23/06 04:00 PM",
           "tv_channels": [
@@ -53,7 +37,37 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Jack Pinnington Jones vs Camilo Ugo Carabelli",
+          "kick_utc": 1782208800,
+          "time": "23/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Gabriel Diallo vs Terence Atmane",
+          "kick_utc": 1782208800,
+          "time": "23/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Corentin Moutet vs Marton Fucsovics",
           "kick_utc": 1782210600,
           "time": "23/06 05:30 PM",
           "tv_channels": [
@@ -62,6 +76,37 @@
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jan Choinski vs Alexei Popyrin",
+          "kick_utc": 1782221400,
+          "time": "23/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Venus Williams vs Irina Begu",
+          "kick_utc": 1782221400,
+          "time": "23/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
               ]
             }
           ],
