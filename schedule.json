@@ -1,20 +1,49 @@
 {
-  "updated": "2026-06-23 22:12 VN",
+  "updated": "2026-06-24 03:11 VN",
   "days": {
     "20260623": {
       "date": "Tuesday, 23/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782221400,
-          "time": "23/06 08:30 PM",
+          "match": "Bad Homburg Open",
+          "kick_utc": 1782291600,
+          "time": "24/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Rothesay International Eastbourne",
+          "kick_utc": 1782295200,
+          "time": "24/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Eva Lys vs Emma Navarro",
+          "kick_utc": 1782291600,
+          "time": "24/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
+                "beIN Sports Connect"
               ]
             }
           ],
@@ -22,9 +51,25 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782223200,
-          "time": "23/06 09:00 PM",
+          "match": "Ann Li vs Ekaterina Alexandrova",
+          "kick_utc": 1782293400,
+          "time": "24/06 04:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jenson Brooksby vs Aleksandar Vukic",
+          "kick_utc": 1782295200,
+          "time": "24/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -38,25 +83,9 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782291600,
-          "time": "24/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Murphy Cassone vs Ethan Quinn",
-          "kick_utc": 1782295200,
-          "time": "24/06 05:00 PM",
+          "match": "Marc Polmans vs Grigor Dimitrov",
+          "kick_utc": 1782297000,
+          "time": "24/06 05:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -70,9 +99,9 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782295200,
-          "time": "24/06 05:00 PM",
+          "match": "Roman Andres Burruchaga vs Arthur Fery",
+          "kick_utc": 1782306000,
+          "time": "24/06 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -86,7 +115,7 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Naomi Osaka vs Elise Mertens",
           "kick_utc": 1782307800,
           "time": "24/06 08:30 PM",
           "tv_channels": [
@@ -95,22 +124,6 @@
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782309600,
-          "time": "24/06 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
               ]
             }
           ],
