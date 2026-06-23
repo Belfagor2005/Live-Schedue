@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23 11:00 VN",
+  "updated": "2026-06-23 16:52 VN",
   "days": {
     "20260623": {
       "date": "Tuesday, 23/06",
@@ -21,7 +21,7 @@
         },
         {
           "league": "Tennis",
-          "match": "Clara Tauson vs Diana Shnaider",
+          "match": "",
           "kick_utc": 1782205200,
           "time": "23/06 04:00 PM",
           "tv_channels": [
@@ -37,13 +37,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Jack Pinnington Jones vs Camilo Ugo Carabelli",
+          "match": "",
           "kick_utc": 1782208800,
           "time": "23/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
+                "beIN Sports Connect",
                 "beIN SPORTS 1"
               ]
             }
@@ -52,22 +53,7 @@
         },
         {
           "league": "Tennis",
-          "match": "Gabriel Diallo vs Terence Atmane",
-          "kick_utc": 1782208800,
-          "time": "23/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Corentin Moutet vs Marton Fucsovics",
+          "match": "",
           "kick_utc": 1782210600,
           "time": "23/06 05:30 PM",
           "tv_channels": [
@@ -83,13 +69,30 @@
         },
         {
           "league": "Tennis",
-          "match": "Jan Choinski vs Alexei Popyrin",
+          "match": "",
           "kick_utc": 1782221400,
           "time": "23/06 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1782223200,
+          "time": "23/06 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
                 "beIN SPORTS 1"
               ]
             }
@@ -98,9 +101,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Venus Williams vs Irina Begu",
-          "kick_utc": 1782221400,
-          "time": "23/06 08:30 PM",
+          "match": "",
+          "kick_utc": 1782291600,
+          "time": "24/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
