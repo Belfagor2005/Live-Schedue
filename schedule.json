@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24 11:02 VN",
+  "updated": "2026-06-24 16:39 VN",
   "days": {
     "20260624": {
       "date": "Wednesday, 24/06",
@@ -28,6 +28,7 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "TSN+",
                 "DAZN Canada"
               ]
             }
@@ -36,14 +37,30 @@
         },
         {
           "league": "Tennis",
-          "match": "Eva Lys vs Emma Navarro",
+          "match": "Mallorca Championship",
+          "kick_utc": 1782297000,
+          "time": "24/06 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TSN+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
           "kick_utc": 1782291600,
           "time": "24/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect"
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
               ]
             }
           ],
@@ -51,15 +68,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Ann Li vs Ekaterina Alexandrova",
-          "kick_utc": 1782293400,
-          "time": "24/06 04:30 PM",
+          "match": "Murphy Cassone vs Ethan Quinn",
+          "kick_utc": 1782295200,
+          "time": "24/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 3",
-                "Stan Sport"
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
               ]
             }
           ],
@@ -67,7 +84,7 @@
         },
         {
           "league": "Tennis",
-          "match": "Jenson Brooksby vs Aleksandar Vukic",
+          "match": "",
           "kick_utc": 1782295200,
           "time": "24/06 05:00 PM",
           "tv_channels": [
@@ -83,15 +100,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Marc Polmans vs Grigor Dimitrov",
-          "kick_utc": 1782297000,
-          "time": "24/06 05:30 PM",
+          "match": "",
+          "kick_utc": 1782307800,
+          "time": "24/06 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "beIN SPORTS 3"
               ]
             }
           ],
@@ -99,9 +116,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Roman Andres Burruchaga vs Arthur Fery",
-          "kick_utc": 1782306000,
-          "time": "24/06 08:00 PM",
+          "match": "",
+          "kick_utc": 1782309600,
+          "time": "24/06 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -115,13 +132,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Naomi Osaka vs Elise Mertens",
-          "kick_utc": 1782307800,
-          "time": "24/06 08:30 PM",
+          "match": "",
+          "kick_utc": 1782378000,
+          "time": "25/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
+                "beIN SPORTS 2",
                 "beIN Sports Connect",
                 "beIN SPORTS 3"
               ]
