@@ -1,14 +1,44 @@
 {
-  "updated": "2026-06-24 21:41 VN",
+  "updated": "2026-06-25 02:52 VN",
   "days": {
     "20260624": {
       "date": "Wednesday, 24/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782307800,
-          "time": "24/06 08:30 PM",
+          "match": "Bad Homburg Open",
+          "kick_utc": 1782378000,
+          "time": "25/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Rothesay International Eastbourne",
+          "kick_utc": 1782381600,
+          "time": "25/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Ekaterina Alexandrova vs Mirra Andreeva",
+          "kick_utc": 1782378000,
+          "time": "25/06 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -22,40 +52,7 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782309600,
-          "time": "24/06 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782378000,
-          "time": "25/06 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 3",
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
+          "match": "Toby Samuel vs Thiago Augustin Tirante",
           "kick_utc": 1782381600,
           "time": "25/06 05:00 PM",
           "tv_channels": [
@@ -71,15 +68,62 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782396000,
-          "time": "25/06 09:00 PM",
+          "match": "Murphy Cassone vs Ethan Quinn",
+          "kick_utc": 1782381600,
+          "time": "25/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jessica Bouzas Maneiro vs Madison Keys",
+          "kick_utc": 1782381600,
+          "time": "25/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Zeynep Sonmez vs Sara Bejlek",
+          "kick_utc": 1782394200,
+          "time": "25/06 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Iga Swiatek vs Emma Navarro",
+          "kick_utc": 1782394200,
+          "time": "25/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
               ]
             }
           ],
