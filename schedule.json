@@ -1,9 +1,24 @@
 {
-  "updated": "2026-06-25 11:02 VN",
+  "updated": "2026-06-25 16:32 VN",
   "days": {
     "20260625": {
       "date": "Thursday, 25/06",
       "games": [
+        {
+          "league": "Tennis",
+          "match": "Mallorca Championship",
+          "kick_utc": 1782378000,
+          "time": "25/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TSN+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "Bad Homburg Open",
@@ -28,6 +43,7 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "TSN+",
                 "DAZN Canada"
               ]
             }
@@ -36,7 +52,38 @@
         },
         {
           "league": "Tennis",
-          "match": "Ekaterina Alexandrova vs Mirra Andreeva",
+          "match": "Rothesay International Eastbourne",
+          "kick_utc": 1782394200,
+          "time": "25/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TSN+"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Ethan Quinn vs Vit Kopriva",
+          "kick_utc": 1782378000,
+          "time": "25/06 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Xinyu Wang vs Elina Svitolina",
           "kick_utc": 1782378000,
           "time": "25/06 04:00 PM",
           "tv_channels": [
@@ -52,45 +99,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Toby Samuel vs Thiago Augustin Tirante",
+          "match": "Toby Samuel vs Juan Manuel Cerundolo",
           "kick_utc": 1782381600,
           "time": "25/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Murphy Cassone vs Ethan Quinn",
-          "kick_utc": 1782381600,
-          "time": "25/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jessica Bouzas Maneiro vs Madison Keys",
-          "kick_utc": 1782381600,
-          "time": "25/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
+                "beIN SPORTS 1",
                 "beIN Sports Connect"
               ]
             }
@@ -99,9 +115,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Zeynep Sonmez vs Sara Bejlek",
-          "kick_utc": 1782394200,
-          "time": "25/06 08:30 PM",
+          "match": "Jelena Ostapenko vs Zeynep Sonmez",
+          "kick_utc": 1782381600,
+          "time": "25/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -115,15 +131,31 @@
         },
         {
           "league": "Tennis",
-          "match": "Iga Swiatek vs Emma Navarro",
+          "match": "Jack Draper vs Gabriel Diallo",
           "kick_utc": 1782394200,
           "time": "25/06 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Emma Navarro vs Elena Gabriela Ruse",
+          "kick_utc": 1782394200,
+          "time": "25/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3",
+                "beIN Sports Connect"
               ]
             }
           ],
