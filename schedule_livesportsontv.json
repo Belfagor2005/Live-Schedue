@@ -1,9 +1,9 @@
 [
     {
-        "Date": "2026-06-24",
-        "Time": "20:30",
+        "Date": "2026-06-25",
+        "Time": "16:00",
         "League": "Tennis (ATP)",
-        "Matchup": "Rothesay International Eastbourne",
+        "Matchup": "Mallorca Championship",
         "Services": [
             "TSN+"
         ]
@@ -23,7 +23,17 @@
         "League": "Tennis (WTA)",
         "Matchup": "Rothesay International Eastbourne",
         "Services": [
+            "TSN+",
             "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-06-25",
+        "Time": "20:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Rothesay International Eastbourne",
+        "Services": [
+            "TSN+"
         ]
     }
 ]
