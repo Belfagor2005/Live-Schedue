@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25 21:42 VN",
+  "updated": "2026-06-26 03:08 VN",
   "days": {
     "20260625": {
       "date": "Thursday, 25/06",
@@ -7,13 +7,13 @@
         {
           "league": "Tennis",
           "match": "Rothesay International Eastbourne",
-          "kick_utc": 1782394200,
-          "time": "25/06 08:30 PM",
+          "kick_utc": 1782468000,
+          "time": "26/06 05:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "TSN+"
+                "DAZN Canada"
               ]
             }
           ],
@@ -21,14 +21,44 @@
         },
         {
           "league": "Tennis",
-          "match": "Jack Draper vs Gabriel Diallo",
-          "kick_utc": 1782394200,
-          "time": "25/06 08:30 PM",
+          "match": "Bad Homburg Open",
+          "kick_utc": 1782471600,
+          "time": "26/06 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TVA Sports",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Bad Homburg Open",
+          "kick_utc": 1782478800,
+          "time": "26/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TVA Sports"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Tatjana Maria vs Tereza Valentova",
+          "kick_utc": 1782482400,
+          "time": "26/06 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 1",
                 "beIN Sports Connect"
               ]
             }
@@ -37,14 +67,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Emma Navarro vs Elena Gabriela Ruse",
-          "kick_utc": 1782394200,
-          "time": "25/06 08:30 PM",
+          "match": "Grigor Dimitrov vs Alejandro Davidovich Fokina",
+          "kick_utc": 1782487800,
+          "time": "26/06 10:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 3",
+                "beIN SPORTS 2",
                 "beIN Sports Connect"
               ]
             }
