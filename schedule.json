@@ -1,18 +1,66 @@
 {
-  "updated": "2026-06-26 21:35 VN",
+  "updated": "2026-06-27 02:57 VN",
   "days": {
     "20260626": {
       "date": "Friday, 26/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Bad Homburg Open",
-          "kick_utc": 1782478800,
-          "time": "26/06 08:00 PM",
+          "match": "Eastbourne Open",
+          "kick_utc": 1782558000,
+          "time": "27/06 06:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Bad Homburg Open",
+          "kick_utc": 1782559800,
+          "time": "27/06 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel",
+                "TVA Sports",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Mallorca Championship",
+          "kick_utc": 1782565200,
+          "time": "27/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Rothesay International Eastbourne",
+          "kick_utc": 1782567000,
+          "time": "27/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel",
                 "TVA Sports"
               ]
             }
@@ -21,15 +69,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Nuno Borges vs Ethan Quinn",
-          "kick_utc": 1782478800,
-          "time": "26/06 08:00 PM",
+          "match": "Tatjana Maria vs Jelena Ostapenko",
+          "kick_utc": 1782554400,
+          "time": "27/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
+                "beIN Sports Connect",
+                "Stan Sport"
               ]
             }
           ],
@@ -37,31 +85,15 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782480600,
-          "time": "26/06 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
+          "match": "Xinyu Wang vs Naomi Osaka",
           "kick_utc": 1782558000,
           "time": "27/06 06:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
               ]
             }
           ],
@@ -69,31 +101,15 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782559800,
-          "time": "27/06 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 3",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
+          "match": "Nuno Borges vs Ethan Quinn",
           "kick_utc": 1782565200,
           "time": "27/06 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
               ]
             }
           ],
@@ -101,15 +117,15 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Zizou Bergs vs Toby Samuel",
           "kick_utc": 1782567000,
           "time": "27/06 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
