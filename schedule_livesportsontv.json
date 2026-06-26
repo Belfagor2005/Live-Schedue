@@ -1,7 +1,7 @@
 [
     {
-        "Date": "2026-06-25",
-        "Time": "20:30",
+        "Date": "2026-06-26",
+        "Time": "21:00",
         "League": "Tennis (ATP)",
         "Matchup": "Rothesay International Eastbourne",
         "Services": [
@@ -9,30 +9,41 @@
         ]
     },
     {
-        "Date": "2026-06-26",
-        "Time": "17:00",
+        "Date": "2026-06-27",
+        "Time": "18:00",
         "League": "Tennis (WTA)",
-        "Matchup": "Rothesay International Eastbourne",
+        "Matchup": "Eastbourne Open",
         "Services": [
             "DAZN Canada"
         ]
     },
     {
-        "Date": "2026-06-26",
-        "Time": "18:00",
+        "Date": "2026-06-27",
+        "Time": "18:30",
         "League": "Tennis (WTA)",
         "Matchup": "Bad Homburg Open",
         "Services": [
+            "Tennis Channel",
             "TVA Sports",
             "DAZN Canada"
         ]
     },
     {
-        "Date": "2026-06-26",
+        "Date": "2026-06-27",
         "Time": "20:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Bad Homburg Open",
+        "League": "Tennis (ATP)",
+        "Matchup": "Mallorca Championship",
         "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-06-27",
+        "Time": "20:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Rothesay International Eastbourne",
+        "Services": [
+            "Tennis Channel",
             "TVA Sports"
         ]
     }
