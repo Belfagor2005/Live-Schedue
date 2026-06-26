@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26 11:10 VN",
+  "updated": "2026-06-26 16:36 VN",
   "days": {
     "20260626": {
       "date": "Friday, 26/06",
@@ -52,13 +52,30 @@
         },
         {
           "league": "Tennis",
-          "match": "Tatjana Maria vs Tereza Valentova",
-          "kick_utc": 1782482400,
-          "time": "26/06 09:00 PM",
+          "match": "Tatjana Maria vs Jelena Ostapenko",
+          "kick_utc": 1782468000,
+          "time": "26/06 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
+                "beIN Sports Connect",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Xinyu Wang vs Naomi Osaka",
+          "kick_utc": 1782471600,
+          "time": "26/06 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3",
                 "beIN Sports Connect"
               ]
             }
@@ -67,14 +84,30 @@
         },
         {
           "league": "Tennis",
-          "match": "Grigor Dimitrov vs Alejandro Davidovich Fokina",
-          "kick_utc": 1782487800,
-          "time": "26/06 10:30 PM",
+          "match": "Nuno Borges vs Ethan Quinn",
+          "kick_utc": 1782478800,
+          "time": "26/06 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN SPORTS 2",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1782480600,
+          "time": "26/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1",
                 "beIN Sports Connect"
               ]
             }
