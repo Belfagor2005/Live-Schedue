@@ -1,40 +1,9 @@
 {
-  "updated": "2026-06-26 16:36 VN",
+  "updated": "2026-06-26 21:35 VN",
   "days": {
     "20260626": {
       "date": "Friday, 26/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Rothesay International Eastbourne",
-          "kick_utc": 1782468000,
-          "time": "26/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Bad Homburg Open",
-          "kick_utc": 1782471600,
-          "time": "26/06 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TVA Sports",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Bad Homburg Open",
@@ -49,38 +18,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Tatjana Maria vs Jelena Ostapenko",
-          "kick_utc": 1782468000,
-          "time": "26/06 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Xinyu Wang vs Naomi Osaka",
-          "kick_utc": 1782471600,
-          "time": "26/06 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 3",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
         },
         {
           "league": "Tennis",
@@ -103,6 +40,70 @@
           "match": "",
           "kick_utc": 1782480600,
           "time": "26/06 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1782558000,
+          "time": "27/06 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1782559800,
+          "time": "27/06 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1782565200,
+          "time": "27/06 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1782567000,
+          "time": "27/06 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
