@@ -1,45 +1,46 @@
 {
-  "updated": "2026-06-27 20:53 VN",
+  "updated": "2026-06-28 02:36 VN",
   "days": {
     "20260627": {
       "date": "Saturday, 27/06",
       "games": [
         {
           "league": "Tennis",
-          "match": "Mallorca Championship",
-          "kick_utc": 1782565200,
-          "time": "27/06 08:00 PM",
+          "match": "Tatjana Maria vs Madison Keys",
+          "kick_utc": 1782644400,
+          "time": "28/06 06:00 PM",
           "tv_channels": [
             {
-              "country": "LiveSportsOnTV",
+              "country": "Ausport",
               "channels": [
-                "Tennis Channel"
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
-          "source": "livesportsontv"
+          "source": "ausport"
         },
         {
           "league": "Tennis",
-          "match": "Rothesay International Eastbourne",
-          "kick_utc": 1782567000,
-          "time": "27/06 08:30 PM",
+          "match": "Karolina Muchova vs Naomi Osaka",
+          "kick_utc": 1782646200,
+          "time": "28/06 06:30 PM",
           "tv_channels": [
             {
-              "country": "LiveSportsOnTV",
+              "country": "Ausport",
               "channels": [
-                "Tennis Channel",
-                "TVA Sports"
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
               ]
             }
           ],
-          "source": "livesportsontv"
+          "source": "ausport"
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782565200,
-          "time": "27/06 08:00 PM",
+          "match": "Ethan Quinn vs Alejandro Davidovich Fokina",
+          "kick_utc": 1782651600,
+          "time": "28/06 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -53,9 +54,9 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782567000,
-          "time": "27/06 08:30 PM",
+          "match": "Zizou Bergs vs Ugo Humbert",
+          "kick_utc": 1782653400,
+          "time": "28/06 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
