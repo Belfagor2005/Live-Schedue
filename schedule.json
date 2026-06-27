@@ -1,41 +1,9 @@
 {
-  "updated": "2026-06-27 15:42 VN",
+  "updated": "2026-06-27 20:53 VN",
   "days": {
     "20260627": {
       "date": "Saturday, 27/06",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Eastbourne Open",
-          "kick_utc": 1782558000,
-          "time": "27/06 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Bad Homburg Open",
-          "kick_utc": 1782559800,
-          "time": "27/06 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel",
-                "TVA Sports",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Mallorca Championship",
@@ -66,38 +34,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782558000,
-          "time": "27/06 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1782559800,
-          "time": "27/06 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
         },
         {
           "league": "Tennis",
