@@ -1,9 +1,26 @@
 {
-  "updated": "2026-06-28 20:59 VN",
+  "updated": "2026-06-29 02:37 VN",
   "days": {
     "20260628": {
       "date": "Sunday, 28/06",
-      "games": []
+      "games": [
+        {
+          "league": "Tennis",
+          "match": "Zizou Bergs vs Ugo Humbert",
+          "kick_utc": 1782727200,
+          "time": "29/06 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        }
+      ]
     }
   }
 }
