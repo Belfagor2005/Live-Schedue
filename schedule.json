@@ -1,74 +1,9 @@
 {
-  "updated": "2026-06-28 11:18 VN",
+  "updated": "2026-06-28 16:18 VN",
   "days": {
     "20260628": {
       "date": "Sunday, 28/06",
-      "games": [
-        {
-          "league": "Tennis",
-          "match": "Tatjana Maria vs Madison Keys",
-          "kick_utc": 1782644400,
-          "time": "28/06 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Karolina Muchova vs Naomi Osaka",
-          "kick_utc": 1782646200,
-          "time": "28/06 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Ethan Quinn vs Alejandro Davidovich Fokina",
-          "kick_utc": 1782651600,
-          "time": "28/06 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Zizou Bergs vs Ugo Humbert",
-          "kick_utc": 1782653400,
-          "time": "28/06 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        }
-      ]
+      "games": []
     }
   }
 }
