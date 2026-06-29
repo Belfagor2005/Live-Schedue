@@ -1,10 +1,19 @@
 [
   {
+    "competition": "World Cup 2026",
+    "home": "South Africa",
+    "away": "Canada",
+    "vietnam_time": "02:00",
+    "vietnam_date": "30/06/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
     "competition": "ATP Wimbledon",
     "home": "Aleksandar Vukic",
     "away": "Jenson Brooksby",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Channel 9 Melbourne | 9Gem",
     "sport": "Tennis"
   },
@@ -13,7 +22,7 @@
     "home": "Rafael Jodar",
     "away": "Felix Gill",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -22,7 +31,7 @@
     "home": "Emilio Nava",
     "away": "Ignacio Buse",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -31,7 +40,7 @@
     "home": "Marco Trungelliti",
     "away": "Martin Damm",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -40,7 +49,7 @@
     "home": "Dalibor Svrcina",
     "away": "Learner Tien",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -49,7 +58,7 @@
     "home": "Andrey Rublev",
     "away": "Roman Safiullin",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -58,7 +67,7 @@
     "home": "Denis Shapovalov",
     "away": "Pablo Carreno-Busta",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -67,7 +76,7 @@
     "home": "Shintaro Mochizuki",
     "away": "Max Basing",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -76,7 +85,7 @@
     "home": "Luca van Assche",
     "away": "Marton Fucsovics",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -85,7 +94,7 @@
     "home": "Aleksandar Kovacevic",
     "away": "Botic Van De Zandschulp",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -94,7 +103,7 @@
     "home": "Jessica Pegula",
     "away": "Darja Vidmanova",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -103,7 +112,7 @@
     "home": "Belinda Bencic",
     "away": "Mika Stojsavljevic",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -112,7 +121,7 @@
     "home": "Mananchaya Sawangkaew",
     "away": "Maja Chwalinska",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -121,7 +130,7 @@
     "home": "Sara Sorribes Tormo",
     "away": "Victoria Jimenez Kasintseva",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -130,7 +139,7 @@
     "home": "Jaqueline Adina Cristian",
     "away": "Iva Jovic",
     "vietnam_time": "17:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -139,8 +148,8 @@
     "home": "Alexandre Muller",
     "away": "Tommy Paul",
     "vietnam_time": "18:30",
-    "vietnam_date": "29/06/2026",
-    "channels": "Channel 9 Sydney | Channel 9 Brisbane",
+    "vietnam_date": "30/06/2026",
+    "channels": "Channel 9 Sydney | Stan Sport",
     "sport": "Tennis"
   },
   {
@@ -148,7 +157,7 @@
     "home": "Michael Zheng",
     "away": "Cameron Norrie",
     "vietnam_time": "18:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -157,7 +166,7 @@
     "home": "Arthur Rinderknech",
     "away": "Oliver Tarvet",
     "vietnam_time": "18:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -166,7 +175,7 @@
     "home": "Ann Li",
     "away": "Zeynep Sonmez",
     "vietnam_time": "18:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -175,7 +184,7 @@
     "home": "Xinyu Wang",
     "away": "Elisabaetta Cocciaretto",
     "vietnam_time": "18:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -184,7 +193,7 @@
     "home": "Casper Ruud",
     "away": "Hubert Hurkacz",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -193,7 +202,7 @@
     "home": "Woo Kwon Soon",
     "away": "Martin Landaluce",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -202,7 +211,7 @@
     "home": "Hugo Gaston",
     "away": "Stefanos Tsitsipas",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -211,7 +220,7 @@
     "home": "Camilo Ugo Carabelli",
     "away": "Daniel Merida Aguilar",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -220,7 +229,7 @@
     "home": "Nuno Borges",
     "away": "Tristan Boyer",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -229,7 +238,7 @@
     "home": "Hamad Medjedovic",
     "away": "Sebastian Ofner",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -238,7 +247,7 @@
     "home": "Antonia Ruzic",
     "away": "Emma Raducanu",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -247,7 +256,7 @@
     "home": "Alycia Parks",
     "away": "Alicia Dudeney",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -256,7 +265,7 @@
     "home": "Yulia Putintseva",
     "away": "Tatjana Maria",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -265,7 +274,7 @@
     "home": "Jelena Ostapenko",
     "away": "Harriet Dart",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -274,7 +283,7 @@
     "home": "Bianca Vanessa Andreescu",
     "away": "Shuai Zhang",
     "vietnam_time": "19:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -283,8 +292,8 @@
     "home": "Jannik Sinner",
     "away": "Miomir Kecmanovic",
     "vietnam_time": "19:30",
-    "vietnam_date": "29/06/2026",
-    "channels": "Channel 9 Perth",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport | Channel 9 Perth",
     "sport": "Tennis"
   },
   {
@@ -292,8 +301,8 @@
     "home": "Adam Walton",
     "away": "Dino Prizmic",
     "vietnam_time": "20:00",
-    "vietnam_date": "29/06/2026",
-    "channels": "Channel 9 Adelaide | Channel 9 Darwin",
+    "vietnam_date": "30/06/2026",
+    "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
   },
   {
@@ -301,7 +310,7 @@
     "home": "Ethan Quinn",
     "away": "Luciano Darderi",
     "vietnam_time": "20:00",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -310,7 +319,7 @@
     "home": "Felix Auger-Aliassime",
     "away": "Alexander Shevchenko",
     "vietnam_time": "20:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -319,7 +328,7 @@
     "home": "Marin Cilic",
     "away": "Daniil Medvedev",
     "vietnam_time": "20:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -328,7 +337,7 @@
     "home": "Alejandro Davidovich Fokina",
     "away": "Juan Manuel Cerundolo",
     "vietnam_time": "20:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -337,7 +346,7 @@
     "home": "Roberto Bautista-Agut",
     "away": "Joao Fonseca",
     "vietnam_time": "20:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -346,7 +355,7 @@
     "home": "Jan-Lennard Struff",
     "away": "Sebastian Baez",
     "vietnam_time": "20:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -355,7 +364,7 @@
     "home": "Thiago Augustin Tirante",
     "away": "Fabian Marozsan",
     "vietnam_time": "20:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -364,7 +373,7 @@
     "home": "Adolfo Daniel Vallejo",
     "away": "Nicolas Mejia",
     "vietnam_time": "20:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
     "sport": "Tennis"
   },
@@ -373,8 +382,179 @@
     "home": "Karolina Muchova",
     "away": "Anastasia Zakharova",
     "vietnam_time": "20:30",
-    "vietnam_date": "29/06/2026",
+    "vietnam_date": "30/06/2026",
     "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Magdalena Frech",
+    "away": "Anna Kalinskaya",
+    "vietnam_time": "22:00",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Tamara Korpatsch",
+    "away": "Cori Gauff",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Barbora Krejcikova",
+    "away": "Hannah Klugman",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Magda Linette",
+    "away": "Mirra Andreeva",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Dayana Yastremska",
+    "away": "Aoi Ito",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Jessica Bouzas Maneiro",
+    "away": "Anastasia Potapova",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Solana Sierra",
+    "away": "Anna Bondar",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Anastasia Gasanova",
+    "away": "Emiliana Arango",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Francesca Jones",
+    "away": "Diane Parry",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Ekaterina Alexandrova",
+    "away": "Panna Udvardy",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Leylah Annie Fernandez",
+    "away": "Janice Tjen",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Katerina Siniakova",
+    "away": "Qinwen Zheng",
+    "vietnam_time": "22:30",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Wimbledon",
+    "home": "Yibing Wu",
+    "away": "Novak Djokovic",
+    "vietnam_time": "23:00",
+    "vietnam_date": "30/06/2026",
+    "channels": "Stan Sport | Channel 9 Perth",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Brazil",
+    "away": "Japan",
+    "vietnam_time": "00:00",
+    "vietnam_date": "01/07/2026",
+    "channels": "SBS Viceland | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Germany",
+    "away": "Paraguay",
+    "vietnam_time": "03:30",
+    "vietnam_date": "01/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Netherlands",
+    "away": "Morocco",
+    "vietnam_time": "08:00",
+    "vietnam_date": "01/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "ATP Wimbledon",
+    "home": "",
+    "away": "",
+    "vietnam_time": "17:30",
+    "vietnam_date": "01/07/2026",
+    "channels": "Channel 9 Sydney | Channel 9 Melbourne",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Wimbledon",
+    "home": "",
+    "away": "",
+    "vietnam_time": "21:00",
+    "vietnam_date": "01/07/2026",
+    "channels": "Channel 9 Sydney | Channel 9 Melbourne",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Wimbledon",
+    "home": "Stan Wawrinka",
+    "away": "Matteo Berrettini",
+    "vietnam_time": "22:30",
+    "vietnam_date": "01/07/2026",
+    "channels": "Channel 9 Perth",
     "sport": "Tennis"
   }
 ]
