@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30 16:49 VN",
+  "updated": "2026-06-30 18:54 VN",
   "days": {
     "20260630": {
       "date": "Tuesday, 30/06",
@@ -829,6 +829,22 @@
               "channels": [
                 "Stan Sport",
                 "Channel 9 Perth"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1782901800,
+          "time": "01/07 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Channel 9 Sydney",
+                "Channel 9 Melbourne"
               ]
             }
           ],
