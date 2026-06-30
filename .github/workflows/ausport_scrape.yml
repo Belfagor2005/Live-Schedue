@@ -35,5 +35,15 @@ jobs:
           git config user.email "github-actions@github.com"
           git add ausport_schedule.json
           git status
-          git commit -m "Update ausport_schedule.json" || echo "No changes to commit"
-          git push
+
+          # Prova a creare il commit; se non ci sono modifiche, esce con 0 e salta il resto
+          if git commit -m "Update ausport_schedule.json"; then
+            # Ottieni il nome del ramo corrente
+            BRANCH=$(git rev-parse --abbrev-ref HEAD)
+            # Scarica le modifiche remote e riapplica il tuo commit in cima
+            git pull --rebase origin "$BRANCH"
+            # Ora puoi fare push senza conflitti (a meno di conflitti durante il rebase)
+            git push origin "$BRANCH"
+          else
+            echo "No changes to commit, skipping push"
+          fi
