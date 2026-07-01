@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01 16:58 VN",
+  "updated": "2026-07-01 21:47 VN",
   "days": {
     "20260701": {
       "date": "Wednesday, 01/07",
@@ -7,8 +7,8 @@
         {
           "league": "Tennis",
           "match": "",
-          "kick_utc": 1782900000,
-          "time": "01/07 05:00 PM",
+          "kick_utc": 1782914400,
+          "time": "01/07 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -23,8 +23,24 @@
         {
           "league": "Tennis",
           "match": "",
-          "kick_utc": 1782914400,
-          "time": "01/07 09:00 PM",
+          "kick_utc": 1782986400,
+          "time": "02/07 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Channel 9 Melbourne",
+                "9Gem"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1783000800,
+          "time": "02/07 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
