@@ -1,416 +1,11 @@
 [
   {
-    "competition": "World Cup 2026",
-    "home": "Germany",
-    "away": "Paraguay",
-    "vietnam_time": "03:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Netherlands",
-    "away": "Morocco",
-    "vietnam_time": "08:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Adrian Mannarino",
-    "away": "Titouan Droguet",
-    "vietnam_time": "17:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Yannick Hanfmann",
-    "away": "Giovanni Mpetshi Perricard",
-    "vietnam_time": "17:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Sho Shimabukuro",
-    "away": "Jaime Faria",
-    "vietnam_time": "17:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Valentin Royer",
-    "away": "Harry Wendelken",
-    "vietnam_time": "17:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Anhelina Kalinina",
-    "away": "Kamilla Rakhimova",
-    "vietnam_time": "17:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Maria Sakkari",
-    "away": "Clara Tauson",
-    "vietnam_time": "17:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Irina Begu",
-    "away": "Katie Swan",
-    "vietnam_time": "17:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Talia Gibson",
-    "away": "Marie Bouzkova",
-    "vietnam_time": "17:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Kamil Majchrzak",
-    "away": "Alejandro Tabilo",
-    "vietnam_time": "17:10",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Amanda Anisimova",
-    "away": "Lina Gjorcheska",
-    "vietnam_time": "17:10",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Katie Boulter",
-    "away": "Tyra Caterina Grant",
-    "vietnam_time": "17:10",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Jasmine Paolini",
-    "away": "Robin Montgomery",
-    "vietnam_time": "17:10",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Tereza Valentova",
-    "away": "Karolina Pliskova",
-    "vietnam_time": "17:10",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Petra Marcinko",
-    "away": "Sofia Kenin",
-    "vietnam_time": "17:10",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
     "competition": "ATP Wimbledon",
     "home": "",
     "away": "",
-    "vietnam_time": "17:33",
+    "vietnam_time": "17:00",
     "vietnam_date": "01/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Otto Virtanen",
-    "away": "Ben Shelton",
-    "vietnam_time": "18:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Alex De Minaur",
-    "away": "Roman Andres Burruchaga",
-    "vietnam_time": "18:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Channel 9 Sydney | Channel 9 Melbourne",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Thanasi Kokkinakis",
-    "away": "Alexander Bublik",
-    "vietnam_time": "18:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Matteo Arnaldi",
-    "away": "Quentin Halys",
-    "vietnam_time": "18:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Kyrian Jacquet",
-    "away": "Vilius Gaubas",
-    "vietnam_time": "18:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Alex Michelsen",
-    "away": "Jacob Fearnley",
-    "vietnam_time": "18:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Damir Dzumhur",
-    "away": "Arthur Fery",
-    "vietnam_time": "18:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Pablo Llamas Ruiz",
-    "away": "Zachary Svajda",
-    "vietnam_time": "18:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Ugo Humbert",
-    "away": "Zizou Bergs",
-    "vietnam_time": "18:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Benjamin Bonzi",
-    "away": "Gabriel Diallo",
-    "vietnam_time": "19:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Jaume Munar",
-    "away": "Francisco Cerundolo",
-    "vietnam_time": "19:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Alexander Blockx",
-    "away": "Alexander Zverev",
-    "vietnam_time": "19:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport | Channel 9 Perth",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Iryna Shymanovich",
-    "away": "Viktorija Golubic",
-    "vietnam_time": "19:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Kimberly Birrell",
-    "away": "Korneeva A.",
-    "vietnam_time": "19:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Beatriz Haddad Maia",
-    "away": "Maria Timofeeva",
-    "vietnam_time": "19:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Karen Khachanov",
-    "away": "Billy Harris",
-    "vietnam_time": "19:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Taylor Townsend",
-    "away": "Iga Swiatek",
-    "vietnam_time": "19:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Jakub Mensik",
-    "away": "Toby Samuel",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Lorenzo Sonego",
-    "away": "Tomas Martin Etcheverry",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Corentin Moutet",
-    "away": "David Giron",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Raphael Collignon",
-    "away": "Arthur Fils",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Patrick Kypson",
-    "away": "Mackenzie McDonald",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Elina Svitolina",
-    "away": "Daria Snigur",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Alexandra Eala",
-    "away": "Renata Zarazua",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Yulia Starodubtseva",
-    "away": "Anna Blinkova",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Oksana Selekhmeteva",
-    "away": "Sinja Kraus",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Veronika Erjavec",
-    "away": "Leolia Jeanjean",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Emma Navarro",
-    "away": "Paula Badosa Gibert",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Sorana-Mihaela Cirstea",
-    "away": "Sara Bejlek",
-    "vietnam_time": "20:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
     "sport": "Tennis"
   },
   {
@@ -423,190 +18,28 @@
     "sport": "Tennis"
   },
   {
-    "competition": "WTA Wimbledon",
-    "home": "Lois Boisson",
-    "away": "Elena Rybakina",
-    "vietnam_time": "21:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Elena Gabriela Ruse",
-    "away": "Caty McNally",
-    "vietnam_time": "21:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Elise Mertens",
-    "away": "Laura Siegemund",
-    "vietnam_time": "21:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Mariano Navone",
-    "away": "Flavio Cobolli",
-    "vietnam_time": "22:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Tallon Griekspoor",
-    "away": "James Duckworth",
-    "vietnam_time": "22:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Frances Tiafoe",
-    "away": "Terence Atmane",
-    "vietnam_time": "22:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Alex Molcan",
-    "away": "Daniel Altmaier",
-    "vietnam_time": "22:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Vit Kopriva",
-    "away": "Jan Choinski",
-    "vietnam_time": "22:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Jiri Lehecka",
-    "away": "Alexei Popyrin",
-    "vietnam_time": "22:00",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Stan Wawrinka",
-    "away": "Matteo Berrettini",
-    "vietnam_time": "22:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport | Channel 9 Perth",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Maria Camila Osorio Serrano",
-    "away": "Simona Waltert",
-    "vietnam_time": "22:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Diana Shnaider",
-    "away": "Eva Lys",
-    "vietnam_time": "22:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Polina Kudermetova",
-    "away": "Liudmila Samsonova",
-    "vietnam_time": "22:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Ajla Tomljanovic",
-    "away": "Mariam Bolkvadze",
-    "vietnam_time": "22:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Nadia Podoroska",
-    "away": "Marta Kostyuk",
-    "vietnam_time": "22:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Ashlyn Krueger",
-    "away": "Donna Vekic",
-    "vietnam_time": "22:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Serena Williams",
-    "away": "Maya Joint",
+    "competition": "World Cup 2026",
+    "home": "England",
+    "away": "D.R. Congo",
     "vietnam_time": "23:00",
     "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Ella Seidel",
-    "away": "Linda Noskova",
-    "vietnam_time": "23:30",
-    "vietnam_date": "01/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
   },
   {
     "competition": "World Cup 2026",
-    "home": "Ivory Coast",
-    "away": "Norway",
-    "vietnam_time": "00:00",
+    "home": "Belgium",
+    "away": "Senegal",
+    "vietnam_time": "03:00",
     "vietnam_date": "02/07/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
   {
     "competition": "World Cup 2026",
-    "home": "France",
-    "away": "Sweden",
-    "vietnam_time": "04:00",
-    "vietnam_date": "02/07/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Mexico",
-    "away": "Ecuador",
-    "vietnam_time": "08:00",
+    "home": "USA",
+    "away": "Bosnia & Herzegovina",
+    "vietnam_time": "07:00",
     "vietnam_date": "02/07/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
@@ -617,7 +50,7 @@
     "away": "",
     "vietnam_time": "17:00",
     "vietnam_date": "02/07/2026",
-    "channels": "Channel 9 Sydney | Channel 9 Melbourne",
+    "channels": "Channel 9 Melbourne | 9Gem",
     "sport": "Tennis"
   },
   {
@@ -628,5 +61,32 @@
     "vietnam_date": "02/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Spain",
+    "away": "Austria",
+    "vietnam_time": "02:00",
+    "vietnam_date": "03/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Portugal",
+    "away": "Croatia",
+    "vietnam_time": "06:00",
+    "vietnam_date": "03/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Switzerland",
+    "away": "Algeria",
+    "vietnam_time": "10:00",
+    "vietnam_date": "03/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
   }
 ]
