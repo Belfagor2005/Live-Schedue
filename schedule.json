@@ -1,20 +1,20 @@
 {
-  "updated": "2026-07-03 21:20 VN",
+  "updated": "2026-07-04 02:36 VN",
   "days": {
     "20260703": {
       "date": "Friday, 03/07",
       "games": [
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1783087200,
-          "time": "03/07 09:00 PM",
+          "match": "Roman Safiullin vs Joao Fonseca",
+          "kick_utc": 1783159200,
+          "time": "04/07 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "Channel 9 Sydney",
-                "Channel 9 Melbourne"
+                "Channel 9 Melbourne",
+                "9Gem"
               ]
             }
           ],
@@ -22,14 +22,13 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Belinda Bencic vs Anna Kalinskaya",
           "kick_utc": 1783159200,
           "time": "04/07 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "9Gem",
                 "Stan Sport"
               ]
             }
@@ -38,7 +37,83 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Jan-Lennard Struff vs Daniil Medvedev",
+          "kick_utc": 1783164600,
+          "time": "04/07 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport",
+                "Channel 9 Perth"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Rafael Jodar vs Shintaro Mochizuki",
+          "kick_utc": 1783164600,
+          "time": "04/07 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Ekaterina Alexandrova vs Iva Jovic",
+          "kick_utc": 1783164600,
+          "time": "04/07 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Daria Kasatkina vs Naomi Osaka",
+          "kick_utc": 1783166400,
+          "time": "04/07 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jessica Pegula vs Jessica Bouzas Maneiro",
+          "kick_utc": 1783166400,
+          "time": "04/07 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Arthur Rinderknech vs Novak Djokovic",
           "kick_utc": 1783168200,
           "time": "04/07 07:30 PM",
           "tv_channels": [
@@ -46,7 +121,84 @@
               "country": "Ausport",
               "channels": [
                 "Channel 9 Sydney",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Alejandro Davidovich Fokina vs Marton Fucsovics",
+          "kick_utc": 1783170000,
+          "time": "04/07 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jannik Sinner vs Jenson Brooksby",
+          "kick_utc": 1783171800,
+          "time": "04/07 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Channel 9 Sydney",
                 "Channel 9 Melbourne"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Hubert Hurkacz vs Tommy Paul",
+          "kick_utc": 1783171800,
+          "time": "04/07 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport",
+                "Channel 9 Darwin"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Karolina Muchova vs Mananchaya Sawangkaew",
+          "kick_utc": 1783171800,
+          "time": "04/07 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Nikola Bartunkova vs Barbora Krejcikova",
+          "kick_utc": 1783171800,
+          "time": "04/07 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
               ]
             }
           ],
