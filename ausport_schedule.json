@@ -1,137 +1,65 @@
 [
   {
     "competition": "World Cup 2026",
-    "home": "Portugal",
-    "away": "Croatia",
-    "vietnam_time": "06:00",
-    "vietnam_date": "04/07/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
+    "home": "Canada",
+    "away": "Morocco",
+    "vietnam_time": "00:00",
+    "vietnam_date": "05/07/2026",
+    "channels": "SBS On Demand",
     "sport": "Soccer"
   },
   {
     "competition": "World Cup 2026",
-    "home": "Switzerland",
-    "away": "Algeria",
-    "vietnam_time": "10:00",
-    "vietnam_date": "04/07/2026",
+    "home": "Paraguay",
+    "away": "France",
+    "vietnam_time": "04:00",
+    "vietnam_date": "05/07/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
   {
     "competition": "ATP Wimbledon",
-    "home": "Roman Safiullin",
-    "away": "Joao Fonseca",
+    "home": "",
+    "away": "",
     "vietnam_time": "17:00",
-    "vietnam_date": "04/07/2026",
-    "channels": "Channel 9 Melbourne | 9Gem",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Belinda Bencic",
-    "away": "Anna Kalinskaya",
-    "vietnam_time": "17:00",
-    "vietnam_date": "04/07/2026",
-    "channels": "Stan Sport",
+    "vietnam_date": "05/07/2026",
+    "channels": "9Gem | Stan Sport",
     "sport": "Tennis"
   },
   {
     "competition": "ATP Wimbledon",
-    "home": "Jan-Lennard Struff",
-    "away": "Daniil Medvedev",
-    "vietnam_time": "18:30",
-    "vietnam_date": "04/07/2026",
-    "channels": "Stan Sport | Channel 9 Perth",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Rafael Jodar",
-    "away": "Shintaro Mochizuki",
-    "vietnam_time": "18:30",
-    "vietnam_date": "04/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Ekaterina Alexandrova",
-    "away": "Iva Jovic",
-    "vietnam_time": "18:30",
-    "vietnam_date": "04/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Daria Kasatkina",
-    "away": "Naomi Osaka",
-    "vietnam_time": "19:00",
-    "vietnam_date": "04/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "WTA Wimbledon",
-    "home": "Jessica Pegula",
-    "away": "Jessica Bouzas Maneiro",
-    "vietnam_time": "19:00",
-    "vietnam_date": "04/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Arthur Rinderknech",
-    "away": "Novak Djokovic",
-    "vietnam_time": "19:30",
-    "vietnam_date": "04/07/2026",
-    "channels": "Channel 9 Sydney | Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Alejandro Davidovich Fokina",
-    "away": "Marton Fucsovics",
-    "vietnam_time": "20:00",
-    "vietnam_date": "04/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "Jannik Sinner",
-    "away": "Jenson Brooksby",
-    "vietnam_time": "20:30",
-    "vietnam_date": "04/07/2026",
+    "home": "",
+    "away": "",
+    "vietnam_time": "19:50",
+    "vietnam_date": "05/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
   },
   {
     "competition": "ATP Wimbledon",
-    "home": "Hubert Hurkacz",
-    "away": "Tommy Paul",
-    "vietnam_time": "20:30",
-    "vietnam_date": "04/07/2026",
-    "channels": "Stan Sport | Channel 9 Darwin",
+    "home": "",
+    "away": "",
+    "vietnam_time": "21:00",
+    "vietnam_date": "05/07/2026",
+    "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
   },
   {
-    "competition": "WTA Wimbledon",
-    "home": "Karolina Muchova",
-    "away": "Mananchaya Sawangkaew",
-    "vietnam_time": "20:30",
-    "vietnam_date": "04/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
+    "competition": "World Cup 2026",
+    "home": "Brazil",
+    "away": "Norway",
+    "vietnam_time": "03:00",
+    "vietnam_date": "06/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
   },
   {
-    "competition": "WTA Wimbledon",
-    "home": "Nikola Bartunkova",
-    "away": "Barbora Krejcikova",
-    "vietnam_time": "20:30",
-    "vietnam_date": "04/07/2026",
-    "channels": "Stan Sport",
-    "sport": "Tennis"
+    "competition": "World Cup 2026",
+    "home": "Mexico",
+    "away": "England",
+    "vietnam_time": "07:00",
+    "vietnam_date": "06/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
   }
 ]
