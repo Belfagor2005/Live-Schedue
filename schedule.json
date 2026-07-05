@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05 16:12 VN",
+  "updated": "2026-07-05 20:50 VN",
   "days": {
     "20260705": {
       "date": "Sunday, 05/07",
@@ -62,6 +62,38 @@
               "country": "Ausport",
               "channels": [
                 "Channel 9 Perth"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1783332000,
+          "time": "06/07 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "9Gem",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1783339800,
+          "time": "06/07 07:10 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Channel 9 Sydney",
+                "Channel 9 Melbourne"
               ]
             }
           ],
