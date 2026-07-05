@@ -1,32 +1,5 @@
 [
   {
-    "competition": "World Cup 2026",
-    "home": "Canada",
-    "away": "Morocco",
-    "vietnam_time": "00:00",
-    "vietnam_date": "05/07/2026",
-    "channels": "SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Paraguay",
-    "away": "France",
-    "vietnam_time": "04:00",
-    "vietnam_date": "05/07/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "ATP Wimbledon",
-    "home": "",
-    "away": "",
-    "vietnam_time": "17:00",
-    "vietnam_date": "05/07/2026",
-    "channels": "9Gem | Stan Sport",
-    "sport": "Tennis"
-  },
-  {
     "competition": "ATP Wimbledon",
     "home": "",
     "away": "",
@@ -37,11 +10,29 @@
   },
   {
     "competition": "ATP Wimbledon",
-    "home": "",
-    "away": "",
-    "vietnam_time": "21:00",
+    "home": "Hubert Hurkacz",
+    "away": "Jan-Lennard Struff",
+    "vietnam_time": "20:00",
+    "vietnam_date": "05/07/2026",
+    "channels": "9Gem | Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Wimbledon",
+    "home": "Felix Auger-Aliassime",
+    "away": "Alejandro Davidovich Fokina",
+    "vietnam_time": "20:30",
     "vietnam_date": "05/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Wimbledon",
+    "home": "Jannik Sinner",
+    "away": "Shintaro Mochizuki",
+    "vietnam_time": "23:00",
+    "vietnam_date": "05/07/2026",
+    "channels": "Channel 9 Perth",
     "sport": "Tennis"
   },
   {
@@ -70,5 +61,32 @@
     "vietnam_date": "06/07/2026",
     "channels": "9Gem | Stan Sport",
     "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Wimbledon",
+    "home": "",
+    "away": "",
+    "vietnam_time": "19:10",
+    "vietnam_date": "06/07/2026",
+    "channels": "Channel 9 Sydney | Channel 9 Melbourne",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Portugal",
+    "away": "Spain",
+    "vietnam_time": "02:00",
+    "vietnam_date": "07/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "USA",
+    "away": "Belgium",
+    "vietnam_time": "07:00",
+    "vietnam_date": "07/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
   }
 ]
