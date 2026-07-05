@@ -1,14 +1,60 @@
 {
-  "updated": "2026-07-05 20:50 VN",
+  "updated": "2026-07-06 02:25 VN",
   "days": {
     "20260705": {
       "date": "Sunday, 05/07",
       "games": [
         {
           "league": "Tennis",
+          "match": "Karolina Muchova vs Barbora Krejcikova",
+          "kick_utc": 1783337400,
+          "time": "06/07 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
           "match": "",
-          "kick_utc": 1783255800,
-          "time": "05/07 07:50 PM",
+          "kick_utc": 1783338000,
+          "time": "06/07 06:40 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Channel 9 Sydney",
+                "Channel 9 Melbourne"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jessica Pegula vs Iva Jovic",
+          "kick_utc": 1783339200,
+          "time": "06/07 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Roman Safiullin vs Novak Djokovic",
+          "kick_utc": 1783341000,
+          "time": "06/07 07:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -23,13 +69,12 @@
         {
           "league": "Tennis",
           "match": "Hubert Hurkacz vs Jan-Lennard Struff",
-          "kick_utc": 1783256400,
-          "time": "05/07 08:00 PM",
+          "kick_utc": 1783342800,
+          "time": "06/07 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "9Gem",
                 "Stan Sport"
               ]
             }
@@ -39,55 +84,8 @@
         {
           "league": "Tennis",
           "match": "Felix Auger-Aliassime vs Alejandro Davidovich Fokina",
-          "kick_utc": 1783258200,
-          "time": "05/07 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Channel 9 Sydney",
-                "Channel 9 Melbourne"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jannik Sinner vs Shintaro Mochizuki",
-          "kick_utc": 1783267200,
-          "time": "05/07 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Channel 9 Perth"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1783332000,
-          "time": "06/07 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1783339800,
-          "time": "06/07 07:10 PM",
+          "kick_utc": 1783344600,
+          "time": "06/07 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
