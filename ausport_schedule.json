@@ -1,11 +1,38 @@
 [
   {
-    "competition": "ATP Wimbledon",
-    "home": "",
-    "away": "",
+    "competition": "World Cup 2026",
+    "home": "Brazil",
+    "away": "Norway",
+    "vietnam_time": "03:00",
+    "vietnam_date": "07/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "World Cup 2026",
+    "home": "Mexico",
+    "away": "England",
+    "vietnam_time": "08:00",
+    "vietnam_date": "07/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Ashlyn Krueger",
+    "away": "Marta Kostyuk",
     "vietnam_time": "17:00",
-    "vietnam_date": "06/07/2026",
-    "channels": "9Gem",
+    "vietnam_date": "07/07/2026",
+    "channels": "9Gem | Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Marie Bouzkova",
+    "away": "Elise Mertens",
+    "vietnam_time": "18:30",
+    "vietnam_date": "07/07/2026",
+    "channels": "Stan Sport",
     "sport": "Tennis"
   },
   {
@@ -13,17 +40,35 @@
     "home": "Alex De Minaur",
     "away": "Flavio Cobolli",
     "vietnam_time": "19:00",
-    "vietnam_date": "06/07/2026",
+    "vietnam_date": "07/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
   },
   {
+    "competition": "WTA Wimbledon",
+    "home": "Jasmine Paolini",
+    "away": "Alexandra Eala",
+    "vietnam_time": "19:30",
+    "vietnam_date": "07/07/2026",
+    "channels": "Stan Sport",
+    "sport": "Tennis"
+  },
+  {
     "competition": "ATP Wimbledon",
-    "home": "Grigor Dimitrov",
-    "away": "Arthur Fery",
-    "vietnam_time": "21:00",
-    "vietnam_date": "06/07/2026",
-    "channels": "",
+    "home": "Taylor Harry Fritz",
+    "away": "Alexander Bublik",
+    "vietnam_time": "22:30",
+    "vietnam_date": "07/07/2026",
+    "channels": "Stan Sport | Channel 9 Perth",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Wimbledon",
+    "home": "Jiri Lehecka",
+    "away": "Alexander Zverev",
+    "vietnam_time": "23:00",
+    "vietnam_date": "07/07/2026",
+    "channels": "Stan Sport",
     "sport": "Tennis"
   },
   {
@@ -31,7 +76,7 @@
     "home": "Portugal",
     "away": "Spain",
     "vietnam_time": "02:00",
-    "vietnam_date": "07/07/2026",
+    "vietnam_date": "08/07/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -40,7 +85,7 @@
     "home": "USA",
     "away": "Belgium",
     "vietnam_time": "07:00",
-    "vietnam_date": "07/07/2026",
+    "vietnam_date": "08/07/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -49,7 +94,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "19:00",
-    "vietnam_date": "07/07/2026",
+    "vietnam_date": "08/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
   },
@@ -58,26 +103,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "21:00",
-    "vietnam_date": "07/07/2026",
+    "vietnam_date": "08/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Argentina",
-    "away": "Egypt",
-    "vietnam_time": "23:00",
-    "vietnam_date": "07/07/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Switzerland",
-    "away": "Colombia",
-    "vietnam_time": "03:00",
-    "vietnam_date": "08/07/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
   }
 ]
