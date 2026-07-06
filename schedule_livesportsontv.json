@@ -1,1 +1,40 @@
-[]
+[
+    {
+        "Date": "2026-07-07",
+        "Time": "23:00",
+        "League": "UEFA Champions League",
+        "Matchup": "Riga @ Ararat-Armenia",
+        "Services": [
+            "ESPN Select",
+            "ESPN Unlimited"
+        ]
+    },
+    {
+        "Date": "2026-07-07",
+        "Time": "23:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Ararat-Armenia vs FC Riga",
+        "Services": [
+            "Sporta Centrs TV",
+            "TV4 Latvija"
+        ]
+    },
+    {
+        "Date": "2026-07-07",
+        "Time": "23:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Sabah vs The New Saints",
+        "Services": [
+            "CBC Sport HD"
+        ]
+    },
+    {
+        "Date": "2026-07-08",
+        "Time": "00:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Vardar Skopje vs KuPS Kuopio",
+        "Services": [
+            "Arena Sport 1 Srbija HD"
+        ]
+    }
+]
