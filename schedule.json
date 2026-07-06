@@ -1,12 +1,105 @@
 {
-  "updated": "2026-07-06 22:44 VN",
+  "updated": "2026-07-07 03:04 VN",
   "days": {
     "20260706": {
       "date": "Monday, 06/07",
       "games": [
         {
+          "league": "UEFA Champions League",
+          "match": "Riga vs Ararat-Armenia",
+          "kick_utc": 1783440000,
+          "time": "07/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Ararat-Armenia vs FC Riga",
+          "kick_utc": 1783440000,
+          "time": "07/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Sporta Centrs TV",
+                "TV4 Latvija"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Sabah vs The New Saints",
+          "kick_utc": 1783440000,
+          "time": "07/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "CBC Sport HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Vardar Skopje vs KuPS Kuopio",
+          "kick_utc": 1783443600,
+          "time": "08/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Sport 1 Srbija HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
           "league": "Tennis",
-          "match": "",
+          "match": "Ashlyn Krueger vs Marta Kostyuk",
+          "kick_utc": 1783418400,
+          "time": "07/07 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "9Gem",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Marie Bouzkova vs Elise Mertens",
+          "kick_utc": 1783423800,
+          "time": "07/07 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Alex De Minaur vs Flavio Cobolli",
           "kick_utc": 1783425600,
           "time": "07/07 07:00 PM",
           "tv_channels": [
@@ -22,15 +115,45 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1783432800,
-          "time": "07/07 09:00 PM",
+          "match": "Jasmine Paolini vs Alexandra Eala",
+          "kick_utc": 1783427400,
+          "time": "07/07 07:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "Channel 9 Sydney",
-                "Channel 9 Melbourne"
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Taylor Harry Fritz vs Alexander Bublik",
+          "kick_utc": 1783438200,
+          "time": "07/07 10:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport",
+                "Channel 9 Perth"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Jiri Lehecka vs Alexander Zverev",
+          "kick_utc": 1783440000,
+          "time": "07/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
               ]
             }
           ],
