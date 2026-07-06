@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06 17:47 VN",
+  "updated": "2026-07-06 22:44 VN",
   "days": {
     "20260706": {
       "date": "Monday, 06/07",
@@ -7,13 +7,14 @@
         {
           "league": "Tennis",
           "match": "",
-          "kick_utc": 1783332000,
-          "time": "06/07 05:00 PM",
+          "kick_utc": 1783425600,
+          "time": "07/07 07:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "9Gem"
+                "Channel 9 Sydney",
+                "Channel 9 Melbourne"
               ]
             }
           ],
@@ -21,9 +22,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Alex De Minaur vs Flavio Cobolli",
-          "kick_utc": 1783339200,
-          "time": "06/07 07:00 PM",
+          "match": "",
+          "kick_utc": 1783432800,
+          "time": "07/07 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
