@@ -1,71 +1,9 @@
 {
-  "updated": "2026-07-07 21:48 VN",
+  "updated": "2026-07-08 03:02 VN",
   "days": {
     "20260707": {
       "date": "Tuesday, 07/07",
       "games": [
-        {
-          "league": "UEFA Champions League",
-          "match": "Riga vs Ararat-Armenia",
-          "kick_utc": 1783440000,
-          "time": "07/07 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "ESPN Select",
-                "ESPN Unlimited"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Ararat-Armenia vs FC Riga",
-          "kick_utc": 1783440000,
-          "time": "07/07 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Sporta Centrs TV",
-                "TV4 Latvija"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Sabah vs The New Saints",
-          "kick_utc": 1783440000,
-          "time": "07/07 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "CBC Sport HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Vardar Skopje vs KuPS Kuopio",
-          "kick_utc": 1783443600,
-          "time": "08/07 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Sport 1 Srbija HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "UEFA Champions League",
           "match": "Borac Banja Luka vs Levski Sofia",
@@ -75,8 +13,8 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "Arena Sport 1x2 Srbija",
-                "Diema Sport HD"
+                "Diema Sport HD",
+                "Veikkaus TV"
               ]
             }
           ],
@@ -91,8 +29,25 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "Arena Premium 2 BiH HD",
                 "Arena Premium 4 Srbija HD",
+                "OneFootball",
                 "Rtv San Marino DTT"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "KÍ Klaksvík vs Atert Bissen",
+          "kick_utc": 1783449900,
+          "time": "08/07 01:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "OneFootball"
               ]
             }
           ],
@@ -115,10 +70,42 @@
           "source": "livesportsontv"
         },
         {
+          "league": "UEFA Champions League",
+          "match": "Sutjeska vs Kairat",
+          "kick_utc": 1783522800,
+          "time": "08/07 10:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Vitebsk vs Universitatea Craiova",
+          "kick_utc": 1783530000,
+          "time": "09/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Digi Sport 1 Romania HD",
+                "Prima Sport RO 1 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
           "league": "Tennis",
-          "match": "Felix Auger-Aliassime vs Novak Djokovic",
-          "kick_utc": 1783432800,
-          "time": "07/07 09:00 PM",
+          "match": "Jannik Sinner vs Jan-Lennard Struff",
+          "kick_utc": 1783512000,
+          "time": "08/07 07:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -132,14 +119,14 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1783440000,
-          "time": "07/07 11:00 PM",
+          "match": "Jessica Pegula vs Cori Gauff",
+          "kick_utc": 1783513800,
+          "time": "08/07 07:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "Channel 9 Perth"
+                "Stan Sport"
               ]
             }
           ],
@@ -147,9 +134,24 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1783512000,
-          "time": "08/07 07:00 PM",
+          "match": "Naomi Osaka vs Karolina Muchova",
+          "kick_utc": 1783519200,
+          "time": "08/07 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Felix Auger-Aliassime vs Novak Djokovic",
+          "kick_utc": 1783521000,
+          "time": "08/07 09:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
