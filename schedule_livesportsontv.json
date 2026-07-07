@@ -36,5 +36,44 @@
         "Services": [
             "Arena Sport 1 Srbija HD"
         ]
+    },
+    {
+        "Date": "2026-07-08",
+        "Time": "01:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Elbasani vs BATE Borisov",
+        "Services": [
+            "SuperSport 1 Albania HD"
+        ]
+    },
+    {
+        "Date": "2026-07-08",
+        "Time": "01:30",
+        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Borac Banja Luka vs Levski Sofia",
+        "Services": [
+            "Arena Sport 1x2 Srbija",
+            "Diema Sport HD"
+        ]
+    },
+    {
+        "Date": "2026-07-08",
+        "Time": "01:30",
+        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Tre Fiori vs Larne",
+        "Services": [
+            "Arena Premium 4 Srbija HD",
+            "Rtv San Marino DTT"
+        ]
+    },
+    {
+        "Date": "2026-07-08",
+        "Time": "02:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Víkingur Reykjavík vs Györ",
+        "Services": [
+            "Duna World HD",
+            "SÝN Sport Island 1 HD"
+        ]
     }
 ]
