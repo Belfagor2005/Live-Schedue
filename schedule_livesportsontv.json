@@ -15,6 +15,8 @@
         "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
         "Matchup": "Ararat-Armenia vs FC Riga",
         "Services": [
+            "Armenia First TV",
+            "OneFootball",
             "Sporta Centrs TV",
             "TV4 Latvija"
         ]
@@ -25,7 +27,9 @@
         "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
         "Matchup": "Sabah vs The New Saints",
         "Services": [
-            "CBC Sport HD"
+            "BBC iPlayer",
+            "CBC Sport HD",
+            "S4C Clic"
         ]
     },
     {
@@ -34,7 +38,19 @@
         "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
         "Matchup": "Vardar Skopje vs KuPS Kuopio",
         "Services": [
+            "Arena Premium 3 BiH HD",
             "Arena Sport 1 Srbija HD"
+        ]
+    },
+    {
+        "Date": "2026-07-08",
+        "Time": "00:30",
+        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Floriana vs Shamrock Rovers",
+        "Services": [
+            "OneFootball",
+            "TVM Sport+ HD",
+            "Veikkaus TV"
         ]
     },
     {
@@ -52,8 +68,8 @@
         "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
         "Matchup": "Borac Banja Luka vs Levski Sofia",
         "Services": [
-            "Arena Sport 1x2 Srbija",
-            "Diema Sport HD"
+            "Diema Sport HD",
+            "Veikkaus TV"
         ]
     },
     {
@@ -62,8 +78,19 @@
         "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
         "Matchup": "Tre Fiori vs Larne",
         "Services": [
+            "Arena Premium 2 BiH HD",
             "Arena Premium 4 Srbija HD",
+            "OneFootball",
             "Rtv San Marino DTT"
+        ]
+    },
+    {
+        "Date": "2026-07-08",
+        "Time": "01:45",
+        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "KÍ Klaksvík vs Atert Bissen",
+        "Services": [
+            "OneFootball"
         ]
     },
     {
@@ -74,6 +101,35 @@
         "Services": [
             "Duna World HD",
             "SÝN Sport Island 1 HD"
+        ]
+    },
+    {
+        "Date": "2026-07-08",
+        "Time": "22:00",
+        "League": "UEFA Champions League",
+        "Matchup": "Sutjeska @ Kairat",
+        "Services": [
+            "ESPN Select",
+            "ESPN Unlimited"
+        ]
+    },
+    {
+        "Date": "2026-07-08",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Zira vs Torpedo Kutaisi",
+        "Services": [
+            "Idman TV HD"
+        ]
+    },
+    {
+        "Date": "2026-07-09",
+        "Time": "00:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Vitebsk vs Universitatea Craiova",
+        "Services": [
+            "Digi Sport 1 Romania HD",
+            "Prima Sport RO 1 HD"
         ]
     }
 ]
