@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07 16:51 VN",
+  "updated": "2026-07-07 21:48 VN",
   "days": {
     "20260707": {
       "date": "Tuesday, 07/07",
@@ -116,22 +116,6 @@
         },
         {
           "league": "Tennis",
-          "match": "Jannik Sinner vs Jan-Lennard Struff",
-          "kick_utc": 1783425600,
-          "time": "07/07 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Channel 9 Sydney",
-                "Channel 9 Melbourne"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
           "match": "Felix Auger-Aliassime vs Novak Djokovic",
           "kick_utc": 1783432800,
           "time": "07/07 09:00 PM",
@@ -156,6 +140,22 @@
               "country": "Ausport",
               "channels": [
                 "Channel 9 Perth"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1783512000,
+          "time": "08/07 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Channel 9 Sydney",
+                "Channel 9 Melbourne"
               ]
             }
           ],
