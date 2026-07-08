@@ -8,42 +8,5 @@
             "ESPN Select",
             "ESPN Unlimited"
         ]
-    },
-    {
-        "Date": "2026-07-08",
-        "Time": "23:00",
-        "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Zira vs Torpedo Kutaisi",
-        "Services": [
-            "Idman TV HD"
-        ]
-    },
-    {
-        "Date": "2026-07-09",
-        "Time": "00:00",
-        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Vitebsk vs Universitatea Craiova",
-        "Services": [
-            "Digi Sport 1 Romania HD",
-            "Prima Sport RO 1 HD"
-        ]
-    },
-    {
-        "Date": "2026-07-09",
-        "Time": "00:30",
-        "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Differdange 03 vs Ilves Tampere",
-        "Services": [
-            "- - -"
-        ]
-    },
-    {
-        "Date": "2026-07-09",
-        "Time": "00:30",
-        "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Connah's Quay vs Ballkani",
-        "Services": [
-            "Cymru Football TV"
-        ]
     }
 ]
