@@ -1,10 +1,46 @@
 [
   {
+    "competition": "World Cup 2026",
+    "home": "Switzerland",
+    "away": "Colombia",
+    "vietnam_time": "03:00",
+    "vietnam_date": "09/07/2026",
+    "channels": "SBS Melbourne | SBS On Demand",
+    "sport": "Soccer"
+  },
+  {
+    "competition": "WTA Wimbledon",
+    "home": "Linda Noskova",
+    "away": "Elise Mertens",
+    "vietnam_time": "19:00",
+    "vietnam_date": "09/07/2026",
+    "channels": "9Gem",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Wimbledon",
+    "home": "Taylor Harry Fritz",
+    "away": "Alexander Zverev",
+    "vietnam_time": "20:30",
+    "vietnam_date": "09/07/2026",
+    "channels": "Channel 9 Sydney | Channel 9 Melbourne",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Wimbledon",
+    "home": "Flavio Cobolli",
+    "away": "Arthur Fery",
+    "vietnam_time": "21:00",
+    "vietnam_date": "09/07/2026",
+    "channels": "9Gem",
+    "sport": "Tennis"
+  },
+  {
     "competition": "ATP Wimbledon",
     "home": "",
     "away": "",
     "vietnam_time": "19:30",
-    "vietnam_date": "09/07/2026",
+    "vietnam_date": "10/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
   },
@@ -13,17 +49,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "21:00",
-    "vietnam_date": "09/07/2026",
+    "vietnam_date": "10/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "France",
-    "away": "Morocco",
-    "vietnam_time": "03:00",
-    "vietnam_date": "10/07/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
   }
 ]
