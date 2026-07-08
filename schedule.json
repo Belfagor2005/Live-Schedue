@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08 10:20 VN",
+  "updated": "2026-07-08 15:36 VN",
   "days": {
     "20260708": {
       "date": "Wednesday, 08/07",
@@ -35,68 +35,6 @@
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jannik Sinner vs Jan-Lennard Struff",
-          "kick_utc": 1783512000,
-          "time": "08/07 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Channel 9 Sydney",
-                "Channel 9 Melbourne"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jessica Pegula vs Cori Gauff",
-          "kick_utc": 1783513800,
-          "time": "08/07 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Naomi Osaka vs Karolina Muchova",
-          "kick_utc": 1783519200,
-          "time": "08/07 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Felix Auger-Aliassime vs Novak Djokovic",
-          "kick_utc": 1783521000,
-          "time": "08/07 09:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Channel 9 Sydney",
-                "Channel 9 Melbourne"
-              ]
-            }
-          ],
-          "source": "ausport"
         }
       ]
     }
