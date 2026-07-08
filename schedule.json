@@ -1,74 +1,9 @@
 {
-  "updated": "2026-07-08 03:02 VN",
+  "updated": "2026-07-08 10:20 VN",
   "days": {
-    "20260707": {
-      "date": "Tuesday, 07/07",
+    "20260708": {
+      "date": "Wednesday, 08/07",
       "games": [
-        {
-          "league": "UEFA Champions League",
-          "match": "Borac Banja Luka vs Levski Sofia",
-          "kick_utc": 1783449000,
-          "time": "08/07 01:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Diema Sport HD",
-                "Veikkaus TV"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Tre Fiori vs Larne",
-          "kick_utc": 1783449000,
-          "time": "08/07 01:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 2 BiH HD",
-                "Arena Premium 4 Srbija HD",
-                "OneFootball",
-                "Rtv San Marino DTT"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "KÍ Klaksvík vs Atert Bissen",
-          "kick_utc": 1783449900,
-          "time": "08/07 01:45 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "OneFootball"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Víkingur Reykjavík vs Györ",
-          "kick_utc": 1783450800,
-          "time": "08/07 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Duna World HD",
-                "SÝN Sport Island 1 HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "UEFA Champions League",
           "match": "Sutjeska vs Kairat",
