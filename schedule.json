@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-08 15:36 VN",
+  "updated": "2026-07-08 21:26 VN",
   "days": {
     "20260708": {
       "date": "Wednesday, 08/07",
@@ -35,6 +35,38 @@
             }
           ],
           "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1783600200,
+          "time": "09/07 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Channel 9 Sydney",
+                "Channel 9 Melbourne"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1783605600,
+          "time": "09/07 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Channel 9 Sydney",
+                "Channel 9 Melbourne"
+              ]
+            }
+          ],
+          "source": "ausport"
         }
       ]
     }
