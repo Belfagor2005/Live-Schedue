@@ -1,109 +1,5 @@
 [
     {
-        "Date": "2026-07-07",
-        "Time": "23:00",
-        "League": "UEFA Champions League",
-        "Matchup": "Riga @ Ararat-Armenia",
-        "Services": [
-            "ESPN Select",
-            "ESPN Unlimited"
-        ]
-    },
-    {
-        "Date": "2026-07-07",
-        "Time": "23:00",
-        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Ararat-Armenia vs FC Riga",
-        "Services": [
-            "Armenia First TV",
-            "OneFootball",
-            "Sporta Centrs TV",
-            "TV4 Latvija"
-        ]
-    },
-    {
-        "Date": "2026-07-07",
-        "Time": "23:00",
-        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Sabah vs The New Saints",
-        "Services": [
-            "BBC iPlayer",
-            "CBC Sport HD",
-            "S4C Clic"
-        ]
-    },
-    {
-        "Date": "2026-07-08",
-        "Time": "00:00",
-        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Vardar Skopje vs KuPS Kuopio",
-        "Services": [
-            "Arena Premium 3 BiH HD",
-            "Arena Sport 1 Srbija HD"
-        ]
-    },
-    {
-        "Date": "2026-07-08",
-        "Time": "00:30",
-        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Floriana vs Shamrock Rovers",
-        "Services": [
-            "OneFootball",
-            "TVM Sport+ HD",
-            "Veikkaus TV"
-        ]
-    },
-    {
-        "Date": "2026-07-08",
-        "Time": "01:00",
-        "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Elbasani vs BATE Borisov",
-        "Services": [
-            "SuperSport 1 Albania HD"
-        ]
-    },
-    {
-        "Date": "2026-07-08",
-        "Time": "01:30",
-        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Borac Banja Luka vs Levski Sofia",
-        "Services": [
-            "Diema Sport HD",
-            "Veikkaus TV"
-        ]
-    },
-    {
-        "Date": "2026-07-08",
-        "Time": "01:30",
-        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Tre Fiori vs Larne",
-        "Services": [
-            "Arena Premium 2 BiH HD",
-            "Arena Premium 4 Srbija HD",
-            "OneFootball",
-            "Rtv San Marino DTT"
-        ]
-    },
-    {
-        "Date": "2026-07-08",
-        "Time": "01:45",
-        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "KÍ Klaksvík vs Atert Bissen",
-        "Services": [
-            "OneFootball"
-        ]
-    },
-    {
-        "Date": "2026-07-08",
-        "Time": "02:00",
-        "League": "UEFA Champions League - 1st Qualifying Round (1st Leg)",
-        "Matchup": "Víkingur Reykjavík vs Györ",
-        "Services": [
-            "Duna World HD",
-            "SÝN Sport Island 1 HD"
-        ]
-    },
-    {
         "Date": "2026-07-08",
         "Time": "22:00",
         "League": "UEFA Champions League",
@@ -130,6 +26,24 @@
         "Services": [
             "Digi Sport 1 Romania HD",
             "Prima Sport RO 1 HD"
+        ]
+    },
+    {
+        "Date": "2026-07-09",
+        "Time": "00:30",
+        "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Differdange 03 vs Ilves Tampere",
+        "Services": [
+            "- - -"
+        ]
+    },
+    {
+        "Date": "2026-07-09",
+        "Time": "00:30",
+        "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Connah's Quay vs Ballkani",
+        "Services": [
+            "Cymru Football TV"
         ]
     }
 ]
