@@ -1,46 +1,29 @@
 {
-  "updated": "2026-07-08 21:26 VN",
+  "updated": "2026-07-09 02:40 VN",
   "days": {
     "20260708": {
       "date": "Wednesday, 08/07",
       "games": [
         {
-          "league": "UEFA Champions League",
-          "match": "Sutjeska vs Kairat",
-          "kick_utc": 1783522800,
-          "time": "08/07 10:00 PM",
+          "league": "Tennis",
+          "match": "Linda Noskova vs Elise Mertens",
+          "kick_utc": 1783598400,
+          "time": "09/07 07:00 PM",
           "tv_channels": [
             {
-              "country": "LiveSportsOnTV",
+              "country": "Ausport",
               "channels": [
-                "ESPN Select",
-                "ESPN Unlimited"
+                "9Gem"
               ]
             }
           ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Vitebsk vs Universitatea Craiova",
-          "kick_utc": 1783530000,
-          "time": "09/07 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Digi Sport 1 Romania HD",
-                "Prima Sport RO 1 HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
+          "source": "ausport"
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1783600200,
-          "time": "09/07 07:30 PM",
+          "match": "Taylor Harry Fritz vs Alexander Zverev",
+          "kick_utc": 1783603800,
+          "time": "09/07 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -54,15 +37,14 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Flavio Cobolli vs Arthur Fery",
           "kick_utc": 1783605600,
           "time": "09/07 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "Channel 9 Sydney",
-                "Channel 9 Melbourne"
+                "9Gem"
               ]
             }
           ],
