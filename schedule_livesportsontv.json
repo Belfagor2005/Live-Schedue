@@ -5,7 +5,17 @@
         "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
         "Matchup": "Atletic Escaldes vs Mornar",
         "Services": [
-            "OneFootball"
+            "OneFootball",
+            "TVCG 1 HD"
+        ]
+    },
+    {
+        "Date": "2026-07-09",
+        "Time": "23:00",
+        "League": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Qarabagh vs Vestri",
+        "Services": [
+            "CBC Sport HD"
         ]
     },
     {
@@ -54,6 +64,29 @@
         "Services": [
             "Linfield TV",
             "Soccernet TV Estonia"
+        ]
+    },
+    {
+        "Date": "2026-07-10",
+        "Time": "00:00",
+        "League": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Dynamo Kyiv vs Universitatea Cluj",
+        "Services": [
+            "2+2 Ukraine",
+            "Digi Sport 1 Romania HD",
+            "Kyivstar TV | Evrokubki",
+            "Prima Sport RO 1 HD"
+        ]
+    },
+    {
+        "Date": "2026-07-10",
+        "Time": "00:00",
+        "League": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Sheriff Tiraspol vs Aluminij",
+        "Services": [
+            "Arena Sport 1 Slovakia HD",
+            "SportKlub 1 Slovenija HD",
+            "We Sport Moldova"
         ]
     },
     {
@@ -125,9 +158,40 @@
     {
         "Date": "2026-07-10",
         "Time": "01:00",
+        "League": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "CSKA Sofia vs Derry City",
+        "Services": [
+            "Diema Sport HD"
+        ]
+    },
+    {
+        "Date": "2026-07-10",
+        "Time": "01:00",
+        "League": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Vojvodina vs Ferencváros",
+        "Services": [
+            "Arena Premium 3 Srbija HD",
+            "Duna World HD"
+        ]
+    },
+    {
+        "Date": "2026-07-10",
+        "Time": "01:00",
+        "League": "UEFA Europa League - 1st Qualifying Round (1st Leg)",
+        "Matchup": "Hajduk Split vs MSK Zilina",
+        "Services": [
+            "DvojkaHD",
+            "Hajduk TV",
+            "OneFootball"
+        ]
+    },
+    {
+        "Date": "2026-07-10",
+        "Time": "01:00",
         "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
         "Matchup": "Vllaznia Shkodër vs Malisheva",
         "Services": [
+            "RTSH Sport Albania",
             "Solidsport Broadcast"
         ]
     },
@@ -148,7 +212,6 @@
         "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
         "Matchup": "Petrovac vs Zalgiris",
         "Services": [
-            "- - -",
             "TVCG 2 HD"
         ]
     },
@@ -158,7 +221,6 @@
         "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
         "Matchup": "NSI Runavik vs Hamrun Spartans",
         "Services": [
-            "- - -",
             "Solidsport Broadcast"
         ]
     },
@@ -177,7 +239,6 @@
         "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
         "Matchup": "FK Sarajevo vs Inter Turku",
         "Services": [
-            "- - -",
             "Jalkapallo TV",
             "MY TV BiH"
         ]
@@ -188,7 +249,6 @@
         "League": "UEFA Conference League - 1st Qualifying Round (1st Leg)",
         "Matchup": "Dinamo City vs Astana",
         "Services": [
-            "- - -",
             "Qazaqstan TV HD",
             "SuperSport 1 Albania HD"
         ]
