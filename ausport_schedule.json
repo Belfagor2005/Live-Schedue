@@ -1,11 +1,11 @@
 [
   {
-    "competition": "ATP Wimbledon",
-    "home": "",
-    "away": "",
-    "vietnam_time": "21:00",
-    "vietnam_date": "09/07/2026",
-    "channels": "",
+    "competition": "WTA Wimbledon",
+    "home": "Karolina Muchova",
+    "away": "Cori Gauff",
+    "vietnam_time": "19:30",
+    "vietnam_date": "10/07/2026",
+    "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
   },
   {
@@ -13,7 +13,7 @@
     "home": "France",
     "away": "Morocco",
     "vietnam_time": "03:00",
-    "vietnam_date": "10/07/2026",
+    "vietnam_date": "11/07/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -22,7 +22,7 @@
     "home": "Jannik Sinner",
     "away": "Novak Djokovic",
     "vietnam_time": "19:30",
-    "vietnam_date": "10/07/2026",
+    "vietnam_date": "11/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
   },
@@ -31,17 +31,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "21:00",
-    "vietnam_date": "10/07/2026",
+    "vietnam_date": "11/07/2026",
     "channels": "Channel 9 Sydney | Channel 9 Melbourne",
     "sport": "Tennis"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "Spain",
-    "away": "Belgium",
-    "vietnam_time": "02:00",
-    "vietnam_date": "11/07/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
   }
 ]
