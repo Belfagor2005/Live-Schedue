@@ -1,56 +1,9 @@
 {
-  "updated": "2026-07-09 10:46 VN",
+  "updated": "2026-07-09 16:48 VN",
   "days": {
     "20260709": {
       "date": "Thursday, 09/07",
-      "games": [
-        {
-          "league": "Tennis",
-          "match": "Linda Noskova vs Elise Mertens",
-          "kick_utc": 1783598400,
-          "time": "09/07 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Taylor Harry Fritz vs Alexander Zverev",
-          "kick_utc": 1783603800,
-          "time": "09/07 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Channel 9 Sydney",
-                "Channel 9 Melbourne"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Flavio Cobolli vs Arthur Fery",
-          "kick_utc": 1783605600,
-          "time": "09/07 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "9Gem"
-              ]
-            }
-          ],
-          "source": "ausport"
-        }
-      ]
+      "games": []
     }
   }
 }
