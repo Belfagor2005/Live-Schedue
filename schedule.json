@@ -1,9 +1,42 @@
 {
-  "updated": "2026-07-09 16:48 VN",
+  "updated": "2026-07-09 22:20 VN",
   "days": {
     "20260709": {
       "date": "Thursday, 09/07",
-      "games": []
+      "games": [
+        {
+          "league": "Tennis",
+          "match": "Jannik Sinner vs Novak Djokovic",
+          "kick_utc": 1783686600,
+          "time": "10/07 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Channel 9 Sydney",
+                "Channel 9 Melbourne"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1783692000,
+          "time": "10/07 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "Channel 9 Sydney",
+                "Channel 9 Melbourne"
+              ]
+            }
+          ],
+          "source": "ausport"
+        }
+      ]
     }
   }
 }
