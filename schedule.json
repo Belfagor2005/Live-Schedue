@@ -1,57 +1,9 @@
 {
-  "updated": "2026-07-10 02:52 VN",
+  "updated": "2026-07-10 10:48 VN",
   "days": {
-    "20260709": {
-      "date": "Thursday, 09/07",
+    "20260710": {
+      "date": "Friday, 10/07",
       "games": [
-        {
-          "league": "UEFA Europa League",
-          "match": "CSKA Sofia vs Derry City",
-          "kick_utc": 1783620000,
-          "time": "10/07 01:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Diema Sport HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Vojvodina vs Ferencváros",
-          "kick_utc": 1783620000,
-          "time": "10/07 01:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 3 Srbija HD",
-                "Duna World HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Hajduk Split vs MSK Zilina",
-          "kick_utc": 1783620000,
-          "time": "10/07 01:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DvojkaHD",
-                "Hajduk TV",
-                "OneFootball"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Karolina Muchova vs Cori Gauff",
