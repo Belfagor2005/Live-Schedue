@@ -1,26 +1,9 @@
 {
-  "updated": "2026-07-11 20:37 VN",
+  "updated": "2026-07-12 02:11 VN",
   "days": {
     "20260711": {
       "date": "Saturday, 11/07",
-      "games": [
-        {
-          "league": "Tennis",
-          "match": "Karolina Muchova vs Linda Noskova",
-          "kick_utc": 1783782000,
-          "time": "11/07 10:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Channel 9 Sydney",
-                "Channel 9 Melbourne"
-              ]
-            }
-          ],
-          "source": "ausport"
-        }
-      ]
+      "games": []
     }
   }
 }
