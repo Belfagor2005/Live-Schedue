@@ -1,28 +1,12 @@
 {
-  "updated": "2026-07-11 10:14 VN",
+  "updated": "2026-07-11 15:03 VN",
   "days": {
     "20260711": {
       "date": "Saturday, 11/07",
       "games": [
         {
           "league": "Tennis",
-          "match": "Arthur Fery vs Alexander Zverev",
-          "kick_utc": 1783773000,
-          "time": "11/07 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "Channel 9 Sydney",
-                "Channel 9 Melbourne"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Jannik Sinner vs Novak Djokovic",
+          "match": "Karolina Muchova vs Linda Noskova",
           "kick_utc": 1783782000,
           "time": "11/07 10:00 PM",
           "tv_channels": [
