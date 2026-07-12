@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12 15:24 VN",
+  "updated": "2026-07-12 20:37 VN",
   "days": {
     "20260712": {
       "date": "Sunday, 12/07",
@@ -15,6 +15,54 @@
               "channels": [
                 "Channel 9 Sydney",
                 "Channel 9 Melbourne"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1783931400,
+          "time": "13/07 03:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1783942200,
+          "time": "13/07 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1783947600,
+          "time": "13/07 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
