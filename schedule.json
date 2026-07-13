@@ -1,67 +1,132 @@
 {
-  "updated": "2026-07-13 21:45 VN",
+  "updated": "2026-07-14 02:35 VN",
   "days": {
     "20260713": {
       "date": "Monday, 13/07",
       "games": [
         {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1783951200,
-          "time": "13/07 09:00 PM",
+          "league": "UEFA Champions League",
+          "match": "KuPS Kuopio vs Vardar Skopje",
+          "kick_utc": 1784041200,
+          "time": "14/07 10:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
+                "Jalkapallo TV",
+                "KuPS TV",
+                "Solidsport Broadcast"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Iberia 1999 vs Flora Tallinn",
+          "kick_utc": 1784044800,
+          "time": "14/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Soccernet TV Estonia"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Inter Escaldes vs Lincoln Red Imps",
+          "kick_utc": 1784044800,
+          "time": "14/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "OneFootball"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Víkingur Reykjavík vs Győri ETO",
+          "kick_utc": 1784048400,
+          "time": "15/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Györ vs Víkingur Reykjavík",
+          "kick_utc": 1784048400,
+          "time": "15/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 1 BiH HD",
+                "Arena Premium 2 Srbija HD",
+                "Arena Sport 1 Slovakia HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "FC Riga vs Ararat-Armenia",
+          "kick_utc": 1784048400,
+          "time": "15/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Armenia First TV",
+                "OneFootball",
+                "Sporta Centrs TV",
+                "TV4 Latvija"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Lorenzo Sonego vs Joel Josef Schwaerzler",
           "kick_utc": 1784017800,
           "time": "14/07 03:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784019600,
-          "time": "14/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784034000,
-          "time": "14/07 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
                 "beIN SPORTS 1",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Carlos Sanchez Jover vs Taro Daniel",
+          "kick_utc": 1784028600,
+          "time": "14/07 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
                 "beIN SPORTS 2",
                 "beIN Sports Connect"
               ]
@@ -71,15 +136,31 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Raphael Collignon vs Timofey Skatov",
+          "kick_utc": 1784030400,
+          "time": "14/07 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Damir Dzumhur vs Henrique Rocha",
           "kick_utc": 1784037600,
           "time": "14/07 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
+                "beIN SPORTS 3",
+                "beIN Sports Connect"
               ]
             }
           ],
