@@ -1,1 +1,73 @@
-[]
+[
+    {
+        "Date": "2026-07-13",
+        "Time": "21:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Croatia Open",
+        "Services": [
+            "TSN+"
+        ]
+    },
+    {
+        "Date": "2026-07-14",
+        "Time": "22:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [2-0]",
+        "Matchup": "KuPS Kuopio vs Vardar Skopje",
+        "Services": [
+            "Jalkapallo TV",
+            "KuPS TV",
+            "Solidsport Broadcast"
+        ]
+    },
+    {
+        "Date": "2026-07-14",
+        "Time": "23:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [3-2]",
+        "Matchup": "Iberia 1999 vs Flora Tallinn",
+        "Services": [
+            "Soccernet TV Estonia"
+        ]
+    },
+    {
+        "Date": "2026-07-14",
+        "Time": "23:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-3]",
+        "Matchup": "Inter Escaldes vs Lincoln Red Imps",
+        "Services": [
+            "OneFootball"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "00:00",
+        "League": "UEFA Champions League",
+        "Matchup": "Víkingur Reykjavík @ Győri ETO",
+        "Services": [
+            "ESPN Select",
+            "ESPN Unlimited"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "00:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [0-1]",
+        "Matchup": "Györ vs Víkingur Reykjavík",
+        "Services": [
+            "Arena Premium 1 BiH HD",
+            "Arena Premium 2 Srbija HD",
+            "Arena Sport 1 Slovakia HD"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "00:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [0-2]",
+        "Matchup": "FC Riga vs Ararat-Armenia",
+        "Services": [
+            "Armenia First TV",
+            "OneFootball",
+            "Sporta Centrs TV",
+            "TV4 Latvija"
+        ]
+    }
+]
