@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 09:51 VN",
+  "updated": "2026-07-14 15:16 VN",
   "days": {
     "20260714": {
       "date": "Tuesday, 14/07",
@@ -30,6 +30,7 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "Silk Universal HD",
                 "Soccernet TV Estonia"
               ]
             }
@@ -78,7 +79,9 @@
               "channels": [
                 "Arena Premium 1 BiH HD",
                 "Arena Premium 2 Srbija HD",
-                "Arena Sport 1 Slovakia HD"
+                "Arena Sport 1 Slovakia HD",
+                "Duna World HD",
+                "Llivey Events"
               ]
             }
           ],
@@ -103,56 +106,90 @@
           "source": "livesportsontv"
         },
         {
-          "league": "Tennis",
-          "match": "Lorenzo Sonego vs Joel Josef Schwaerzler",
-          "kick_utc": 1784017800,
-          "time": "14/07 03:30 PM",
+          "league": "UEFA Champions League",
+          "match": "Levski Sofia vs Borac Banja Luka",
+          "kick_utc": 1784050200,
+          "time": "15/07 12:30 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
+                "Diema Sport HD"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
-          "league": "Tennis",
-          "match": "Carlos Sanchez Jover vs Taro Daniel",
-          "kick_utc": 1784028600,
-          "time": "14/07 06:30 PM",
+          "league": "UEFA Champions League",
+          "match": "The New Saints vs Sabah",
+          "kick_utc": 1784050200,
+          "time": "15/07 12:30 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
+                "BBC iPlayer",
+                "BBC iPlayer 4K",
+                "CBC Sport HD",
+                "S4C Clic",
+                "S4C Sgorio Cymru",
+                "YouTube: Sgorio"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
-          "league": "Tennis",
-          "match": "Raphael Collignon vs Timofey Skatov",
-          "kick_utc": 1784030400,
-          "time": "14/07 07:00 PM",
+          "league": "UEFA Champions League",
+          "match": "Drita vs Kauno Zalgiris",
+          "kick_utc": 1784052000,
+          "time": "15/07 01:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
+                "RTK 1 Kosovo HD"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Shamrock Rovers vs Floriana",
+          "kick_utc": 1784055600,
+          "time": "15/07 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "LOI TV",
+                "OneFootball",
+                "TVM Sport+ HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Larne vs Tre Fiori",
+          "kick_utc": 1784055600,
+          "time": "15/07 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "NIFL TV"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "Damir Dzumhur vs Henrique Rocha",
+          "match": "",
           "kick_utc": 1784037600,
           "time": "14/07 09:00 PM",
           "tv_channels": [
