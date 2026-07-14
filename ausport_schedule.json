@@ -1,11 +1,74 @@
 [
   {
+    "competition": "ATP Gstaad",
+    "home": "Juan Manuel Cerundolo",
+    "away": "Zdenek Kolar",
+    "vietnam_time": "15:30",
+    "vietnam_date": "15/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Bastad",
+    "home": "Nicolai Budkov Kjaer",
+    "away": "Andrea Pellegrino",
+    "vietnam_time": "16:00",
+    "vietnam_date": "15/07/2026",
+    "channels": "beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Bastad",
+    "home": "Sebastian Ofner",
+    "away": "Thiago Augustin Tirante",
+    "vietnam_time": "16:00",
+    "vietnam_date": "15/07/2026",
+    "channels": "beIN Sports Connect",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Bastad",
+    "home": "Nuno Borges",
+    "away": "Moise Kouame",
+    "vietnam_time": "19:00",
+    "vietnam_date": "15/07/2026",
+    "channels": "beIN Sports Connect",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Gstaad",
+    "home": "Stefanos Tsitsipas",
+    "away": "Ignacio Buse",
+    "vietnam_time": "20:00",
+    "vietnam_date": "15/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Bastad",
+    "home": "Max Dahlin",
+    "away": "Sebastian Baez",
+    "vietnam_time": "20:30",
+    "vietnam_date": "15/07/2026",
+    "channels": "beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
     "competition": "ATP Umag",
-    "home": "",
-    "away": "",
+    "home": "Alex Molcan",
+    "away": "Valentin Royer",
     "vietnam_time": "21:00",
-    "vietnam_date": "14/07/2026",
-    "channels": "beIN SPORTS 3 | beIN Sports Connect",
+    "vietnam_date": "15/07/2026",
+    "channels": "beIN SPORTS 3",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Umag",
+    "home": "Matej Dodig",
+    "away": "Pablo Carreno-Busta",
+    "vietnam_time": "21:00",
+    "vietnam_date": "15/07/2026",
+    "channels": "beIN Sports Connect",
     "sport": "Tennis"
   },
   {
@@ -13,7 +76,7 @@
     "home": "France",
     "away": "Spain",
     "vietnam_time": "02:00",
-    "vietnam_date": "15/07/2026",
+    "vietnam_date": "16/07/2026",
     "channels": "SBS Melbourne | SBS On Demand",
     "sport": "Soccer"
   },
@@ -22,8 +85,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "15:30",
-    "vietnam_date": "15/07/2026",
-    "channels": "beIN SPORTS 1 | beIN Sports Connect",
+    "vietnam_date": "16/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
@@ -31,8 +94,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "16:00",
-    "vietnam_date": "15/07/2026",
-    "channels": "beIN SPORTS 2 | beIN Sports Connect",
+    "vietnam_date": "16/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
   {
@@ -40,8 +103,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "20:00",
-    "vietnam_date": "15/07/2026",
-    "channels": "beIN SPORTS 2 | beIN Sports Connect",
+    "vietnam_date": "16/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
   {
@@ -49,8 +112,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "20:00",
-    "vietnam_date": "15/07/2026",
-    "channels": "beIN SPORTS 1 | beIN Sports Connect",
+    "vietnam_date": "16/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
@@ -58,17 +121,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "21:00",
-    "vietnam_date": "15/07/2026",
-    "channels": "beIN SPORTS 3 | beIN Sports Connect",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "England",
-    "away": "Argentina",
-    "vietnam_time": "02:00",
     "vietnam_date": "16/07/2026",
-    "channels": "SBS Melbourne | SBS Viceland",
-    "sport": "Soccer"
+    "channels": "beIN Sports Connect | beIN SPORTS 3",
+    "sport": "Tennis"
   }
 ]
