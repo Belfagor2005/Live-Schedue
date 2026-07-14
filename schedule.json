@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14 15:16 VN",
+  "updated": "2026-07-14 20:56 VN",
   "days": {
     "20260714": {
       "date": "Tuesday, 14/07",
@@ -197,6 +197,55 @@
               "country": "Ausport",
               "channels": [
                 "beIN SPORTS 3",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784104200,
+          "time": "15/07 03:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784106000,
+          "time": "15/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784120400,
+          "time": "15/07 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2",
+                "beIN SPORTS 1",
                 "beIN Sports Connect"
               ]
             }
