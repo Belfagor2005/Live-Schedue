@@ -1,14 +1,5 @@
 [
     {
-        "Date": "2026-07-13",
-        "Time": "21:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Croatia Open",
-        "Services": [
-            "TSN+"
-        ]
-    },
-    {
         "Date": "2026-07-14",
         "Time": "22:00",
         "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [2-0]",
@@ -25,6 +16,7 @@
         "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [3-2]",
         "Matchup": "Iberia 1999 vs Flora Tallinn",
         "Services": [
+            "Silk Universal HD",
             "Soccernet TV Estonia"
         ]
     },
@@ -55,7 +47,9 @@
         "Services": [
             "Arena Premium 1 BiH HD",
             "Arena Premium 2 Srbija HD",
-            "Arena Sport 1 Slovakia HD"
+            "Arena Sport 1 Slovakia HD",
+            "Duna World HD",
+            "Llivey Events"
         ]
     },
     {
@@ -68,6 +62,68 @@
             "OneFootball",
             "Sporta Centrs TV",
             "TV4 Latvija"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "00:30",
+        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-1]",
+        "Matchup": "Levski Sofia vs Borac Banja Luka",
+        "Services": [
+            "Diema Sport HD"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "00:30",
+        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [0-2]",
+        "Matchup": "The New Saints vs Sabah",
+        "Services": [
+            "BBC iPlayer",
+            "BBC iPlayer 4K",
+            "CBC Sport HD",
+            "S4C Clic",
+            "S4C Sgorio Cymru",
+            "YouTube: Sgorio"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "01:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-1]",
+        "Matchup": "Drita vs Kauno Zalgiris",
+        "Services": [
+            "RTK 1 Kosovo HD"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "02:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [0-2]",
+        "Matchup": "Shamrock Rovers vs Floriana",
+        "Services": [
+            "LOI TV",
+            "OneFootball",
+            "TVM Sport+ HD"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "02:00",
+        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-0]",
+        "Matchup": "Larne vs Tre Fiori",
+        "Services": [
+            "NIFL TV"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "02:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [0-1]",
+        "Matchup": "La Fiorita vs UNA Strassen",
+        "Services": [
+            "Rtv San Marino DTT",
+            "Titani TV"
         ]
     }
 ]
