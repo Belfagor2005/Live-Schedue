@@ -1,6 +1,15 @@
 [
     {
         "Date": "2026-07-14",
+        "Time": "21:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Croatia Open",
+        "Services": [
+            "TSN+"
+        ]
+    },
+    {
+        "Date": "2026-07-14",
         "Time": "22:00",
         "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [2-0]",
         "Matchup": "KuPS Kuopio vs Vardar Skopje",
@@ -49,7 +58,7 @@
             "Arena Premium 2 Srbija HD",
             "Arena Sport 1 Slovakia HD",
             "Duna World HD",
-            "Llivey Events"
+            "Livey Events"
         ]
     },
     {
@@ -80,7 +89,6 @@
         "Matchup": "The New Saints vs Sabah",
         "Services": [
             "BBC iPlayer",
-            "BBC iPlayer 4K",
             "CBC Sport HD",
             "S4C Clic",
             "S4C Sgorio Cymru",
@@ -94,6 +102,15 @@
         "Matchup": "Drita vs Kauno Zalgiris",
         "Services": [
             "RTK 1 Kosovo HD"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "02:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Croatia Open",
+        "Services": [
+            "Tennis Channel"
         ]
     },
     {
@@ -124,6 +141,24 @@
         "Services": [
             "Rtv San Marino DTT",
             "Titani TV"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "16:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Swedish Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-15",
+        "Time": "21:30",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-2]",
+        "Matchup": "Malisheva vs Vllaznia Shkodër",
+        "Services": [
+            "RTK 1 Kosovo HD"
         ]
     }
 ]
