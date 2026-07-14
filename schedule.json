@@ -1,110 +1,9 @@
 {
-  "updated": "2026-07-14 20:56 VN",
+  "updated": "2026-07-15 02:26 VN",
   "days": {
     "20260714": {
       "date": "Tuesday, 14/07",
       "games": [
-        {
-          "league": "UEFA Champions League",
-          "match": "KuPS Kuopio vs Vardar Skopje",
-          "kick_utc": 1784041200,
-          "time": "14/07 10:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Jalkapallo TV",
-                "KuPS TV",
-                "Solidsport Broadcast"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Iberia 1999 vs Flora Tallinn",
-          "kick_utc": 1784044800,
-          "time": "14/07 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Silk Universal HD",
-                "Soccernet TV Estonia"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Inter Escaldes vs Lincoln Red Imps",
-          "kick_utc": 1784044800,
-          "time": "14/07 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "OneFootball"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Víkingur Reykjavík vs Győri ETO",
-          "kick_utc": 1784048400,
-          "time": "15/07 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "ESPN Select",
-                "ESPN Unlimited"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Györ vs Víkingur Reykjavík",
-          "kick_utc": 1784048400,
-          "time": "15/07 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Premium 1 BiH HD",
-                "Arena Premium 2 Srbija HD",
-                "Arena Sport 1 Slovakia HD",
-                "Duna World HD",
-                "Llivey Events"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "FC Riga vs Ararat-Armenia",
-          "kick_utc": 1784048400,
-          "time": "15/07 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Armenia First TV",
-                "OneFootball",
-                "Sporta Centrs TV",
-                "TV4 Latvija"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "UEFA Champions League",
           "match": "Levski Sofia vs Borac Banja Luka",
@@ -130,7 +29,6 @@
               "country": "LiveSportsOnTV",
               "channels": [
                 "BBC iPlayer",
-                "BBC iPlayer 4K",
                 "CBC Sport HD",
                 "S4C Clic",
                 "S4C Sgorio Cymru",
@@ -189,31 +87,45 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784037600,
-          "time": "14/07 09:00 PM",
+          "match": "Croatia Open",
+          "kick_utc": 1784055600,
+          "time": "15/07 02:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN SPORTS 3",
-                "beIN Sports Connect"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Swedish Open",
+          "kick_utc": 1784106000,
+          "time": "15/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Juan Manuel Cerundolo vs Zdenek Kolar",
           "kick_utc": 1784104200,
           "time": "15/07 03:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
@@ -221,14 +133,28 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Nicolai Budkov Kjaer vs Andrea Pellegrino",
           "kick_utc": 1784106000,
           "time": "15/07 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 2",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Sebastian Ofner vs Thiago Augustin Tirante",
+          "kick_utc": 1784106000,
+          "time": "15/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
                 "beIN Sports Connect"
               ]
             }
@@ -237,15 +163,74 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Nuno Borges vs Moise Kouame",
+          "kick_utc": 1784116800,
+          "time": "15/07 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Stefanos Tsitsipas vs Ignacio Buse",
           "kick_utc": 1784120400,
           "time": "15/07 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 2",
-                "beIN SPORTS 1",
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Max Dahlin vs Sebastian Baez",
+          "kick_utc": 1784122200,
+          "time": "15/07 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Alex Molcan vs Valentin Royer",
+          "kick_utc": 1784124000,
+          "time": "15/07 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Matej Dodig vs Pablo Carreno-Busta",
+          "kick_utc": 1784124000,
+          "time": "15/07 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
                 "beIN Sports Connect"
               ]
             }
