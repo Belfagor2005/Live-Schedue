@@ -1,29 +1,12 @@
 [
     {
         "Date": "2026-07-15",
-        "Time": "15:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Swiss Open Gstaad",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-15",
-        "Time": "16:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Swedish Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-15",
         "Time": "21:00",
         "League": "Tennis (ATP)",
         "Matchup": "Croatia Open",
         "Services": [
-            "Tennis Channel"
+            "Tennis Channel",
+            "TSN+"
         ]
     },
     {
@@ -80,6 +63,7 @@
         "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-2]",
         "Matchup": "Sutjeska vs Kairat Almaty",
         "Services": [
+            "Qazaqstan TV HD",
             "TVCG 2 HD"
         ]
     },
@@ -89,7 +73,133 @@
         "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-1]",
         "Matchup": "Egnatia vs Petrocub",
         "Services": [
-            "Moldova 1 HD"
+            "Moldova 1 HD",
+            "RTSH Sport Albania"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "15:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Swiss Open Gstaad",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "16:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Swedish Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "17:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Iasi Open",
+        "Services": [
+            "Tennis Channel",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "21:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Croatia Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "21:30",
+        "League": "Tennis (WTA)",
+        "Matchup": "Athens Open",
+        "Services": [
+            "Tennis Channel",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "22:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
+        "Matchup": "Yelimay Semey vs Alashkert",
+        "Services": [
+            "QazSport HD"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "22:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
+        "Matchup": "Inter Turku vs FK Sarajevo",
+        "Services": [
+            "Jalkapallo TV",
+            "MY TV BiH",
+            "Solidsport Broadcast"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "22:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-0]",
+        "Matchup": "Astana vs Dinamo City",
+        "Services": [
+            "Arena Sport 1 Slovakia HD",
+            "Qazaqstan TV HD",
+            "SuperSport 2 Albania HD"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [0-3]",
+        "Matchup": "Torpedo Kutaisi vs Zira",
+        "Services": [
+            "Idman TV HD"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [0-2]",
+        "Matchup": "St Joseph's vs Bohemians",
+        "Services": [
+            "Bohemians FC Stream",
+            "Solidsport Broadcast"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [3-0]",
+        "Matchup": "Pyunik vs Marsaxlokk",
+        "Services": [
+            "- - -"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
+        "Matchup": "Paide Linnameeskond vs Hegelmann",
+        "Services": [
+            "OneFootball",
+            "Soccernet TV Estonia"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [0-0]",
+        "Matchup": "Ilves Tampere vs Differdange 03",
+        "Services": [
+            "Ilves+ Football"
         ]
     }
 ]
