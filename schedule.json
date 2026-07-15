@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15 15:22 VN",
+  "updated": "2026-07-15 20:52 VN",
   "days": {
     "20260715": {
       "date": "Wednesday, 15/07",
@@ -68,36 +68,6 @@
         },
         {
           "league": "Tennis",
-          "match": "Swiss Open Gstaad",
-          "kick_utc": 1784104200,
-          "time": "15/07 03:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Swedish Open",
-          "kick_utc": 1784106000,
-          "time": "15/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
           "match": "Croatia Open",
           "kick_utc": 1784124000,
           "time": "15/07 09:00 PM",
@@ -137,6 +107,70 @@
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784190600,
+          "time": "16/07 03:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784192400,
+          "time": "16/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784196000,
+          "time": "16/07 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784206800,
+          "time": "16/07 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2",
+                "beIN SPORTS 1"
               ]
             }
           ],
