@@ -1,9 +1,108 @@
 {
-  "updated": "2026-07-16 09:56 VN",
+  "updated": "2026-07-16 15:21 VN",
   "days": {
     "20260716": {
       "date": "Thursday, 16/07",
       "games": [
+        {
+          "league": "UEFA Europa League",
+          "match": "Universitatea Cluj vs Dynamo Kyiv",
+          "kick_utc": 1784223000,
+          "time": "17/07 12:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "2+2 Ukraine",
+                "Digi Sport 1 Romania HD",
+                "Kyivstar TV Football",
+                "OneFootball",
+                "Prima Sport RO 1 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Derry City vs CSKA Sofia",
+          "kick_utc": 1784223000,
+          "time": "17/07 12:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Diema Sport HD",
+                "Solidsport Broadcast"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Aluminij vs Sheriff Tiraspol",
+          "kick_utc": 1784224800,
+          "time": "17/07 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "SportKlub 1 Slovenija HD",
+                "SportKlub 6 Hrvatska"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Ferencváros vs Vojvodina",
+          "kick_utc": 1784225700,
+          "time": "17/07 01:15 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 2 Srbija HD",
+                "Arena Sport 1 Slovenija HD",
+                "M4 Sport Hungary HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "MSK Zilina vs Hajduk Split",
+          "kick_utc": 1784226600,
+          "time": "17/07 01:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DvojkaHD",
+                "Hajduk TV"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Vestri vs Qarabagh",
+          "kick_utc": 1784232000,
+          "time": "17/07 03:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "SÝN Sport Island 1 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "Swiss Open Gstaad",
@@ -83,77 +182,29 @@
         },
         {
           "league": "Tennis",
-          "match": "Raphael Collignon vs Lorenzo Sonego",
-          "kick_utc": 1784190600,
-          "time": "16/07 03:30 PM",
+          "match": "Croatia Open",
+          "kick_utc": 1784228400,
+          "time": "17/07 02:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "Botic Van De Zandschulp vs Adolfo Daniel Vallejo",
-          "kick_utc": 1784192400,
-          "time": "16/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Yannick Hanfmann vs Valentin Vacherot",
-          "kick_utc": 1784206800,
-          "time": "16/07 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Daniel Altmaier vs Luciano Darderi",
-          "kick_utc": 1784208600,
-          "time": "16/07 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Federico Agustin Gomez vs Matteo Arnaldi",
+          "match": "",
           "kick_utc": 1784210400,
           "time": "16/07 09:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
+                "beIN Sports Connect",
                 "beIN SPORTS 3"
               ]
             }
@@ -162,9 +213,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Tomas Martin Etcheverry vs Daniel Merida Aguilar",
-          "kick_utc": 1784210400,
-          "time": "16/07 09:00 PM",
+          "match": "",
+          "kick_utc": 1784219400,
+          "time": "16/07 11:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
