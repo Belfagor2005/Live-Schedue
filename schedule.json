@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16 21:04 VN",
+  "updated": "2026-07-17 02:20 VN",
   "days": {
     "20260716": {
       "date": "Thursday, 16/07",
@@ -64,6 +64,7 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "Arena M3 Premium MKD HD",
                 "Arena Premium 2 Srbija HD",
                 "Arena Sport 1 Slovenija HD",
                 "M4 Sport Hungary HD"
@@ -81,8 +82,8 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "DvojkaHD",
-                "Hajduk TV"
+                "Hajduk TV",
+                "STVR Šport Slovakia HD"
               ]
             }
           ],
@@ -97,38 +98,8 @@
             {
               "country": "LiveSportsOnTV",
               "channels": [
+                "CBC Sport HD",
                 "SÝN Sport Island 1 HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Croatia Open",
-          "kick_utc": 1784210400,
-          "time": "16/07 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Athens Open",
-          "kick_utc": 1784212200,
-          "time": "16/07 09:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel",
-                "DAZN Canada"
               ]
             }
           ],
@@ -151,15 +122,107 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784210400,
-          "time": "16/07 09:00 PM",
+          "match": "Swiss Open Gstaad",
+          "kick_utc": 1784277000,
+          "time": "17/07 03:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Swedish Open",
+          "kick_utc": 1784278800,
+          "time": "17/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Iasi Open",
+          "kick_utc": 1784282400,
+          "time": "17/07 05:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Swiss Open Gstaad",
+          "kick_utc": 1784291400,
+          "time": "17/07 07:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Athens Open",
+          "kick_utc": 1784298600,
+          "time": "17/07 09:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Swiss Open Gstaad",
+          "kick_utc": 1784302200,
+          "time": "17/07 10:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Juan Manuel Cerundolo vs Miomir Kecmanovic",
+          "kick_utc": 1784277000,
+          "time": "17/07 03:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
               ]
             }
           ],
@@ -167,9 +230,25 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784219400,
-          "time": "16/07 11:30 PM",
+          "match": "Nikoloz Basilashvili vs Thiago Augustin Tirante",
+          "kick_utc": 1784278800,
+          "time": "17/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Maiar Sherif Ahmed Abdelaziz vs Kaitlin Quevedo",
+          "kick_utc": 1784282400,
+          "time": "17/07 05:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
@@ -182,15 +261,15 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784277000,
-          "time": "17/07 03:30 PM",
+          "match": "Alejandro Tabilo vs Lautaro Midon",
+          "kick_utc": 1784289600,
+          "time": "17/07 07:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
+                "beIN SPORTS 2",
+                "beIN Sports Connect"
               ]
             }
           ],
@@ -198,63 +277,60 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784278800,
-          "time": "17/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784282400,
-          "time": "17/07 05:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784291400,
-          "time": "17/07 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
+          "match": "Alexander Bublik vs Quentin Halys",
           "kick_utc": 1784293200,
           "time": "17/07 08:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Daniel Merida Aguilar vs Titouan Droguet",
+          "kick_utc": 1784296800,
+          "time": "17/07 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Tereza Valentova vs Aliaksandra Sasnovich",
+          "kick_utc": 1784298600,
+          "time": "17/07 09:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Damir Dzumhur vs Matteo Arnaldi",
+          "kick_utc": 1784304000,
+          "time": "17/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
               ]
             }
           ],
