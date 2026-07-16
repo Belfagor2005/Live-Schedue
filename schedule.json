@@ -1,88 +1,9 @@
 {
-  "updated": "2026-07-16 02:18 VN",
+  "updated": "2026-07-16 09:56 VN",
   "days": {
-    "20260715": {
-      "date": "Wednesday, 15/07",
+    "20260716": {
+      "date": "Thursday, 16/07",
       "games": [
-        {
-          "league": "UEFA Champions League",
-          "match": "Universitatea Craiova vs Vitebsk",
-          "kick_utc": 1784136600,
-          "time": "16/07 12:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Digi Sport 1 Romania HD",
-                "Prima Sport RO 1 HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Atert Bissen vs KÍ Klaksvík",
-          "kick_utc": 1784139300,
-          "time": "16/07 01:15 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Arena Sport 1 Slovakia HD",
-                "Solidsport Broadcast"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Sutjeska vs Kairat Almaty",
-          "kick_utc": 1784142000,
-          "time": "16/07 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Qazaqstan TV HD",
-                "TVCG 2 HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Egnatia vs Petrocub",
-          "kick_utc": 1784142000,
-          "time": "16/07 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Moldova 1 HD",
-                "RTSH Sport Albania"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Croatia Open",
-          "kick_utc": 1784142000,
-          "time": "16/07 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Swiss Open Gstaad",
