@@ -1,83 +1,5 @@
 [
     {
-        "Date": "2026-07-15",
-        "Time": "21:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Croatia Open",
-        "Services": [
-            "Tennis Channel",
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-07-15",
-        "Time": "21:30",
-        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-2]",
-        "Matchup": "Malisheva vs Vllaznia Shkodër",
-        "Services": [
-            "RTK 1 Kosovo HD"
-        ]
-    },
-    {
-        "Date": "2026-07-16",
-        "Time": "00:30",
-        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [4-1]",
-        "Matchup": "Universitatea Craiova vs Vitebsk",
-        "Services": [
-            "Digi Sport 1 Romania HD",
-            "Prima Sport RO 1 HD"
-        ]
-    },
-    {
-        "Date": "2026-07-16",
-        "Time": "01:15",
-        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-2]",
-        "Matchup": "Atert Bissen vs KÍ Klaksvík",
-        "Services": [
-            "Arena Sport 1 Slovakia HD",
-            "Solidsport Broadcast"
-        ]
-    },
-    {
-        "Date": "2026-07-16",
-        "Time": "01:30",
-        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [0-1]",
-        "Matchup": "Decic Tuzi vs FK Liepaja",
-        "Services": [
-            "Solidsport Broadcast",
-            "TVCG 3"
-        ]
-    },
-    {
-        "Date": "2026-07-16",
-        "Time": "02:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Croatia Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-16",
-        "Time": "02:00",
-        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-2]",
-        "Matchup": "Sutjeska vs Kairat Almaty",
-        "Services": [
-            "Qazaqstan TV HD",
-            "TVCG 2 HD"
-        ]
-    },
-    {
-        "Date": "2026-07-16",
-        "Time": "02:00",
-        "League": "UEFA Champions League - 1st Qualifying Round (2nd Leg) [1-1]",
-        "Matchup": "Egnatia vs Petrocub",
-        "Services": [
-            "Moldova 1 HD",
-            "RTSH Sport Albania"
-        ]
-    },
-    {
         "Date": "2026-07-16",
         "Time": "15:30",
         "League": "Tennis (ATP)",
@@ -130,6 +52,7 @@
         "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
         "Matchup": "Yelimay Semey vs Alashkert",
         "Services": [
+            "Armenia First TV",
             "QazSport HD"
         ]
     },
@@ -180,7 +103,7 @@
         "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [3-0]",
         "Matchup": "Pyunik vs Marsaxlokk",
         "Services": [
-            "- - -"
+            "Armenia First News TV"
         ]
     },
     {
@@ -200,6 +123,226 @@
         "Matchup": "Ilves Tampere vs Differdange 03",
         "Services": [
             "Ilves+ Football"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "23:30",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [2-1]",
+        "Matchup": "Rigas FS vs Glentoran",
+        "Services": [
+            "NIFL TV",
+            "OneFootball",
+            "Sporta Centrs TV",
+            "TV4 Latvija"
+        ]
+    },
+    {
+        "Date": "2026-07-16",
+        "Time": "23:30",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [5-0]",
+        "Matchup": "FCI Levadia vs Caernarfon Town",
+        "Services": [
+            "Cymru Football TV",
+            "Soccernet TV Estonia"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "00:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [3-1]",
+        "Matchup": "Zalgiris vs Petrovac",
+        "Services": [
+            "OneFootball",
+            "TV3 Lietuva HD",
+            "TVCG 2 HD"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "00:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-3]",
+        "Matchup": "Víkingur Gøta vs Stjarnan",
+        "Services": [
+            "Livey Events",
+            "Solidsport Broadcast"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "00:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
+        "Matchup": "Milsami Orhei vs Velez Mostar",
+        "Services": [
+            "Moldova 2 HD",
+            "MY TV BiH"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "00:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-0]",
+        "Matchup": "FC Santa Coloma vs Pen-Y-Bont",
+        "Services": [
+            "- - -"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "00:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [2-1]",
+        "Matchup": "Dinamo Tbilisi vs Mondorf",
+        "Services": [
+            "- - -"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "00:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
+        "Matchup": "BATE Borisov vs Elbasani",
+        "Services": [
+            "Belarus 5 HD"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "00:30",
+        "League": "UEFA Europa League - 1st Qualifying Round (2nd Leg) [0-0]",
+        "Matchup": "Universitatea Cluj vs Dynamo Kyiv",
+        "Services": [
+            "2+2 Ukraine",
+            "Digi Sport 1 Romania HD",
+            "Kyivstar TV Football",
+            "OneFootball",
+            "Prima Sport RO 1 HD"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "00:30",
+        "League": "UEFA Europa League - 1st Qualifying Round (2nd Leg) [2-3]",
+        "Matchup": "Derry City vs CSKA Sofia",
+        "Services": [
+            "Diema Sport HD",
+            "Solidsport Broadcast"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "00:30",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
+        "Matchup": "Hamrun Spartans vs NSI Runavik",
+        "Services": [
+            "OneFootball"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "01:00",
+        "League": "UEFA Europa League - 1st Qualifying Round (2nd Leg) [0-0]",
+        "Matchup": "Aluminij vs Sheriff Tiraspol",
+        "Services": [
+            "SportKlub 1 Slovenija HD",
+            "SportKlub 6 Hrvatska"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "01:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-0]",
+        "Matchup": "Sileks vs Dynamo Minsk",
+        "Services": [
+            "- - -"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "01:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [5-0]",
+        "Matchup": "Shkëndija vs Europa",
+        "Services": [
+            "MRT 2 North Macedonia"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "01:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [0-0]",
+        "Matchup": "Ballkani vs Connah's Quay",
+        "Services": [
+            "BBC iPlayer",
+            "RTK 1 Kosovo HD",
+            "S4C Clic",
+            "S4C Sgorio Cymru",
+            "YouTube: Sgorio"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "01:15",
+        "League": "UEFA Europa League - 1st Qualifying Round (2nd Leg) [2-1]",
+        "Matchup": "Ferencváros vs Vojvodina",
+        "Services": [
+            "Arena Premium 2 Srbija HD",
+            "Arena Sport 1 Slovenija HD",
+            "M4 Sport Hungary HD"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "01:30",
+        "League": "UEFA Europa League - 1st Qualifying Round (2nd Leg) [0-2]",
+        "Matchup": "MSK Zilina vs Hajduk Split",
+        "Services": [
+            "DvojkaHD",
+            "Hajduk TV"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "01:45",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-2]",
+        "Matchup": "Mornar vs Atletic Escaldes",
+        "Services": [
+            "TVCG 3"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "01:45",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [0-1]",
+        "Matchup": "Linfield vs Nõmme Kalju",
+        "Services": [
+            "NIFL TV",
+            "Solidsport Broadcast"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "02:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Croatia Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "02:00",
+        "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-3]",
+        "Matchup": "Virtus vs Dila Gori",
+        "Services": [
+            "- - -"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "03:00",
+        "League": "UEFA Europa League - 1st Qualifying Round (2nd Leg) [0-3]",
+        "Matchup": "Vestri vs Qarabagh",
+        "Services": [
+            "SÝN Sport Island 1 HD"
         ]
     }
 ]
