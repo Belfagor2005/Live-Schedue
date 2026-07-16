@@ -1,66 +1,21 @@
 [
   {
-    "competition": "ATP Gstaad",
-    "home": "Raphael Collignon",
-    "away": "Lorenzo Sonego",
-    "vietnam_time": "15:30",
+    "competition": "ATP Umag",
+    "home": "",
+    "away": "",
+    "vietnam_time": "21:00",
     "vietnam_date": "16/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 1",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Bastad",
-    "home": "Botic Van De Zandschulp",
-    "away": "Adolfo Daniel Vallejo",
-    "vietnam_time": "16:00",
-    "vietnam_date": "16/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 2",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Gstaad",
-    "home": "Yannick Hanfmann",
-    "away": "Valentin Vacherot",
-    "vietnam_time": "20:00",
-    "vietnam_date": "16/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 1",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Bastad",
-    "home": "Daniel Altmaier",
-    "away": "Luciano Darderi",
-    "vietnam_time": "20:30",
-    "vietnam_date": "16/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "channels": "beIN Sports Connect | beIN SPORTS 3",
     "sport": "Tennis"
   },
   {
     "competition": "ATP Umag",
-    "home": "Federico Agustin Gomez",
-    "away": "Matteo Arnaldi",
-    "vietnam_time": "21:00",
-    "vietnam_date": "16/07/2026",
-    "channels": "beIN SPORTS 3",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Umag",
-    "home": "Tomas Martin Etcheverry",
-    "away": "Daniel Merida Aguilar",
-    "vietnam_time": "21:00",
+    "home": "",
+    "away": "",
+    "vietnam_time": "23:30",
     "vietnam_date": "16/07/2026",
     "channels": "beIN Sports Connect",
     "sport": "Tennis"
-  },
-  {
-    "competition": "World Cup 2026",
-    "home": "England",
-    "away": "Argentina",
-    "vietnam_time": "02:00",
-    "vietnam_date": "17/07/2026",
-    "channels": "SBS Melbourne | SBS On Demand",
-    "sport": "Soccer"
   },
   {
     "competition": "ATP Gstaad",
@@ -86,7 +41,16 @@
     "away": "",
     "vietnam_time": "17:00",
     "vietnam_date": "17/07/2026",
-    "channels": "beIN Sports Connect",
+    "channels": "beIN Sports Connect | Stan Sport",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Gstaad",
+    "home": "",
+    "away": "",
+    "vietnam_time": "19:30",
+    "vietnam_date": "17/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
@@ -96,24 +60,6 @@
     "vietnam_time": "20:00",
     "vietnam_date": "17/07/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Gstaad",
-    "home": "",
-    "away": "",
-    "vietnam_time": "20:00",
-    "vietnam_date": "17/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 1",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Umag",
-    "home": "",
-    "away": "",
-    "vietnam_time": "21:00",
-    "vietnam_date": "17/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 3",
     "sport": "Tennis"
   }
 ]
