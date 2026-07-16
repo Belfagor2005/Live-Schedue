@@ -1,39 +1,12 @@
 [
     {
         "Date": "2026-07-16",
-        "Time": "15:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Swiss Open Gstaad",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-16",
-        "Time": "16:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Swedish Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-16",
-        "Time": "17:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Iasi Open",
-        "Services": [
-            "Tennis Channel",
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-07-16",
         "Time": "21:00",
         "League": "Tennis (ATP)",
         "Matchup": "Croatia Open",
         "Services": [
-            "Tennis Channel"
+            "Tennis Channel",
+            "TSN+"
         ]
     },
     {
@@ -84,7 +57,8 @@
         "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [0-3]",
         "Matchup": "Torpedo Kutaisi vs Zira",
         "Services": [
-            "Idman TV HD"
+            "Idman TV HD",
+            "Silk Universal HD"
         ]
     },
     {
@@ -184,7 +158,11 @@
         "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-0]",
         "Matchup": "FC Santa Coloma vs Pen-Y-Bont",
         "Services": [
-            "- - -"
+            "BBC iPlayer",
+            "RTVA Andorra",
+            "S4C Clic",
+            "S4C Sgorio Cymru",
+            "YouTube: Sgorio"
         ]
     },
     {
@@ -193,7 +171,7 @@
         "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [2-1]",
         "Matchup": "Dinamo Tbilisi vs Mondorf",
         "Services": [
-            "- - -"
+            "1TV Georgia HD"
         ]
     },
     {
@@ -234,7 +212,8 @@
         "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-1]",
         "Matchup": "Hamrun Spartans vs NSI Runavik",
         "Services": [
-            "OneFootball"
+            "OneFootball",
+            "TVM Sport+ HD"
         ]
     },
     {
@@ -253,7 +232,7 @@
         "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-0]",
         "Matchup": "Sileks vs Dynamo Minsk",
         "Services": [
-            "- - -"
+            "Arena M1 Premium MKD HD"
         ]
     },
     {
@@ -284,6 +263,7 @@
         "League": "UEFA Europa League - 1st Qualifying Round (2nd Leg) [2-1]",
         "Matchup": "Ferencváros vs Vojvodina",
         "Services": [
+            "Arena M3 Premium MKD HD",
             "Arena Premium 2 Srbija HD",
             "Arena Sport 1 Slovenija HD",
             "M4 Sport Hungary HD"
@@ -295,8 +275,8 @@
         "League": "UEFA Europa League - 1st Qualifying Round (2nd Leg) [0-2]",
         "Matchup": "MSK Zilina vs Hajduk Split",
         "Services": [
-            "DvojkaHD",
-            "Hajduk TV"
+            "Hajduk TV",
+            "STVR Šport Slovakia HD"
         ]
     },
     {
@@ -333,7 +313,7 @@
         "League": "UEFA Conference League - 1st Qualifying Round (2nd Leg) [1-3]",
         "Matchup": "Virtus vs Dila Gori",
         "Services": [
-            "- - -"
+            "Rtv San Marino DTT"
         ]
     },
     {
@@ -342,7 +322,64 @@
         "League": "UEFA Europa League - 1st Qualifying Round (2nd Leg) [0-3]",
         "Matchup": "Vestri vs Qarabagh",
         "Services": [
+            "CBC Sport HD",
             "SÝN Sport Island 1 HD"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "15:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Swiss Open Gstaad",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "16:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Swedish Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "17:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Iasi Open",
+        "Services": [
+            "Tennis Channel",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "19:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Swiss Open Gstaad",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "21:30",
+        "League": "Tennis (WTA)",
+        "Matchup": "Athens Open",
+        "Services": [
+            "Tennis Channel",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-07-17",
+        "Time": "22:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Swiss Open Gstaad",
+        "Services": [
+            "Tennis Channel"
         ]
     }
 ]
