@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17 10:14 VN",
+  "updated": "2026-07-17 15:17 VN",
   "days": {
     "20260717": {
       "date": "Friday, 17/07",
@@ -67,6 +67,21 @@
         },
         {
           "league": "Tennis",
+          "match": "Swedish Open",
+          "kick_utc": 1784293200,
+          "time": "17/07 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
           "match": "Athens Open",
           "kick_utc": 1784298600,
           "time": "17/07 09:30 PM",
@@ -98,101 +113,52 @@
         },
         {
           "league": "Tennis",
-          "match": "Juan Manuel Cerundolo vs Miomir Kecmanovic",
-          "kick_utc": 1784277000,
-          "time": "17/07 03:30 PM",
+          "match": "Croatia Open",
+          "kick_utc": 1784305800,
+          "time": "17/07 11:30 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "Nikoloz Basilashvili vs Thiago Augustin Tirante",
-          "kick_utc": 1784278800,
-          "time": "17/07 04:00 PM",
+          "match": "Croatia Open",
+          "kick_utc": 1784307600,
+          "time": "18/07 12:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "Maiar Sherif Ahmed Abdelaziz vs Kaitlin Quevedo",
-          "kick_utc": 1784282400,
-          "time": "17/07 05:00 PM",
+          "match": "Croatia Open",
+          "kick_utc": 1784314800,
+          "time": "18/07 02:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "Alejandro Tabilo vs Lautaro Midon",
-          "kick_utc": 1784289600,
-          "time": "17/07 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alexander Bublik vs Quentin Halys",
-          "kick_utc": 1784293200,
-          "time": "17/07 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Daniel Merida Aguilar vs Titouan Droguet",
-          "kick_utc": 1784296800,
-          "time": "17/07 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 3",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Tereza Valentova vs Aliaksandra Sasnovich",
+          "match": "",
           "kick_utc": 1784298600,
           "time": "17/07 09:30 PM",
           "tv_channels": [
@@ -207,13 +173,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Damir Dzumhur vs Matteo Arnaldi",
-          "kick_utc": 1784304000,
-          "time": "17/07 11:00 PM",
+          "match": "",
+          "kick_utc": 1784305800,
+          "time": "17/07 11:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
+                "beIN SPORTS 3",
                 "beIN Sports Connect"
               ]
             }
