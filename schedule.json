@@ -1,90 +1,14 @@
 {
-  "updated": "2026-07-17 20:48 VN",
+  "updated": "2026-07-18 02:17 VN",
   "days": {
     "20260717": {
       "date": "Friday, 17/07",
       "games": [
         {
           "league": "Tennis",
-          "match": "Swiss Open Gstaad",
-          "kick_utc": 1784291400,
-          "time": "17/07 07:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Swedish Open",
-          "kick_utc": 1784293200,
-          "time": "17/07 08:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
           "match": "Athens Open",
-          "kick_utc": 1784298600,
-          "time": "17/07 09:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Swiss Open Gstaad",
-          "kick_utc": 1784302200,
-          "time": "17/07 10:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Croatia Open",
-          "kick_utc": 1784305800,
-          "time": "17/07 11:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Croatia Open",
-          "kick_utc": 1784307600,
-          "time": "18/07 12:00 AM",
+          "kick_utc": 1784313000,
+          "time": "18/07 01:30 AM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
@@ -112,34 +36,49 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784298600,
-          "time": "17/07 09:30 PM",
+          "match": "Swiss Open Gstaad",
+          "kick_utc": 1784365200,
+          "time": "18/07 04:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784305800,
-          "time": "17/07 11:30 PM",
+          "match": "Swedish Open",
+          "kick_utc": 1784372400,
+          "time": "18/07 06:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN SPORTS 3",
-                "beIN Sports Connect"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Iasi Open",
+          "kick_utc": 1784383200,
+          "time": "18/07 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -150,8 +89,8 @@
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
@@ -166,8 +105,56 @@
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784383200,
+          "time": "18/07 09:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784392200,
+          "time": "18/07 11:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784394000,
+          "time": "19/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
