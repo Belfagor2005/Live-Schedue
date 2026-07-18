@@ -1,39 +1,9 @@
 {
-  "updated": "2026-07-18 02:17 VN",
+  "updated": "2026-07-18 09:51 VN",
   "days": {
-    "20260717": {
-      "date": "Friday, 17/07",
+    "20260718": {
+      "date": "Saturday, 18/07",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Athens Open",
-          "kick_utc": 1784313000,
-          "time": "18/07 01:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Croatia Open",
-          "kick_utc": 1784314800,
-          "time": "18/07 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Swiss Open Gstaad",
