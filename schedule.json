@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18 09:51 VN",
+  "updated": "2026-07-18 14:59 VN",
   "days": {
     "20260718": {
       "date": "Saturday, 18/07",
@@ -52,39 +52,52 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784365200,
-          "time": "18/07 04:00 PM",
+          "match": "Athens Open",
+          "kick_utc": 1784392200,
+          "time": "18/07 11:30 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
+                "DAZN Canada"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784372400,
-          "time": "18/07 06:00 PM",
+          "match": "Croatia Open",
+          "kick_utc": 1784394000,
+          "time": "19/07 12:00 AM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Athens Open",
+          "kick_utc": 1784399400,
+          "time": "19/07 01:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Maiar Sherif Ahmed Abdelaziz vs Oleksandra Oliynykova",
           "kick_utc": 1784383200,
           "time": "18/07 09:00 PM",
           "tv_channels": [
@@ -100,7 +113,7 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Maria Sakkari vs Korneeva A.",
           "kick_utc": 1784392200,
           "time": "18/07 11:30 PM",
           "tv_channels": [
