@@ -1,79 +1,5 @@
 [
     {
-        "Date": "2026-07-17",
-        "Time": "19:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Swiss Open Gstaad",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-17",
-        "Time": "20:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Swedish Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-17",
-        "Time": "21:30",
-        "League": "Tennis (WTA)",
-        "Matchup": "Athens Open",
-        "Services": [
-            "Tennis Channel",
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-07-17",
-        "Time": "22:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Swiss Open Gstaad",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-17",
-        "Time": "23:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Croatia Open",
-        "Services": [
-            "Tennis Channel",
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-07-18",
-        "Time": "00:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Croatia Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-18",
-        "Time": "01:30",
-        "League": "Tennis (WTA)",
-        "Matchup": "Athens Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-18",
-        "Time": "02:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Croatia Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
         "Date": "2026-07-18",
         "Time": "16:00",
         "League": "Tennis (ATP)",
@@ -99,6 +25,33 @@
         "Services": [
             "Tennis Channel",
             "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-07-18",
+        "Time": "23:30",
+        "League": "Tennis (WTA)",
+        "Matchup": "Athens Open",
+        "Services": [
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-07-19",
+        "Time": "00:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Croatia Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-19",
+        "Time": "01:30",
+        "League": "Tennis (WTA)",
+        "Matchup": "Athens Open",
+        "Services": [
+            "Tennis Channel"
         ]
     }
 ]
