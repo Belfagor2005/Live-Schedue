@@ -1,55 +1,9 @@
 {
-  "updated": "2026-07-18 20:25 VN",
+  "updated": "2026-07-19 02:11 VN",
   "days": {
     "20260718": {
       "date": "Saturday, 18/07",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Iasi Open",
-          "kick_utc": 1784383200,
-          "time": "18/07 09:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel",
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Athens Open",
-          "kick_utc": 1784392200,
-          "time": "18/07 11:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Croatia Open",
-          "kick_utc": 1784394000,
-          "time": "19/07 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Athens Open",
@@ -67,51 +21,66 @@
         },
         {
           "league": "Tennis",
-          "match": "Maiar Sherif Ahmed Abdelaziz vs Oleksandra Oliynykova",
-          "kick_utc": 1784383200,
-          "time": "18/07 09:00 PM",
+          "match": "Swiss Open Gstaad",
+          "kick_utc": 1784453400,
+          "time": "19/07 04:30 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
+                "Tennis Channel",
+                "T2"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "Maria Sakkari vs Korneeva A.",
-          "kick_utc": 1784392200,
-          "time": "18/07 11:30 PM",
+          "match": "Swedish Open",
+          "kick_utc": 1784453400,
+          "time": "19/07 04:30 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784394000,
-          "time": "19/07 12:00 AM",
+          "match": "Swedish Open",
+          "kick_utc": 1784462400,
+          "time": "19/07 07:00 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Iasi Open",
+          "kick_utc": 1784471400,
+          "time": "19/07 09:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel",
+                "TVA Sports 2",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -140,6 +109,22 @@
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784471400,
+          "time": "19/07 09:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
