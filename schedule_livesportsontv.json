@@ -1,24 +1,6 @@
 [
     {
         "Date": "2026-07-18",
-        "Time": "16:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Swiss Open Gstaad",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-18",
-        "Time": "18:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Swedish Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-18",
         "Time": "21:00",
         "League": "Tennis (WTA)",
         "Matchup": "Iasi Open",
@@ -42,7 +24,8 @@
         "League": "Tennis (ATP)",
         "Matchup": "Croatia Open",
         "Services": [
-            "Tennis Channel"
+            "Tennis Channel",
+            "TSN+"
         ]
     },
     {
@@ -52,6 +35,45 @@
         "Matchup": "Athens Open",
         "Services": [
             "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-19",
+        "Time": "16:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Swiss Open Gstaad",
+        "Services": [
+            "Tennis Channel",
+            "T2"
+        ]
+    },
+    {
+        "Date": "2026-07-19",
+        "Time": "16:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Swedish Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-19",
+        "Time": "19:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Swedish Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-19",
+        "Time": "21:30",
+        "League": "Tennis (WTA)",
+        "Matchup": "Iasi Open",
+        "Services": [
+            "Tennis Channel",
+            "TVA Sports 2",
+            "DAZN Canada"
         ]
     }
 ]
