@@ -1,40 +1,9 @@
 {
-  "updated": "2026-07-19 15:25 VN",
+  "updated": "2026-07-19 20:35 VN",
   "days": {
     "20260719": {
       "date": "Sunday, 19/07",
       "games": [
-        {
-          "league": "Tennis",
-          "match": "Swiss Open Gstaad",
-          "kick_utc": 1784453400,
-          "time": "19/07 04:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel",
-                "T2"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "Swedish Open",
-          "kick_utc": 1784453400,
-          "time": "19/07 04:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "Tennis",
           "match": "Swedish Open",
