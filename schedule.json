@@ -1,14 +1,14 @@
 {
-  "updated": "2026-07-19 20:35 VN",
+  "updated": "2026-07-20 02:12 VN",
   "days": {
     "20260719": {
       "date": "Sunday, 19/07",
       "games": [
         {
           "league": "Tennis",
-          "match": "Swedish Open",
-          "kick_utc": 1784462400,
-          "time": "19/07 07:00 PM",
+          "match": "Austrian Open",
+          "kick_utc": 1784538000,
+          "time": "20/07 04:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
@@ -21,16 +21,14 @@
         },
         {
           "league": "Tennis",
-          "match": "Iasi Open",
-          "kick_utc": 1784471400,
-          "time": "19/07 09:30 PM",
+          "match": "Hamburg Open",
+          "kick_utc": 1784538000,
+          "time": "20/07 04:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "Tennis Channel",
-                "TVA Sports 2",
-                "DAZN Canada"
+                "Tennis Channel"
               ]
             }
           ],
@@ -38,34 +36,18 @@
         },
         {
           "league": "Tennis",
-          "match": "Athens Open",
-          "kick_utc": 1784480400,
-          "time": "20/07 12:00 AM",
+          "match": "Hamburg Open",
+          "kick_utc": 1784547000,
+          "time": "20/07 06:30 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "DAZN Canada"
+                "Tennis Channel"
               ]
             }
           ],
           "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784471400,
-          "time": "19/07 09:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
         }
       ]
     }
