@@ -1,43 +1,5 @@
 [
     {
-        "Date": "2026-07-18",
-        "Time": "21:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Iasi Open",
-        "Services": [
-            "Tennis Channel",
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-07-18",
-        "Time": "23:30",
-        "League": "Tennis (WTA)",
-        "Matchup": "Athens Open",
-        "Services": [
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-07-19",
-        "Time": "00:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Croatia Open",
-        "Services": [
-            "Tennis Channel",
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-07-19",
-        "Time": "01:30",
-        "League": "Tennis (WTA)",
-        "Matchup": "Athens Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
         "Date": "2026-07-19",
         "Time": "16:30",
         "League": "Tennis (ATP)",
@@ -73,6 +35,15 @@
         "Services": [
             "Tennis Channel",
             "TVA Sports 2",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-07-20",
+        "Time": "00:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Athens Open",
+        "Services": [
             "DAZN Canada"
         ]
     }
