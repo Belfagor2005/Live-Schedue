@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-20 10:36 VN",
+  "updated": "2026-07-20 16:23 VN",
   "days": {
     "20260720": {
       "date": "Monday, 20/07",
@@ -39,6 +39,21 @@
           "match": "Hamburg Open",
           "kick_utc": 1784547000,
           "time": "20/07 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Los Cabos",
+          "kick_utc": 1784595600,
+          "time": "21/07 08:00 AM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
