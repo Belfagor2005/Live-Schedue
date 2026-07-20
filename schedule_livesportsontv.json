@@ -1,25 +1,16 @@
 [
     {
-        "Date": "2026-07-20",
-        "Time": "16:00",
+        "Date": "2026-07-21",
+        "Time": "08:00",
         "League": "Tennis (ATP)",
-        "Matchup": "Austrian Open",
+        "Matchup": "Los Cabos",
         "Services": [
             "Tennis Channel"
         ]
     },
     {
-        "Date": "2026-07-20",
+        "Date": "2026-07-21",
         "Time": "16:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Hamburg Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-20",
-        "Time": "18:30",
         "League": "Tennis (WTA)",
         "Matchup": "Hamburg Open",
         "Services": [
@@ -28,11 +19,51 @@
     },
     {
         "Date": "2026-07-21",
-        "Time": "08:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Los Cabos",
+        "Time": "23:00",
+        "League": "UEFA Champions League",
+        "Matchup": "Shamrock Rovers @ Ararat-Armenia",
         "Services": [
-            "Tennis Channel"
+            "ESPN Select",
+            "ESPN Unlimited"
+        ]
+    },
+    {
+        "Date": "2026-07-21",
+        "Time": "23:00",
+        "League": "UEFA Champions League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Ararat-Armenia vs Shamrock Rovers",
+        "Services": [
+            "Armenia First TV",
+            "Canal 11 Portugal HD",
+            "Solidsport Broadcast"
+        ]
+    },
+    {
+        "Date": "2026-07-21",
+        "Time": "23:00",
+        "League": "UEFA Champions League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Iberia 1999 vs Slovan Bratislava",
+        "Services": [
+            "Silk Universal HD",
+            "STVR Šport Slovakia HD"
+        ]
+    },
+    {
+        "Date": "2026-07-21",
+        "Time": "23:00",
+        "League": "UEFA Champions League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Sabah vs KuPS Kuopio",
+        "Services": [
+            "Ictimai TV HD"
+        ]
+    },
+    {
+        "Date": "2026-07-21",
+        "Time": "23:00",
+        "League": "UEFA Champions League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Mjällby AIF vs Lincoln Red Imps",
+        "Services": [
+            "Sport Bladet Play"
         ]
     }
 ]
