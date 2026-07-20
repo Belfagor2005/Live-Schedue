@@ -1,35 +1,5 @@
 [
     {
-        "Date": "2026-07-19",
-        "Time": "19:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Andrey Rublev",
-        "Services": [
-            "Tennis Channel",
-            "TSN+"
-        ]
-    },
-    {
-        "Date": "2026-07-19",
-        "Time": "21:30",
-        "League": "Tennis (WTA)",
-        "Matchup": "Iasi Open",
-        "Services": [
-            "Tennis Channel",
-            "TVA Sports 2",
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-07-20",
-        "Time": "00:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Athens Open",
-        "Services": [
-            "DAZN Canada"
-        ]
-    },
-    {
         "Date": "2026-07-20",
         "Time": "16:00",
         "League": "Tennis (ATP)",
@@ -52,6 +22,15 @@
         "Time": "18:30",
         "League": "Tennis (WTA)",
         "Matchup": "Hamburg Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-21",
+        "Time": "08:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Los Cabos",
         "Services": [
             "Tennis Channel"
         ]
