@@ -1,9 +1,88 @@
 {
-  "updated": "2026-07-20 21:17 VN",
+  "updated": "2026-07-21 02:48 VN",
   "days": {
     "20260720": {
       "date": "Monday, 20/07",
       "games": [
+        {
+          "league": "UEFA Champions League",
+          "match": "Shamrock Rovers vs Ararat-Armenia",
+          "kick_utc": 1784649600,
+          "time": "21/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Ararat-Armenia vs Shamrock Rovers",
+          "kick_utc": 1784649600,
+          "time": "21/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Armenia First TV",
+                "Canal 11 Portugal HD",
+                "Solidsport Broadcast"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Iberia 1999 vs Slovan Bratislava",
+          "kick_utc": 1784649600,
+          "time": "21/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Silk Universal HD",
+                "STVR Šport Slovakia HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Sabah vs KuPS Kuopio",
+          "kick_utc": 1784649600,
+          "time": "21/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Ictimai TV HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Mjällby AIF vs Lincoln Red Imps",
+          "kick_utc": 1784649600,
+          "time": "21/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Sport Bladet Play"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "Los Cabos",
@@ -18,6 +97,84 @@
             }
           ],
           "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Hamburg Open",
+          "kick_utc": 1784624400,
+          "time": "21/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Maiar Sherif Ahmed Abdelaziz vs Paula Badosa Gibert",
+          "kick_utc": 1784621400,
+          "time": "21/07 03:10 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Alexandre Muller vs Mariano Navone",
+          "kick_utc": 1784624400,
+          "time": "21/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Tiago Torres vs Nikoloz Basilashvili",
+          "kick_utc": 1784631600,
+          "time": "21/07 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Vit Kopriva vs Ignacio Buse",
+          "kick_utc": 1784640600,
+          "time": "21/07 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
         }
       ]
     }
