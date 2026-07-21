@@ -1,15 +1,6 @@
 [
     {
         "Date": "2026-07-21",
-        "Time": "16:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Hamburg Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-21",
         "Time": "23:00",
         "League": "UEFA Champions League",
         "Matchup": "Shamrock Rovers @ Ararat-Armenia",
@@ -26,6 +17,7 @@
         "Services": [
             "Armenia First TV",
             "Canal 11 Portugal HD",
+            "ESPN+ USA",
             "Solidsport Broadcast"
         ]
     },
@@ -109,6 +101,7 @@
         "League": "UEFA Champions League - 2nd Qualifying Round (1st Leg)",
         "Matchup": "Fenerbahçe vs Górnik Zabrze",
         "Services": [
+            "Persiana Sport HD",
             "Polsat Sport 1 HD",
             "Polsat Sport Premium 1 HD",
             "Super Polsat HD",
@@ -145,6 +138,7 @@
             "Arena Premium 2 Srbija HD",
             "Arena Sport 1 Slovakia HD",
             "Canal 11 Portugal HD",
+            "ESPN+ USA",
             "ORF 1 Austria HD",
             "Premier Sports 1 Ireland HD",
             "Premier Sports 1 UK HD",
@@ -172,6 +166,24 @@
             "Arena Premium 1 Srbija HD",
             "NIFL TV",
             "RTS 2 Srbija HD"
+        ]
+    },
+    {
+        "Date": "2026-07-22",
+        "Time": "16:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Hamburg Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-22",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Neftchi vs Dynamo Minsk",
+        "Services": [
+            "- - -"
         ]
     }
 ]
