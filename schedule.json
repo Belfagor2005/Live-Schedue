@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21 10:17 VN",
+  "updated": "2026-07-21 15:36 VN",
   "days": {
     "20260721": {
       "date": "Tuesday, 21/07",
@@ -84,6 +84,137 @@
           "source": "livesportsontv"
         },
         {
+          "league": "UEFA Champions League",
+          "match": "AGF Aarhus vs Lech Poznan",
+          "kick_utc": 1784653200,
+          "time": "22/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "OneFootball",
+                "TV3+ Dansk HD",
+                "TVP Sport Polska HD",
+                "Veikkaus TV",
+                "ViaPlay Danmark HD",
+                "ViaPlay Sport News Dansk"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Thun vs Dinamo Zagreb",
+          "kick_utc": 1784656800,
+          "time": "22/07 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "OneFootball",
+                "Play RTS Sport",
+                "RSI La 2 Svizzera HD",
+                "RTL Hrvatska",
+                "SRF Zwei Schweiz HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Fenerbahçe vs Górnik Zabrze",
+          "kick_utc": 1784656800,
+          "time": "22/07 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Polsat Sport 1 HD",
+                "Polsat Sport Premium 1 HD",
+                "Super Polsat HD",
+                "TV 100 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Hearts vs Sturm Graz",
+          "kick_utc": 1784658600,
+          "time": "22/07 01:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Sturm Graz vs Hearts",
+          "kick_utc": 1784658600,
+          "time": "22/07 01:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena M1 Premium MKD HD",
+                "Arena Premium 2 BiH HD",
+                "Arena Premium 2 Srbija HD",
+                "Arena Sport 1 Slovakia HD",
+                "Canal 11 Portugal HD",
+                "ORF 1 Austria HD",
+                "Premier Sports 1 Ireland HD",
+                "Premier Sports 1 UK HD",
+                "Premier Sports GB Player HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "KÍ Klaksvík vs Kauno Zalgiris",
+          "kick_utc": 1784659500,
+          "time": "22/07 01:45 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Solidsport Broadcast",
+                "TV KI Faroes",
+                "TV6 Lietuva"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Larne vs Red Star Belgrade",
+          "kick_utc": 1784660400,
+          "time": "22/07 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 1 BiH HD",
+                "Arena Premium 1 Srbija HD",
+                "NIFL TV",
+                "RTS 2 Srbija HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
           "league": "Tennis",
           "match": "Hamburg Open",
           "kick_utc": 1784624400,
@@ -100,62 +231,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Maiar Sherif Ahmed Abdelaziz vs Paula Badosa Gibert",
-          "kick_utc": 1784621400,
-          "time": "21/07 03:10 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alexandre Muller vs Mariano Navone",
-          "kick_utc": 1784624400,
-          "time": "21/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Tiago Torres vs Nikoloz Basilashvili",
-          "kick_utc": 1784631600,
-          "time": "21/07 06:00 PM",
+          "match": "",
+          "kick_utc": 1784646000,
+          "time": "21/07 10:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Vit Kopriva vs Ignacio Buse",
-          "kick_utc": 1784640600,
-          "time": "21/07 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
               ]
             }
           ],
