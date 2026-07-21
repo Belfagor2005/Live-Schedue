@@ -1,38 +1,47 @@
 [
   {
-    "competition": "WTA Iasi",
-    "home": "Maiar Sherif Ahmed Abdelaziz",
-    "away": "Paula Badosa Gibert",
-    "vietnam_time": "15:10",
-    "vietnam_date": "21/07/2026",
-    "channels": "beIN Sports Connect",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Kitzbuhel",
-    "home": "Alexandre Muller",
-    "away": "Mariano Navone",
-    "vietnam_time": "16:00",
-    "vietnam_date": "21/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 1",
-    "sport": "Tennis"
-  },
-  {
     "competition": "ATP Estoril",
-    "home": "Tiago Torres",
-    "away": "Nikoloz Basilashvili",
-    "vietnam_time": "18:00",
+    "home": "",
+    "away": "",
+    "vietnam_time": "22:00",
     "vietnam_date": "21/07/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
   {
     "competition": "ATP Kitzbuhel",
-    "home": "Vit Kopriva",
-    "away": "Ignacio Buse",
-    "vietnam_time": "20:30",
-    "vietnam_date": "21/07/2026",
+    "home": "",
+    "away": "",
+    "vietnam_time": "16:00",
+    "vietnam_date": "22/07/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Estoril",
+    "home": "",
+    "away": "",
+    "vietnam_time": "18:00",
+    "vietnam_date": "22/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Kitzbuhel",
+    "home": "",
+    "away": "",
+    "vietnam_time": "20:00",
+    "vietnam_date": "22/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Estoril",
+    "home": "",
+    "away": "",
+    "vietnam_time": "23:00",
+    "vietnam_date": "22/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   }
 ]
