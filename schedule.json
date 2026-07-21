@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21 15:36 VN",
+  "updated": "2026-07-21 21:04 VN",
   "days": {
     "20260721": {
       "date": "Tuesday, 21/07",
@@ -216,21 +216,6 @@
         },
         {
           "league": "Tennis",
-          "match": "Hamburg Open",
-          "kick_utc": 1784624400,
-          "time": "21/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
           "match": "",
           "kick_utc": 1784646000,
           "time": "21/07 10:00 PM",
@@ -240,6 +225,54 @@
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784710800,
+          "time": "22/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784718000,
+          "time": "22/07 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784725200,
+          "time": "22/07 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
