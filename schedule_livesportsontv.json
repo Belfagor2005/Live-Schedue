@@ -1,19 +1,12 @@
 [
     {
         "Date": "2026-07-22",
-        "Time": "16:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Hamburg Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-22",
         "Time": "23:00",
         "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
         "Matchup": "Neftchi vs Dynamo Minsk",
         "Services": [
+            "Belarus 5 HD",
+            "Belarus 5 Internet",
             "CBC Sport HD"
         ]
     },
@@ -104,7 +97,146 @@
             "Arena M3 Premium MKD HD",
             "Arena Premium 1 BiH HD",
             "Arena Premium 1 Srbija HD",
+            "OneFootball",
             "Sport TV5 Portugal HD"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "16:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Hamburg Open",
+        "Services": [
+            "Tennis Channel",
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "16:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Prague Open",
+        "Services": [
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "20:00",
+        "League": "Tennis (ATP)",
+        "Matchup": "Austrian Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "21:00",
+        "League": "Tennis (WTA)",
+        "Matchup": "Prague Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "21:30",
+        "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Malisheva vs Hibernian",
+        "Services": [
+            "Solidsport Broadcast"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "22:00",
+        "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "FK Liepaja vs Austria Vienna",
+        "Services": [
+            "Joyn",
+            "Puls 4 Österreich HD",
+            "Solidsport Broadcast"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "22:00",
+        "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Alashkert vs CFR Cluj",
+        "Services": [
+            "- - -",
+            "Armenia First TV"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "22:30",
+        "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Panevežys vs Tobol",
+        "Services": [
+            "Delfi TV Lithuania",
+            "QazSport HD"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "23:00",
+        "League": "UEFA Europa League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Qarabagh vs CSKA Sofia",
+        "Services": [
+            "CBC Sport HD",
+            "Diema Sport HD",
+            "Play Diema XTRA"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Paide Linnameeskond vs Zira",
+        "Services": [
+            "Idman TV HD",
+            "Soccernet TV Estonia"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Flora Tallinn vs The New Saints",
+        "Services": [
+            "Soccernet TV Estonia"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Dila Gori vs Apollon Limassol",
+        "Services": [
+            "Cytavision Sports 4 HD",
+            "Cytavision Sports PPV 4 HD"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "Debrecen vs Pyunik",
+        "Services": [
+            "Arena Sport 1 Slovakia HD",
+            "M4 Sport Hungary HD"
+        ]
+    },
+    {
+        "Date": "2026-07-23",
+        "Time": "23:00",
+        "League": "UEFA Conference League - 2nd Qualifying Round (1st Leg)",
+        "Matchup": "HJK Helsinki vs Coleraine",
+        "Services": [
+            "HJK TV",
+            "NIFL TV",
+            "Solidsport Broadcast"
         ]
     }
 ]
