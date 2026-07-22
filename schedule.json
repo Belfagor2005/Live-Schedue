@@ -1,9 +1,64 @@
 {
-  "updated": "2026-07-22 10:15 VN",
+  "updated": "2026-07-22 15:35 VN",
   "days": {
     "20260722": {
       "date": "Wednesday, 22/07",
       "games": [
+        {
+          "league": "UEFA Champions League",
+          "match": "Omonia Nicosia vs Kairat Almaty",
+          "kick_utc": 1784739600,
+          "time": "23/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 1 BiH HD",
+                "Arena Premium 2 Srbija HD",
+                "Arena Sport 1 Slovakia HD",
+                "Cytavision Sports 1 HD",
+                "QazSport HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Levski Sofia vs Universitatea Craiova",
+          "kick_utc": 1784741400,
+          "time": "23/07 12:30 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Canal 11 Portugal HD",
+                "Diema Sport HD",
+                "Digi Sport 1 Romania HD",
+                "Prima Sport RO 1 HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Champions League",
+          "match": "Egnatia vs Celje",
+          "kick_utc": 1784746800,
+          "time": "23/07 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Kanal A Slovenija HD",
+                "RTSH 1 Albania",
+                "RTSH Sport Albania",
+                "Voyo Player Slovenija"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
         {
           "league": "Tennis",
           "match": "Hamburg Open",
@@ -21,71 +76,9 @@
         },
         {
           "league": "Tennis",
-          "match": "Jan-Lennard Struff vs Alexander Shevchenko",
-          "kick_utc": 1784710800,
-          "time": "22/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Juan Manuel Cerundolo vs Marco Trungelliti",
-          "kick_utc": 1784710800,
-          "time": "22/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Vilius Gaubas vs Pablo Carreno-Busta",
-          "kick_utc": 1784718000,
-          "time": "22/07 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Daniel Altmaier vs Raphael Collignon",
-          "kick_utc": 1784727000,
-          "time": "22/07 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Botic Van De Zandschulp vs Jaime Faria",
-          "kick_utc": 1784734200,
-          "time": "22/07 10:30 PM",
+          "match": "",
+          "kick_utc": 1784736000,
+          "time": "22/07 11:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
