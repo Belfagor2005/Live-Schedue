@@ -1,10 +1,37 @@
 [
   {
+    "competition": "ATP Kitzbuhel",
+    "home": "Sebastian Baez",
+    "away": "Arthur Rinderknech",
+    "vietnam_time": "16:00",
+    "vietnam_date": "23/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
     "competition": "ATP Estoril",
-    "home": "",
-    "away": "",
+    "home": "Hugo Gaston",
+    "away": "Titouan Droguet",
+    "vietnam_time": "18:00",
+    "vietnam_date": "23/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Kitzbuhel",
+    "home": "Tomas Martin Etcheverry",
+    "away": "Jurij Rodionov",
+    "vietnam_time": "19:00",
+    "vietnam_date": "23/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
+    "sport": "Tennis"
+  },
+  {
+    "competition": "ATP Estoril",
+    "home": "Alejandro Tabilo",
+    "away": "Tiago Torres",
     "vietnam_time": "23:00",
-    "vietnam_date": "22/07/2026",
+    "vietnam_date": "23/07/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
@@ -13,7 +40,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "16:00",
-    "vietnam_date": "23/07/2026",
+    "vietnam_date": "24/07/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
@@ -22,7 +49,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "16:00",
-    "vietnam_date": "23/07/2026",
+    "vietnam_date": "24/07/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 3",
     "sport": "Tennis"
   },
@@ -31,7 +58,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "16:00",
-    "vietnam_date": "23/07/2026",
+    "vietnam_date": "24/07/2026",
     "channels": "beIN Sports Connect",
     "sport": "Tennis"
   },
@@ -40,7 +67,7 @@
     "home": "",
     "away": "",
     "vietnam_time": "18:00",
-    "vietnam_date": "23/07/2026",
+    "vietnam_date": "24/07/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   },
@@ -49,17 +76,8 @@
     "home": "",
     "away": "",
     "vietnam_time": "20:00",
-    "vietnam_date": "23/07/2026",
+    "vietnam_date": "24/07/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Estoril",
-    "home": "",
-    "away": "",
-    "vietnam_time": "23:00",
-    "vietnam_date": "23/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 2",
     "sport": "Tennis"
   }
 ]
