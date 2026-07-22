@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22 15:35 VN",
+  "updated": "2026-07-22 21:06 VN",
   "days": {
     "20260722": {
       "date": "Wednesday, 22/07",
@@ -61,21 +61,6 @@
         },
         {
           "league": "Tennis",
-          "match": "Hamburg Open",
-          "kick_utc": 1784710800,
-          "time": "22/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Tennis Channel"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "Tennis",
           "match": "",
           "kick_utc": 1784736000,
           "time": "22/07 11:00 PM",
@@ -85,6 +70,55 @@
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784797200,
+          "time": "23/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 3",
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784804400,
+          "time": "23/07 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 2"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1784811600,
+          "time": "23/07 08:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
               ]
             }
           ],
