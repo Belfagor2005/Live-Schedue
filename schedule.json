@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23 10:22 VN",
+  "updated": "2026-07-23 15:37 VN",
   "days": {
     "20260723": {
       "date": "Thursday, 23/07",
@@ -16,6 +16,183 @@
                 "CBC Sport HD",
                 "Diema Sport HD",
                 "Play Diema XTRA"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Hammarby vs Anderlecht",
+          "kick_utc": 1784826000,
+          "time": "24/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Canal 11 Portugal HD",
+                "RTL Club Belgique",
+                "RTL Play Belgium",
+                "Sport Bladet Play",
+                "VTM 2 Belgium HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Dynamo Kyiv vs PAOK Thessaloniki",
+          "kick_utc": 1784826000,
+          "time": "24/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "2+2 Ukraine",
+                "KS TV | Futbol 1",
+                "Open Beyond TV HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Tromsø vs Hradec Králové",
+          "kick_utc": 1784826000,
+          "time": "24/07 12:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "TV Tipsport Czechia",
+                "VG+ Sport Norge"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "FC Midtjylland vs Beşiktaş",
+          "kick_utc": 1784829600,
+          "time": "24/07 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa Conference League",
+          "match": "Panathinaikos vs Paksi SE",
+          "kick_utc": 1784829600,
+          "time": "24/07 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "St Gallen vs Benfica",
+          "kick_utc": 1784829600,
+          "time": "24/07 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "JOJ Play",
+                "JOJ Šport SVK HD",
+                "OneFootball",
+                "Persiana Sports 2 HD",
+                "Sport TV5 Portugal HD",
+                "SRF Play",
+                "SRF Zwei Schweiz HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Besiktas vs Midtjylland",
+          "kick_utc": 1784829600,
+          "time": "24/07 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Premium 3 Srbija HD",
+                "S Sport+ Streaming",
+                "Solidsport Broadcast",
+                "TV Tipsport Czechia"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Twente vs Ferencváros",
+          "kick_utc": 1784829600,
+          "time": "24/07 01:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN 1 Nederland HD",
+                "KS TV | Futbol 3",
+                "Sport 1 Hungary HD",
+                "Sport TV1 Portugal HD"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Pafos FC vs Hajduk Split",
+          "kick_utc": 1784833200,
+          "time": "24/07 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "ESPN Select",
+                "ESPN Unlimited"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "UEFA Europa League",
+          "match": "Hajduk Split vs Pafos FC",
+          "kick_utc": 1784833200,
+          "time": "24/07 02:00 AM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Arena Sport 1 Slovakia HD",
+                "Cytavision Sports 2 HD",
+                "Cytavision Sports PPV 3 HD",
+                "ESPN+ USA",
+                "Hajduk TV",
+                "MAX Sport PPV"
               ]
             }
           ],
@@ -84,55 +261,7 @@
         },
         {
           "league": "Tennis",
-          "match": "Sebastian Baez vs Arthur Rinderknech",
-          "kick_utc": 1784797200,
-          "time": "23/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Hugo Gaston vs Titouan Droguet",
-          "kick_utc": 1784804400,
-          "time": "23/07 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Tomas Martin Etcheverry vs Jurij Rodionov",
-          "kick_utc": 1784808000,
-          "time": "23/07 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alejandro Tabilo vs Tiago Torres",
+          "match": "",
           "kick_utc": 1784822400,
           "time": "23/07 11:00 PM",
           "tv_channels": [
