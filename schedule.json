@@ -1,78 +1,9 @@
 {
-  "updated": "2026-07-23 21:12 VN",
+  "updated": "2026-07-24 02:25 VN",
   "days": {
     "20260723": {
       "date": "Thursday, 23/07",
       "games": [
-        {
-          "league": "UEFA Europa League",
-          "match": "Qarabagh vs CSKA Sofia",
-          "kick_utc": 1784822400,
-          "time": "23/07 11:00 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "CBC Sport HD",
-                "Diema Sport HD",
-                "Play Diema XTRA"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Hammarby vs Anderlecht",
-          "kick_utc": 1784826000,
-          "time": "24/07 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Canal 11 Portugal HD",
-                "RTL Club Belgique",
-                "RTL Play Belgium",
-                "Sport Bladet Play",
-                "VTM 2 Belgium HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Dynamo Kyiv vs PAOK Thessaloniki",
-          "kick_utc": 1784826000,
-          "time": "24/07 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "2+2 Ukraine",
-                "KS TV | Futbol 1",
-                "Open Beyond TV HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Europa League",
-          "match": "Tromsø vs Hradec Králové",
-          "kick_utc": 1784826000,
-          "time": "24/07 12:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "TV Tipsport Czechia",
-                "VG+ Sport Norge"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "UEFA Europa League",
           "match": "FC Midtjylland vs Beşiktaş",
@@ -136,6 +67,7 @@
               "country": "LiveSportsOnTV",
               "channels": [
                 "Arena Premium 3 Srbija HD",
+                "Persiana Sports 3 HD",
                 "S Sport+ Streaming",
                 "Solidsport Broadcast",
                 "TV Tipsport Czechia"
@@ -200,14 +132,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Austrian Open",
-          "kick_utc": 1784811600,
-          "time": "23/07 08:00 PM",
+          "match": "Hamburg Open",
+          "kick_utc": 1784883600,
+          "time": "24/07 04:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
               "channels": [
-                "Tennis Channel"
+                "Tennis Channel",
+                "DAZN Canada"
               ]
             }
           ],
@@ -216,8 +149,23 @@
         {
           "league": "Tennis",
           "match": "Prague Open",
-          "kick_utc": 1784815200,
-          "time": "23/07 09:00 PM",
+          "kick_utc": 1784883600,
+          "time": "24/07 04:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Hamburg Open",
+          "kick_utc": 1784887200,
+          "time": "24/07 05:00 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
@@ -230,15 +178,45 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784822400,
-          "time": "23/07 11:00 PM",
+          "match": "Austrian Open",
+          "kick_utc": 1784889000,
+          "time": "24/07 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Estoril Open",
+          "kick_utc": 1784890800,
+          "time": "24/07 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Mariano Navone vs Quentin Halys",
+          "kick_utc": 1784883600,
+          "time": "24/07 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
               ]
             }
           ],
@@ -246,14 +224,13 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Nikola Bartunkova vs Lanlana Tararudee",
           "kick_utc": 1784883600,
           "time": "24/07 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "Stan Sport",
                 "beIN SPORTS 3",
                 "beIN Sports Connect"
               ]
@@ -263,15 +240,14 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784889000,
-          "time": "24/07 05:30 PM",
+          "match": "Maiar Sherif Ahmed Abdelaziz vs Elsa Jacquemot",
+          "kick_utc": 1784883600,
+          "time": "24/07 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 1"
+                "beIN Sports Connect"
               ]
             }
           ],
@@ -279,15 +255,15 @@
         },
         {
           "league": "Tennis",
-          "match": "",
+          "match": "Luca van Assche vs Pablo Carreno-Busta",
           "kick_utc": 1784890800,
           "time": "24/07 06:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
+                "beIN SPORTS 2",
+                "beIN Sports Connect"
               ]
             }
           ],
@@ -295,14 +271,30 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784898000,
-          "time": "24/07 08:00 PM",
+          "match": "Alexander Bublik vs Alex Molcan",
+          "kick_utc": 1784899800,
+          "time": "24/07 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 3",
+                "beIN SPORTS 1",
+                "beIN Sports Connect"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Andrey Rublev vs Timofey Skatov",
+          "kick_utc": 1784908800,
+          "time": "24/07 11:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 2",
                 "beIN Sports Connect"
               ]
             }
