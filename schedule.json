@@ -1,45 +1,9 @@
 {
-  "updated": "2026-07-23 02:27 VN",
+  "updated": "2026-07-23 10:22 VN",
   "days": {
-    "20260722": {
-      "date": "Wednesday, 22/07",
+    "20260723": {
+      "date": "Thursday, 23/07",
       "games": [
-        {
-          "league": "UEFA Champions League",
-          "match": "Levski Sofia vs Universitatea Craiova",
-          "kick_utc": 1784741400,
-          "time": "23/07 12:30 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Canal 11 Portugal HD",
-                "Diema Sport HD",
-                "Digi Sport 1 Romania HD",
-                "Prima Sport RO 1 HD"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
-        {
-          "league": "UEFA Champions League",
-          "match": "Egnatia vs Celje",
-          "kick_utc": 1784746800,
-          "time": "23/07 02:00 AM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "Kanal A Slovenija HD",
-                "RTSH 1 Albania",
-                "RTSH Sport Albania",
-                "Voyo Player Slovenija"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
-        },
         {
           "league": "UEFA Europa League",
           "match": "Qarabagh vs CSKA Sofia",
