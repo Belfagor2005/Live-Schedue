@@ -1,14 +1,45 @@
 {
-  "updated": "2026-07-24 20:55 VN",
+  "updated": "2026-07-25 02:36 VN",
   "days": {
     "20260724": {
       "date": "Friday, 24/07",
       "games": [
         {
           "league": "Tennis",
+          "match": "Prague Open",
+          "kick_utc": 1784979000,
+          "time": "25/07 06:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Hamburg Open",
+          "kick_utc": 1784980800,
+          "time": "25/07 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel",
+                "DAZN Canada"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
           "match": "Austrian Open",
-          "kick_utc": 1784896200,
-          "time": "24/07 07:30 PM",
+          "kick_utc": 1784982600,
+          "time": "25/07 07:30 PM",
           "tv_channels": [
             {
               "country": "LiveSportsOnTV",
@@ -21,13 +52,77 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784908800,
-          "time": "24/07 11:00 PM",
+          "match": "Hamburg Open",
+          "kick_utc": 1784986200,
+          "time": "25/07 08:30 PM",
+          "tv_channels": [
+            {
+              "country": "LiveSportsOnTV",
+              "channels": [
+                "Tennis Channel"
+              ]
+            }
+          ],
+          "source": "livesportsontv"
+        },
+        {
+          "league": "Tennis",
+          "match": "Anna Bondar vs Alina Charaeva",
+          "kick_utc": 1784970000,
+          "time": "25/07 04:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
+                "beIN Sports Connect",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Yannick Hanfmann vs Quentin Halys",
+          "kick_utc": 1784975400,
+          "time": "25/07 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Marie Bouzkova vs Tereza Valentova",
+          "kick_utc": 1784975400,
+          "time": "25/07 05:30 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "beIN SPORTS 3"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "Tiago Torres vs Hugo Gaston",
+          "kick_utc": 1784977200,
+          "time": "25/07 06:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
                 "beIN SPORTS 2"
               ]
             }
@@ -36,14 +131,13 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784977200,
-          "time": "25/07 06:00 PM",
+          "match": "Oleksandra Oliynykova vs Elina Avanesyan",
+          "kick_utc": 1784980800,
+          "time": "25/07 07:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 1",
                 "beIN Sports Connect"
               ]
             }
@@ -52,31 +146,15 @@
         },
         {
           "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784979000,
-          "time": "25/07 06:30 PM",
+          "match": "Dominika Salkova vs Barbora Krejcikova",
+          "kick_utc": 1784986200,
+          "time": "25/07 08:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN Sports Connect",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "",
-          "kick_utc": 1784980800,
-          "time": "25/07 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
+                "beIN SPORTS 3"
               ]
             }
           ],
