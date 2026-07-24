@@ -1,7 +1,25 @@
 [
     {
         "Date": "2026-07-24",
-        "Time": "16:00",
+        "Time": "19:30",
+        "League": "Tennis (ATP)",
+        "Matchup": "Austrian Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-25",
+        "Time": "18:30",
+        "League": "Tennis (WTA)",
+        "Matchup": "Prague Open",
+        "Services": [
+            "DAZN Canada"
+        ]
+    },
+    {
+        "Date": "2026-07-25",
+        "Time": "19:00",
         "League": "Tennis (WTA)",
         "Matchup": "Hamburg Open",
         "Services": [
@@ -10,46 +28,19 @@
         ]
     },
     {
-        "Date": "2026-07-24",
-        "Time": "16:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Prague Open",
-        "Services": [
-            "DAZN Canada"
-        ]
-    },
-    {
-        "Date": "2026-07-24",
-        "Time": "17:00",
-        "League": "Tennis (WTA)",
-        "Matchup": "Hamburg Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-24",
-        "Time": "17:30",
-        "League": "Tennis (ATP)",
-        "Matchup": "Austrian Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-24",
-        "Time": "18:00",
-        "League": "Tennis (ATP)",
-        "Matchup": "Estoril Open",
-        "Services": [
-            "Tennis Channel"
-        ]
-    },
-    {
-        "Date": "2026-07-24",
+        "Date": "2026-07-25",
         "Time": "19:30",
         "League": "Tennis (ATP)",
         "Matchup": "Austrian Open",
+        "Services": [
+            "Tennis Channel"
+        ]
+    },
+    {
+        "Date": "2026-07-25",
+        "Time": "20:30",
+        "League": "Tennis (WTA)",
+        "Matchup": "Hamburg Open",
         "Services": [
             "Tennis Channel"
         ]
