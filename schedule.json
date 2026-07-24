@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24 10:16 VN",
+  "updated": "2026-07-24 15:33 VN",
   "days": {
     "20260724": {
       "date": "Friday, 24/07",
@@ -82,94 +82,29 @@
         },
         {
           "league": "Tennis",
-          "match": "Mariano Navone vs Quentin Halys",
-          "kick_utc": 1784883600,
-          "time": "24/07 04:00 PM",
+          "match": "Austrian Open",
+          "kick_utc": 1784896200,
+          "time": "24/07 07:30 PM",
           "tv_channels": [
             {
-              "country": "Ausport",
+              "country": "LiveSportsOnTV",
               "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
+                "Tennis Channel"
               ]
             }
           ],
-          "source": "ausport"
+          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
-          "match": "Nikola Bartunkova vs Lanlana Tararudee",
-          "kick_utc": 1784883600,
-          "time": "24/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 3",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Maiar Sherif Ahmed Abdelaziz vs Elsa Jacquemot",
-          "kick_utc": 1784883600,
-          "time": "24/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Luca van Assche vs Pablo Carreno-Busta",
-          "kick_utc": 1784890800,
-          "time": "24/07 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Alexander Bublik vs Alex Molcan",
-          "kick_utc": 1784899800,
-          "time": "24/07 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN SPORTS 1",
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Andrey Rublev vs Timofey Skatov",
+          "match": "",
           "kick_utc": 1784908800,
           "time": "24/07 11:00 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
-                "beIN SPORTS 2",
-                "beIN Sports Connect"
+                "beIN SPORTS 2"
               ]
             }
           ],
