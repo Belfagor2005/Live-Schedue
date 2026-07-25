@@ -1,56 +1,47 @@
 [
   {
-    "competition": "WTA Hamburg",
-    "home": "Anna Bondar",
-    "away": "Alina Charaeva",
-    "vietnam_time": "16:00",
-    "vietnam_date": "25/07/2026",
-    "channels": "beIN Sports Connect | Stan Sport",
-    "sport": "Tennis"
-  },
-  {
-    "competition": "ATP Kitzbuhel",
-    "home": "Yannick Hanfmann",
-    "away": "Quentin Halys",
-    "vietnam_time": "17:30",
+    "competition": "ATP Estoril",
+    "home": "",
+    "away": "",
+    "vietnam_time": "23:30",
     "vietnam_date": "25/07/2026",
     "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
-    "competition": "WTA Prague",
-    "home": "Marie Bouzkova",
-    "away": "Tereza Valentova",
-    "vietnam_time": "17:30",
-    "vietnam_date": "25/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 3",
-    "sport": "Tennis"
+    "competition": "Premier League Summer Series",
+    "home": "Liverpool",
+    "away": "Sunderland",
+    "vietnam_time": "05:00",
+    "vietnam_date": "26/07/2026",
+    "channels": "beIN Sports Connect | Stan Sport",
+    "sport": "Soccer"
   },
   {
-    "competition": "ATP Estoril",
-    "home": "Tiago Torres",
-    "away": "Hugo Gaston",
-    "vietnam_time": "18:00",
-    "vietnam_date": "25/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 2",
+    "competition": "WTA Prague",
+    "home": "",
+    "away": "",
+    "vietnam_time": "19:00",
+    "vietnam_date": "26/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   },
   {
     "competition": "WTA Hamburg",
-    "home": "Oleksandra Oliynykova",
-    "away": "Elina Avanesyan",
+    "home": "",
+    "away": "",
     "vietnam_time": "19:00",
-    "vietnam_date": "25/07/2026",
-    "channels": "beIN Sports Connect",
+    "vietnam_date": "26/07/2026",
+    "channels": "beIN Sports Connect | Stan Sport",
     "sport": "Tennis"
   },
   {
-    "competition": "WTA Prague",
-    "home": "Dominika Salkova",
-    "away": "Barbora Krejcikova",
-    "vietnam_time": "20:30",
-    "vietnam_date": "25/07/2026",
-    "channels": "beIN Sports Connect | beIN SPORTS 3",
+    "competition": "ATP Estoril",
+    "home": "",
+    "away": "",
+    "vietnam_time": "23:30",
+    "vietnam_date": "26/07/2026",
+    "channels": "beIN Sports Connect | beIN SPORTS 1",
     "sport": "Tennis"
   }
 ]
