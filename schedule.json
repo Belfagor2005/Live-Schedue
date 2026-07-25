@@ -1,9 +1,25 @@
 {
-  "updated": "2026-07-25 10:14 VN",
+  "updated": "2026-07-25 15:12 VN",
   "days": {
     "20260725": {
       "date": "Saturday, 25/07",
       "games": [
+        {
+          "league": "Premier League",
+          "match": "Liverpool vs Sunderland",
+          "kick_utc": 1785016800,
+          "time": "26/07 05:00 AM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN Sports Connect",
+                "Stan Sport"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
         {
           "league": "Tennis",
           "match": "Prague Open",
@@ -67,94 +83,15 @@
         },
         {
           "league": "Tennis",
-          "match": "Anna Bondar vs Alina Charaeva",
-          "kick_utc": 1784970000,
-          "time": "25/07 04:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "Stan Sport"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Yannick Hanfmann vs Quentin Halys",
-          "kick_utc": 1784975400,
-          "time": "25/07 05:30 PM",
+          "match": "",
+          "kick_utc": 1784997000,
+          "time": "25/07 11:30 PM",
           "tv_channels": [
             {
               "country": "Ausport",
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 1"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Marie Bouzkova vs Tereza Valentova",
-          "kick_utc": 1784975400,
-          "time": "25/07 05:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Tiago Torres vs Hugo Gaston",
-          "kick_utc": 1784977200,
-          "time": "25/07 06:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 2"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Oleksandra Oliynykova vs Elina Avanesyan",
-          "kick_utc": 1784980800,
-          "time": "25/07 07:00 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect"
-              ]
-            }
-          ],
-          "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Dominika Salkova vs Barbora Krejcikova",
-          "kick_utc": 1784986200,
-          "time": "25/07 08:30 PM",
-          "tv_channels": [
-            {
-              "country": "Ausport",
-              "channels": [
-                "beIN Sports Connect",
-                "beIN SPORTS 3"
               ]
             }
           ],
