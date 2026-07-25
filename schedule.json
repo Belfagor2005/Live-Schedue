@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25 15:12 VN",
+  "updated": "2026-07-25 20:44 VN",
   "days": {
     "20260725": {
       "date": "Saturday, 25/07",
@@ -19,21 +19,6 @@
             }
           ],
           "source": "ausport"
-        },
-        {
-          "league": "Tennis",
-          "match": "Prague Open",
-          "kick_utc": 1784979000,
-          "time": "25/07 06:30 PM",
-          "tv_channels": [
-            {
-              "country": "LiveSportsOnTV",
-              "channels": [
-                "DAZN Canada"
-              ]
-            }
-          ],
-          "source": "livesportsontv"
         },
         {
           "league": "Tennis",
@@ -92,6 +77,23 @@
               "channels": [
                 "beIN Sports Connect",
                 "beIN SPORTS 1"
+              ]
+            }
+          ],
+          "source": "ausport"
+        },
+        {
+          "league": "Tennis",
+          "match": "",
+          "kick_utc": 1785067200,
+          "time": "26/07 07:00 PM",
+          "tv_channels": [
+            {
+              "country": "Ausport",
+              "channels": [
+                "beIN SPORTS 1",
+                "beIN Sports Connect",
+                "Stan Sport"
               ]
             }
           ],
